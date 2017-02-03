@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1AB3" format="2">
+  <unicode hex="1AB3"/>
+  <anchor x="0" y="537" name="_top"/>
+  <anchor x="0" y="844" name="top"/>
+  <outline>
+    <contour>
+      <point x="-12" y="592" type="curve"/>
+      <point x="11" y="592" type="line"/>
+      <point x="41" y="629"/>
+      <point x="88" y="665"/>
+      <point x="152" y="697" type="curve"/>
+      <point x="152" y="735" type="line"/>
+      <point x="108" y="725"/>
+      <point x="63" y="707"/>
+      <point x="31" y="693" type="curve"/>
+      <point x="31" y="844" type="line"/>
+      <point x="-32" y="844" type="line"/>
+      <point x="-32" y="693" type="line"/>
+      <point x="-61" y="706"/>
+      <point x="-106" y="724"/>
+      <point x="-153" y="735" type="curve"/>
+      <point x="-153" y="697" type="line"/>
+      <point x="-89" y="665"/>
+      <point x="-42" y="629"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10066" format="2">
+  <advance width="800"/>
+  <unicode hex="0431"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="762" name="top"/>
+  <outline>
+    <contour>
+      <point x="404" y="-10" type="curve" smooth="yes"/>
+      <point x="639" y="-10"/>
+      <point x="727" y="103"/>
+      <point x="727" y="250" type="curve" smooth="yes"/>
+      <point x="727" y="411"/>
+      <point x="618" y="491"/>
+      <point x="423" y="491" type="curve" smooth="yes"/>
+      <point x="282" y="491"/>
+      <point x="162" y="444"/>
+      <point x="102" y="362" type="curve"/>
+      <point x="99" y="362" type="line"/>
+      <point x="108" y="493"/>
+      <point x="158" y="590"/>
+      <point x="225" y="641" type="curve" smooth="yes"/>
+      <point x="296" y="695"/>
+      <point x="421" y="719"/>
+      <point x="689" y="738" type="curve"/>
+      <point x="686" y="762" type="line"/>
+      <point x="436" y="745"/>
+      <point x="284" y="720"/>
+      <point x="198" y="657" type="curve" smooth="yes"/>
+      <point x="124" y="603"/>
+      <point x="73" y="496"/>
+      <point x="73" y="317" type="curve" smooth="yes"/>
+      <point x="73" y="151"/>
+      <point x="142" y="-10"/>
+    </contour>
+    <contour>
+      <point x="406" y="15" type="curve" smooth="yes"/>
+      <point x="163" y="15"/>
+      <point x="101" y="169"/>
+      <point x="101" y="323" type="curve"/>
+      <point x="185" y="422"/>
+      <point x="285" y="466"/>
+      <point x="424" y="466" type="curve" smooth="yes"/>
+      <point x="596" y="466"/>
+      <point x="699" y="396"/>
+      <point x="699" y="250" type="curve" smooth="yes"/>
+      <point x="699" y="117"/>
+      <point x="619" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

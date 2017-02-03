@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDA" format="2">
+  <advance width="300"/>
+  <unicode hex="1FDA"/>
+  <anchor x="189" y="0" name="bottom"/>
+  <anchor x="189" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="55" type="line"/>
+      <point x="223" y="65" type="line"/>
+      <point x="223" y="649" type="line"/>
+      <point x="277" y="659" type="line"/>
+      <point x="277" y="714" type="line"/>
+      <point x="98" y="714" type="line"/>
+      <point x="98" y="659" type="line"/>
+      <point x="154" y="649" type="line"/>
+      <point x="154" y="65" type="line"/>
+      <point x="98" y="55" type="line"/>
+    </contour>
+    <component base="uni1FEF" xOffset="-72" yOffset="-53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

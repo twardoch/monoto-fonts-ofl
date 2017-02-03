@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftdoubleparenthesis" format="2">
+  <advance width="500"/>
+  <unicode hex="2E28"/>
+  <outline>
+    <component base="parenleft" xOffset="85"/>
+    <component base="parenleft" xOffset="-122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

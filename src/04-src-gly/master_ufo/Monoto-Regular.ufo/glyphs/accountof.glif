@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="accountof" format="2">
+  <advance width="500"/>
+  <unicode hex="2100"/>
+  <outline>
+    <contour>
+      <point x="424" y="-15" type="curve" smooth="yes"/>
+      <point x="452" y="-15"/>
+      <point x="476" y="-9"/>
+      <point x="494" y="6" type="curve"/>
+      <point x="494" y="61" type="line"/>
+      <point x="473" y="47"/>
+      <point x="450" y="40"/>
+      <point x="428" y="40" type="curve" smooth="yes"/>
+      <point x="371" y="40"/>
+      <point x="343" y="83"/>
+      <point x="343" y="154" type="curve" smooth="yes"/>
+      <point x="343" y="229"/>
+      <point x="374" y="272"/>
+      <point x="429" y="272" type="curve" smooth="yes"/>
+      <point x="446" y="272"/>
+      <point x="463" y="268"/>
+      <point x="484" y="257" type="curve"/>
+      <point x="500" y="306" type="line"/>
+      <point x="478" y="319"/>
+      <point x="455" y="325"/>
+      <point x="427" y="325" type="curve" smooth="yes"/>
+      <point x="340" y="325"/>
+      <point x="282" y="265"/>
+      <point x="282" y="153" type="curve" smooth="yes"/>
+      <point x="282" y="46"/>
+      <point x="335" y="-15"/>
+    </contour>
+    <component base="ordfeminine"/>
+    <component base="fraction"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

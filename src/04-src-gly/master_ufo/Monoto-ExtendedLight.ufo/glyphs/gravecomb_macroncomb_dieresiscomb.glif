@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb_macroncomb_dieresiscomb" format="2">
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="0" y="943" name="top"/>
+  <outline>
+    <contour>
+      <point x="-180" y="751" type="line"/>
+      <point x="180" y="751" type="line"/>
+      <point x="180" y="775" type="line"/>
+      <point x="-180" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="-135" y="622" type="curve" smooth="yes"/>
+      <point x="-104" y="622"/>
+      <point x="-103" y="636"/>
+      <point x="-103" y="653" type="curve" smooth="yes"/>
+      <point x="-103" y="669"/>
+      <point x="-104" y="684"/>
+      <point x="-135" y="684" type="curve" smooth="yes"/>
+      <point x="-159" y="684"/>
+      <point x="-164" y="669"/>
+      <point x="-164" y="653" type="curve" smooth="yes"/>
+      <point x="-164" y="636"/>
+      <point x="-159" y="622"/>
+    </contour>
+    <contour>
+      <point x="130" y="622" type="curve" smooth="yes"/>
+      <point x="161" y="622"/>
+      <point x="162" y="636"/>
+      <point x="162" y="653" type="curve" smooth="yes"/>
+      <point x="162" y="669"/>
+      <point x="161" y="684"/>
+      <point x="130" y="684" type="curve" smooth="yes"/>
+      <point x="105" y="684"/>
+      <point x="101" y="669"/>
+      <point x="101" y="653" type="curve" smooth="yes"/>
+      <point x="101" y="636"/>
+      <point x="105" y="622"/>
+    </contour>
+    <contour>
+      <point x="14" y="834" type="curve"/>
+      <point x="34" y="834" type="line"/>
+      <point x="34" y="844" type="line"/>
+      <point x="-6" y="867"/>
+      <point x="-68" y="914"/>
+      <point x="-88" y="943" type="curve"/>
+      <point x="-138" y="943" type="line"/>
+      <point x="-138" y="935" type="line"/>
+      <point x="-109" y="907"/>
+      <point x="-49" y="864"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

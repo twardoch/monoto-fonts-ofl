@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="2">
+  <advance width="500"/>
+  <unicode hex="039E"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="475" y="132" type="line"/>
+      <point x="25" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="309" type="line"/>
+      <point x="431" y="309" type="line"/>
+      <point x="431" y="439" type="line"/>
+      <point x="69" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="584" type="line"/>
+      <point x="460" y="584" type="line"/>
+      <point x="460" y="714" type="line"/>
+      <point x="39" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="574" name="top"/>
+  <anchor x="801" y="574" name="topright"/>
+  <outline>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="238" type="line"/>
+      <point x="137" y="330"/>
+      <point x="135" y="408"/>
+      <point x="127" y="488" type="curve"/>
+      <point x="131" y="488" type="line"/>
+      <point x="353" y="176" type="line"/>
+      <point x="445" y="176" type="line"/>
+      <point x="666" y="487" type="line"/>
+      <point x="671" y="487" type="line"/>
+      <point x="664" y="410"/>
+      <point x="663" y="323"/>
+      <point x="663" y="244" type="curve"/>
+      <point x="663" y="0" type="line"/>
+      <point x="754" y="0" type="line"/>
+      <point x="754" y="574" type="line"/>
+      <point x="615" y="574" type="line"/>
+      <point x="401" y="296" type="line"/>
+      <point x="397" y="296" type="line"/>
+      <point x="182" y="574" type="line"/>
+      <point x="46" y="574" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

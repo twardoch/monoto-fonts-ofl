@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="800"/>
+  <unicode hex="0049"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="524" y="10" name="ogonek"/>
+  <anchor x="399" y="714" name="top"/>
+  <anchor x="-2" y="714" name="topleft"/>
+  <anchor x="801" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="705" y="139" type="line"/>
+      <point x="496" y="156" type="line"/>
+      <point x="496" y="558" type="line"/>
+      <point x="705" y="575" type="line"/>
+      <point x="705" y="714" type="line"/>
+      <point x="94" y="714" type="line"/>
+      <point x="94" y="575" type="line"/>
+      <point x="301" y="558" type="line"/>
+      <point x="301" y="156" type="line"/>
+      <point x="94" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>264</integer>
+          <key>y</key>
+          <integer>368</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

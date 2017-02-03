@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04E8" format="2">
+  <advance width="300"/>
+  <unicode hex="04E8"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="714" name="top"/>
+  <anchor x="32" y="714" name="topleft"/>
+  <anchor x="169" y="10" name="ogonek"/>
+  <anchor x="160" y="357" name="center"/>
+  <anchor x="300" y="714" name="topright"/>
+  <outline>
+    <component base="uni0472"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

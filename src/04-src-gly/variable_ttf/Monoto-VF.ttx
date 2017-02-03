@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.6">
+
+  <fvar>
+
+    <!-- Width -->
+    <Axis>
+      <AxisTag>wdth</AxisTag>
+      <MinValue>60.0</MinValue>
+      <DefaultValue>100.0</DefaultValue>
+      <MaxValue>160.0</MaxValue>
+      <AxisNameID>256</AxisNameID>
+    </Axis>
+
+    <!-- Weight -->
+    <Axis>
+      <AxisTag>wght</AxisTag>
+      <MinValue>26.0</MinValue>
+      <DefaultValue>90.0</DefaultValue>
+      <MaxValue>190.0</MaxValue>
+      <AxisNameID>257</AxisNameID>
+    </Axis>
+
+    <!-- 1 UlCd 100 Th -->
+    <NamedInstance subfamilyNameID="258">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 200 ExLt -->
+    <NamedInstance subfamilyNameID="259">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 300 Lt -->
+    <NamedInstance subfamilyNameID="260">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 400 Rg -->
+    <NamedInstance subfamilyNameID="261">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 500 Md -->
+    <NamedInstance subfamilyNameID="262">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 600 SmBd -->
+    <NamedInstance subfamilyNameID="263">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 700 Bd -->
+    <NamedInstance subfamilyNameID="264">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 800 ExBd -->
+    <NamedInstance subfamilyNameID="265">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 1 UlCd 900 Blk -->
+    <NamedInstance subfamilyNameID="266">
+      <coord axis="wdth" value="60.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 100 Th -->
+    <NamedInstance subfamilyNameID="267">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 200 ExLt -->
+    <NamedInstance subfamilyNameID="268">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 300 Lt -->
+    <NamedInstance subfamilyNameID="269">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 400 Rg -->
+    <NamedInstance subfamilyNameID="270">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 500 Md -->
+    <NamedInstance subfamilyNameID="271">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 600 SmBd -->
+    <NamedInstance subfamilyNameID="272">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 700 Bd -->
+    <NamedInstance subfamilyNameID="273">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 800 ExBd -->
+    <NamedInstance subfamilyNameID="274">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 2 ExCd 900 Blk -->
+    <NamedInstance subfamilyNameID="275">
+      <coord axis="wdth" value="67.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 100 Th -->
+    <NamedInstance subfamilyNameID="276">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 200 ExLt -->
+    <NamedInstance subfamilyNameID="277">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 300 Lt -->
+    <NamedInstance subfamilyNameID="278">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 400 Rg -->
+    <NamedInstance subfamilyNameID="279">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 500 Md -->
+    <NamedInstance subfamilyNameID="280">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 600 SmBd -->
+    <NamedInstance subfamilyNameID="281">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 700 Bd -->
+    <NamedInstance subfamilyNameID="282">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 800 ExBd -->
+    <NamedInstance subfamilyNameID="283">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 3 Cd 900 Blk -->
+    <NamedInstance subfamilyNameID="284">
+      <coord axis="wdth" value="80.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 100 Th -->
+    <NamedInstance subfamilyNameID="285">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 200 ExLt -->
+    <NamedInstance subfamilyNameID="286">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 300 Lt -->
+    <NamedInstance subfamilyNameID="287">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 400 Rg -->
+    <NamedInstance subfamilyNameID="288">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 500 Md -->
+    <NamedInstance subfamilyNameID="289">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 600 SmBd -->
+    <NamedInstance subfamilyNameID="290">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 700 Bd -->
+    <NamedInstance subfamilyNameID="291">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 800 ExBd -->
+    <NamedInstance subfamilyNameID="292">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 4 SmCd 900 Blk -->
+    <NamedInstance subfamilyNameID="293">
+      <coord axis="wdth" value="90.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 100 Th -->
+    <NamedInstance subfamilyNameID="294">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 200 ExLt -->
+    <NamedInstance subfamilyNameID="295">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 300 Lt -->
+    <NamedInstance subfamilyNameID="296">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 400 Rg -->
+    <NamedInstance subfamilyNameID="297">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 500 Md -->
+    <NamedInstance subfamilyNameID="298">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 600 SmBd -->
+    <NamedInstance subfamilyNameID="299">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 700 Bd -->
+    <NamedInstance subfamilyNameID="300">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 800 ExBd -->
+    <NamedInstance subfamilyNameID="301">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 5 No 900 Blk -->
+    <NamedInstance subfamilyNameID="302">
+      <coord axis="wdth" value="100.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 100 Th -->
+    <NamedInstance subfamilyNameID="303">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 200 ExLt -->
+    <NamedInstance subfamilyNameID="304">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 300 Lt -->
+    <NamedInstance subfamilyNameID="305">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 400 Rg -->
+    <NamedInstance subfamilyNameID="306">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 500 Md -->
+    <NamedInstance subfamilyNameID="307">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 600 SmBd -->
+    <NamedInstance subfamilyNameID="308">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 700 Bd -->
+    <NamedInstance subfamilyNameID="309">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 800 ExBd -->
+    <NamedInstance subfamilyNameID="310">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 6 SmWd 900 Blk -->
+    <NamedInstance subfamilyNameID="311">
+      <coord axis="wdth" value="120.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 100 Th -->
+    <NamedInstance subfamilyNameID="312">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 200 ExLt -->
+    <NamedInstance subfamilyNameID="313">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 300 Lt -->
+    <NamedInstance subfamilyNameID="314">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 400 Rg -->
+    <NamedInstance subfamilyNameID="315">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 500 Md -->
+    <NamedInstance subfamilyNameID="316">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 600 SmBd -->
+    <NamedInstance subfamilyNameID="317">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 700 Bd -->
+    <NamedInstance subfamilyNameID="318">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 800 ExBd -->
+    <NamedInstance subfamilyNameID="319">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 7 Wd 900 Blk -->
+    <NamedInstance subfamilyNameID="320">
+      <coord axis="wdth" value="133.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 100 Th -->
+    <NamedInstance subfamilyNameID="321">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 200 ExLt -->
+    <NamedInstance subfamilyNameID="322">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 300 Lt -->
+    <NamedInstance subfamilyNameID="323">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 400 Rg -->
+    <NamedInstance subfamilyNameID="324">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 500 Md -->
+    <NamedInstance subfamilyNameID="325">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 600 SmBd -->
+    <NamedInstance subfamilyNameID="326">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 700 Bd -->
+    <NamedInstance subfamilyNameID="327">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 800 ExBd -->
+    <NamedInstance subfamilyNameID="328">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 8 ExWd 900 Blk -->
+    <NamedInstance subfamilyNameID="329">
+      <coord axis="wdth" value="147.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 100 Th -->
+    <NamedInstance subfamilyNameID="330">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="26.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 200 ExLt -->
+    <NamedInstance subfamilyNameID="331">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="42.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 300 Lt -->
+    <NamedInstance subfamilyNameID="332">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="66.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 400 Rg -->
+    <NamedInstance subfamilyNameID="333">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="90.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 500 Md -->
+    <NamedInstance subfamilyNameID="334">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="105.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 600 SmBd -->
+    <NamedInstance subfamilyNameID="335">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="121.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 700 Bd -->
+    <NamedInstance subfamilyNameID="336">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="141.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 800 ExBd -->
+    <NamedInstance subfamilyNameID="337">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="164.0"/>
+    </NamedInstance>
+
+    <!-- 9 UlWd 900 Blk -->
+    <NamedInstance subfamilyNameID="338">
+      <coord axis="wdth" value="160.0"/>
+      <coord axis="wght" value="190.0"/>
+    </NamedInstance>
+  </fvar>
+
+  <name>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Width
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Weight
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 100 Th
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 300 Lt
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 400 Rg
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 500 Md
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="264" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 700 Bd
+    </namerecord>
+    <namerecord nameID="265" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="266" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1 UlCd 900 Blk
+    </namerecord>
+    <namerecord nameID="267" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 100 Th
+    </namerecord>
+    <namerecord nameID="268" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="269" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 300 Lt
+    </namerecord>
+    <namerecord nameID="270" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 400 Rg
+    </namerecord>
+    <namerecord nameID="271" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 500 Md
+    </namerecord>
+    <namerecord nameID="272" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="273" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 700 Bd
+    </namerecord>
+    <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      2 ExCd 900 Blk
+    </namerecord>
+    <namerecord nameID="276" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 100 Th
+    </namerecord>
+    <namerecord nameID="277" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 200 ExLt
+    </namerecord>
+    <namerecord nameID="278" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 300 Lt
+    </namerecord>
+    <namerecord nameID="279" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 400 Rg
+    </namerecord>
+    <namerecord nameID="280" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 500 Md
+    </namerecord>
+    <namerecord nameID="281" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 600 SmBd
+    </namerecord>
+    <namerecord nameID="282" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 700 Bd
+    </namerecord>
+    <namerecord nameID="283" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 800 ExBd
+    </namerecord>
+    <namerecord nameID="284" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      3 Cd 900 Blk
+    </namerecord>
+    <namerecord nameID="285" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 100 Th
+    </namerecord>
+    <namerecord nameID="286" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="287" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 300 Lt
+    </namerecord>
+    <namerecord nameID="288" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 400 Rg
+    </namerecord>
+    <namerecord nameID="289" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 500 Md
+    </namerecord>
+    <namerecord nameID="290" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="291" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 700 Bd
+    </namerecord>
+    <namerecord nameID="292" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="293" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      4 SmCd 900 Blk
+    </namerecord>
+    <namerecord nameID="294" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 100 Th
+    </namerecord>
+    <namerecord nameID="295" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 200 ExLt
+    </namerecord>
+    <namerecord nameID="296" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 300 Lt
+    </namerecord>
+    <namerecord nameID="297" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 400 Rg
+    </namerecord>
+    <namerecord nameID="298" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 500 Md
+    </namerecord>
+    <namerecord nameID="299" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 600 SmBd
+    </namerecord>
+    <namerecord nameID="300" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 700 Bd
+    </namerecord>
+    <namerecord nameID="301" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 800 ExBd
+    </namerecord>
+    <namerecord nameID="302" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5 No 900 Blk
+    </namerecord>
+    <namerecord nameID="303" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 100 Th
+    </namerecord>
+    <namerecord nameID="304" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="305" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 300 Lt
+    </namerecord>
+    <namerecord nameID="306" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 400 Rg
+    </namerecord>
+    <namerecord nameID="307" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 500 Md
+    </namerecord>
+    <namerecord nameID="308" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="309" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 700 Bd
+    </namerecord>
+    <namerecord nameID="310" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="311" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      6 SmWd 900 Blk
+    </namerecord>
+    <namerecord nameID="312" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 100 Th
+    </namerecord>
+    <namerecord nameID="313" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 200 ExLt
+    </namerecord>
+    <namerecord nameID="314" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 300 Lt
+    </namerecord>
+    <namerecord nameID="315" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 400 Rg
+    </namerecord>
+    <namerecord nameID="316" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 500 Md
+    </namerecord>
+    <namerecord nameID="317" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 600 SmBd
+    </namerecord>
+    <namerecord nameID="318" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 700 Bd
+    </namerecord>
+    <namerecord nameID="319" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 800 ExBd
+    </namerecord>
+    <namerecord nameID="320" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      7 Wd 900 Blk
+    </namerecord>
+    <namerecord nameID="321" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 100 Th
+    </namerecord>
+    <namerecord nameID="322" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="323" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 300 Lt
+    </namerecord>
+    <namerecord nameID="324" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 400 Rg
+    </namerecord>
+    <namerecord nameID="325" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 500 Md
+    </namerecord>
+    <namerecord nameID="326" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="327" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 700 Bd
+    </namerecord>
+    <namerecord nameID="328" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="329" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      8 ExWd 900 Blk
+    </namerecord>
+    <namerecord nameID="330" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 100 Th
+    </namerecord>
+    <namerecord nameID="331" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="332" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 300 Lt
+    </namerecord>
+    <namerecord nameID="333" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 400 Rg
+    </namerecord>
+    <namerecord nameID="334" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 500 Md
+    </namerecord>
+    <namerecord nameID="335" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="336" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 700 Bd
+    </namerecord>
+    <namerecord nameID="337" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="338" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      9 UlWd 900 Blk
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright 2017 Adam Twardoch. Based on Noto Sans Mono: Copyright 2015 Google Inc. All Rights Reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Monoto VF
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Version 202.901;ADAM;Monoto VF Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Monoto VF
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 202.901
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      MonotoVF-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Noto is a trademark of Google Inc.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Adam Twardoch
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Monotype Design Team
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Designed by Monotype design team.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://twardoch.github.io/monoto-fonts-ofl/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.monotype.com/studio
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="256" platformID="3" platEncID="1" langID="0x409">
+      Width
+    </namerecord>
+    <namerecord nameID="257" platformID="3" platEncID="1" langID="0x409">
+      Weight
+    </namerecord>
+    <namerecord nameID="258" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 100 Th
+    </namerecord>
+    <namerecord nameID="259" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="260" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 300 Lt
+    </namerecord>
+    <namerecord nameID="261" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 400 Rg
+    </namerecord>
+    <namerecord nameID="262" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 500 Md
+    </namerecord>
+    <namerecord nameID="263" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="264" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 700 Bd
+    </namerecord>
+    <namerecord nameID="265" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="266" platformID="3" platEncID="1" langID="0x409">
+      1 UlCd 900 Blk
+    </namerecord>
+    <namerecord nameID="267" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 100 Th
+    </namerecord>
+    <namerecord nameID="268" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="269" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 300 Lt
+    </namerecord>
+    <namerecord nameID="270" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 400 Rg
+    </namerecord>
+    <namerecord nameID="271" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 500 Md
+    </namerecord>
+    <namerecord nameID="272" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="273" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 700 Bd
+    </namerecord>
+    <namerecord nameID="274" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="275" platformID="3" platEncID="1" langID="0x409">
+      2 ExCd 900 Blk
+    </namerecord>
+    <namerecord nameID="276" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 100 Th
+    </namerecord>
+    <namerecord nameID="277" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 200 ExLt
+    </namerecord>
+    <namerecord nameID="278" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 300 Lt
+    </namerecord>
+    <namerecord nameID="279" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 400 Rg
+    </namerecord>
+    <namerecord nameID="280" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 500 Md
+    </namerecord>
+    <namerecord nameID="281" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 600 SmBd
+    </namerecord>
+    <namerecord nameID="282" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 700 Bd
+    </namerecord>
+    <namerecord nameID="283" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 800 ExBd
+    </namerecord>
+    <namerecord nameID="284" platformID="3" platEncID="1" langID="0x409">
+      3 Cd 900 Blk
+    </namerecord>
+    <namerecord nameID="285" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 100 Th
+    </namerecord>
+    <namerecord nameID="286" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 200 ExLt
+    </namerecord>
+    <namerecord nameID="287" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 300 Lt
+    </namerecord>
+    <namerecord nameID="288" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 400 Rg
+    </namerecord>
+    <namerecord nameID="289" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 500 Md
+    </namerecord>
+    <namerecord nameID="290" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 600 SmBd
+    </namerecord>
+    <namerecord nameID="291" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 700 Bd
+    </namerecord>
+    <namerecord nameID="292" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 800 ExBd
+    </namerecord>
+    <namerecord nameID="293" platformID="3" platEncID="1" langID="0x409">
+      4 SmCd 900 Blk
+    </namerecord>
+    <namerecord nameID="294" platformID="3" platEncID="1" langID="0x409">
+      5 No 100 Th
+    </namerecord>
+    <namerecord nameID="295" platformID="3" platEncID="1" langID="0x409">
+      5 No 200 ExLt
+    </namerecord>
+    <namerecord nameID="296" platformID="3" platEncID="1" langID="0x409">
+      5 No 300 Lt
+    </namerecord>
+    <namerecord nameID="297" platformID="3" platEncID="1" langID="0x409">
+      5 No 400 Rg
+    </namerecord>
+    <namerecord nameID="298" platformID="3" platEncID="1" langID="0x409">
+      5 No 500 Md
+    </namerecord>
+    <namerecord nameID="299" platformID="3" platEncID="1" langID="0x409">
+      5 No 600 SmBd
+    </namerecord>
+    <namerecord nameID="300" platformID="3" platEncID="1" langID="0x409">
+      5 No 700 Bd
+    </namerecord>
+    <namerecord nameID="301" platformID="3" platEncID="1" langID="0x409">
+      5 No 800 ExBd
+    </namerecord>
+    <namerecord nameID="302" platformID="3" platEncID="1" langID="0x409">
+      5 No 900 Blk
+    </namerecord>
+    <namerecord nameID="303" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 100 Th
+    </namerecord>
+    <namerecord nameID="304" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="305" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 300 Lt
+    </namerecord>
+    <namerecord nameID="306" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 400 Rg
+    </namerecord>
+    <namerecord nameID="307" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 500 Md
+    </namerecord>
+    <namerecord nameID="308" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="309" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 700 Bd
+    </namerecord>
+    <namerecord nameID="310" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="311" platformID="3" platEncID="1" langID="0x409">
+      6 SmWd 900 Blk
+    </namerecord>
+    <namerecord nameID="312" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 100 Th
+    </namerecord>
+    <namerecord nameID="313" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 200 ExLt
+    </namerecord>
+    <namerecord nameID="314" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 300 Lt
+    </namerecord>
+    <namerecord nameID="315" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 400 Rg
+    </namerecord>
+    <namerecord nameID="316" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 500 Md
+    </namerecord>
+    <namerecord nameID="317" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 600 SmBd
+    </namerecord>
+    <namerecord nameID="318" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 700 Bd
+    </namerecord>
+    <namerecord nameID="319" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 800 ExBd
+    </namerecord>
+    <namerecord nameID="320" platformID="3" platEncID="1" langID="0x409">
+      7 Wd 900 Blk
+    </namerecord>
+    <namerecord nameID="321" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 100 Th
+    </namerecord>
+    <namerecord nameID="322" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="323" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 300 Lt
+    </namerecord>
+    <namerecord nameID="324" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 400 Rg
+    </namerecord>
+    <namerecord nameID="325" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 500 Md
+    </namerecord>
+    <namerecord nameID="326" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="327" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 700 Bd
+    </namerecord>
+    <namerecord nameID="328" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="329" platformID="3" platEncID="1" langID="0x409">
+      8 ExWd 900 Blk
+    </namerecord>
+    <namerecord nameID="330" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 100 Th
+    </namerecord>
+    <namerecord nameID="331" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 200 ExLt
+    </namerecord>
+    <namerecord nameID="332" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 300 Lt
+    </namerecord>
+    <namerecord nameID="333" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 400 Rg
+    </namerecord>
+    <namerecord nameID="334" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 500 Md
+    </namerecord>
+    <namerecord nameID="335" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 600 SmBd
+    </namerecord>
+    <namerecord nameID="336" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 700 Bd
+    </namerecord>
+    <namerecord nameID="337" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 800 ExBd
+    </namerecord>
+    <namerecord nameID="338" platformID="3" platEncID="1" langID="0x409">
+      9 UlWd 900 Blk
+    </namerecord>
+  </name>
+
+</ttFont>

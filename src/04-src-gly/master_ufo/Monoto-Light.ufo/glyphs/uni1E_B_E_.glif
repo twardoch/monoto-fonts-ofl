@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EBE" format="2">
+  <advance width="500"/>
+  <unicode hex="1EBE"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="1186" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="354" y="10" name="ogonek"/>
+  <anchor x="480" y="714" name="topright"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb" xOffset="247" yOffset="186"/>
+    <component base="acutecomb" xOffset="247" yOffset="421"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.sc" format="2">
+  <advance width="300"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="571" name="top"/>
+  <anchor x="289" y="571" name="topright"/>
+  <anchor x="160" y="285" name="center"/>
+  <outline>
+    <contour>
+      <point x="69" y="252" type="line"/>
+      <point x="231" y="252" type="line"/>
+      <point x="231" y="315" type="line"/>
+      <point x="69" y="315" type="line"/>
+    </contour>
+    <component base="t.sc" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

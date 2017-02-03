@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="2">
+  <advance width="800"/>
+  <unicode hex="00FE"/>
+  <anchor x="429" y="-240" name="bottom"/>
+  <anchor x="429" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="125" y="-240" type="line"/>
+      <point x="151" y="-240" type="line"/>
+      <point x="151" y="-15" type="line" smooth="yes"/>
+      <point x="151" y="27"/>
+      <point x="152" y="74"/>
+      <point x="149" y="119" type="curve"/>
+      <point x="151" y="119" type="line"/>
+      <point x="181" y="49"/>
+      <point x="267" y="-10"/>
+      <point x="422" y="-10" type="curve" smooth="yes"/>
+      <point x="616" y="-10"/>
+      <point x="727" y="90"/>
+      <point x="727" y="271" type="curve" smooth="yes"/>
+      <point x="727" y="443"/>
+      <point x="629" y="537"/>
+      <point x="440" y="537" type="curve" smooth="yes"/>
+      <point x="274" y="537"/>
+      <point x="181" y="469"/>
+      <point x="151" y="399" type="curve"/>
+      <point x="147" y="399" type="line"/>
+      <point x="150" y="421"/>
+      <point x="151" y="444"/>
+      <point x="151" y="466" type="curve" smooth="yes"/>
+      <point x="151" y="714" type="line"/>
+      <point x="125" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="15" type="curve" smooth="yes"/>
+      <point x="263" y="15"/>
+      <point x="151" y="93"/>
+      <point x="151" y="262" type="curve" smooth="yes"/>
+      <point x="151" y="265" type="line" smooth="yes"/>
+      <point x="151" y="421"/>
+      <point x="258" y="512"/>
+      <point x="444" y="512" type="curve" smooth="yes"/>
+      <point x="612" y="512"/>
+      <point x="700" y="434"/>
+      <point x="700" y="272" type="curve" smooth="yes"/>
+      <point x="700" y="99"/>
+      <point x="598" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+    </dict>
+  </lib>
+</glyph>

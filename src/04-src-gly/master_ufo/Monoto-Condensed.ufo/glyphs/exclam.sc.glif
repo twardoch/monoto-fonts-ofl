@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam.sc" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="121" y="167" type="line"/>
+      <point x="179" y="167" type="line"/>
+      <point x="187" y="571" type="line"/>
+      <point x="112" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="-8" type="curve" smooth="yes"/>
+      <point x="169" y="-8"/>
+      <point x="185" y="7"/>
+      <point x="185" y="43" type="curve" smooth="yes"/>
+      <point x="185" y="78"/>
+      <point x="169" y="94"/>
+      <point x="150" y="94" type="curve" smooth="yes"/>
+      <point x="129" y="94"/>
+      <point x="113" y="78"/>
+      <point x="113" y="43" type="curve" smooth="yes"/>
+      <point x="113" y="7"/>
+      <point x="129" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

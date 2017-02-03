@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HDoubleStruck" format="2">
+  <advance width="800"/>
+  <unicode hex="210D"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="347" type="line"/>
+      <point x="511" y="347" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="759" y="0" type="line"/>
+      <point x="759" y="714" type="line"/>
+      <point x="511" y="714" type="line"/>
+      <point x="511" y="400" type="line"/>
+      <point x="290" y="400" type="line"/>
+      <point x="290" y="714" type="line"/>
+      <point x="42" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="53" type="line"/>
+      <point x="118" y="661" type="line"/>
+      <point x="214" y="661" type="line"/>
+      <point x="214" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="53" type="line"/>
+      <point x="587" y="661" type="line"/>
+      <point x="683" y="661" type="line"/>
+      <point x="683" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

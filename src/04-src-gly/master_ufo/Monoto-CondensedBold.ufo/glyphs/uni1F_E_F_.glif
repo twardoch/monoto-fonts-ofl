@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEF" format="2">
+  <advance width="300"/>
+  <unicode hex="1FEF"/>
+  <anchor x="150" y="545" name="_top"/>
+  <anchor x="150" y="769" name="top"/>
+  <outline>
+    <contour>
+      <point x="116" y="606" type="curve"/>
+      <point x="178" y="606" type="line"/>
+      <point x="178" y="618" type="line"/>
+      <point x="175" y="656"/>
+      <point x="174" y="722"/>
+      <point x="174" y="769" type="curve"/>
+      <point x="77" y="769" type="line"/>
+      <point x="77" y="757" type="line"/>
+      <point x="90" y="709"/>
+      <point x="102" y="652"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

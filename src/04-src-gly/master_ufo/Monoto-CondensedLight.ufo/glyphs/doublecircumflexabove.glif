@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublecircumflexabove" format="2">
+  <unicode hex="1DCD"/>
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="0" y="762" name="top"/>
+  <outline>
+    <contour>
+      <point x="-199" y="600" type="line"/>
+      <point x="-183" y="600" type="line"/>
+      <point x="-120" y="637"/>
+      <point x="-59" y="684"/>
+      <point x="-1" y="734" type="curve"/>
+      <point x="54" y="687"/>
+      <point x="114" y="638"/>
+      <point x="182" y="600" type="curve"/>
+      <point x="198" y="600" type="line"/>
+      <point x="198" y="616" type="line"/>
+      <point x="110" y="681"/>
+      <point x="45" y="725"/>
+      <point x="10" y="762" type="curve"/>
+      <point x="-11" y="762" type="line"/>
+      <point x="-53" y="720"/>
+      <point x="-141" y="653"/>
+      <point x="-199" y="616" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

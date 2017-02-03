@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0205" format="2">
+  <advance width="800"/>
+  <unicode hex="0205"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="361" y="766" name="top"/>
+  <anchor x="407" y="10" name="ogonek"/>
+  <anchor x="801" y="557" name="topright"/>
+  <outline>
+    <component base="e"/>
+    <component base="dblgravecomb" xOffset="406"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

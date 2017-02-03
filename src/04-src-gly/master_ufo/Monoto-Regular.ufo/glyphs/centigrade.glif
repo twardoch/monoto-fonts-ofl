@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="centigrade" format="2">
+  <advance width="500"/>
+  <unicode hex="2103"/>
+  <anchor x="355" y="714" name="top"/>
+  <anchor x="527" y="714" name="topright"/>
+  <anchor x="334" y="0" name="bottom"/>
+  <outline>
+    <component base="degree" xOffset="-279"/>
+    <component base="C" xOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

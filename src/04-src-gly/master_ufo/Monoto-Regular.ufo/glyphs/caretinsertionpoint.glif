@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretinsertionpoint" format="2">
+  <advance width="500"/>
+  <unicode hex="2041"/>
+  <outline>
+    <contour>
+      <point x="79" y="-240" type="line"/>
+      <point x="144" y="-240" type="line"/>
+      <point x="421" y="402" type="line"/>
+      <point x="357" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="-240" type="line"/>
+      <point x="403" y="-240" type="line"/>
+      <point x="270" y="76" type="line"/>
+      <point x="241" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

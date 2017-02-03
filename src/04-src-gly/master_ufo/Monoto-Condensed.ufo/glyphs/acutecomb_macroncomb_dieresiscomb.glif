@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb_macroncomb_dieresiscomb" format="2">
+  <anchor x="0" y="535" name="_top"/>
+  <anchor x="0" y="924" name="top"/>
+  <outline>
+    <contour>
+      <point x="-75" y="723" type="line"/>
+      <point x="74" y="723" type="line"/>
+      <point x="74" y="778" type="line"/>
+      <point x="-75" y="778" type="line"/>
+    </contour>
+    <contour>
+      <point x="-44" y="594" type="curve" smooth="yes"/>
+      <point x="-26" y="594"/>
+      <point x="-15" y="610"/>
+      <point x="-15" y="641" type="curve" smooth="yes"/>
+      <point x="-15" y="672"/>
+      <point x="-26" y="689"/>
+      <point x="-44" y="689" type="curve" smooth="yes"/>
+      <point x="-63" y="689"/>
+      <point x="-75" y="674"/>
+      <point x="-75" y="641" type="curve" smooth="yes"/>
+      <point x="-75" y="610"/>
+      <point x="-63" y="594"/>
+    </contour>
+    <contour>
+      <point x="44" y="594" type="curve" smooth="yes"/>
+      <point x="63" y="594"/>
+      <point x="75" y="610"/>
+      <point x="75" y="642" type="curve" smooth="yes"/>
+      <point x="75" y="672"/>
+      <point x="63" y="689"/>
+      <point x="44" y="689" type="curve" smooth="yes"/>
+      <point x="26" y="689"/>
+      <point x="14" y="674"/>
+      <point x="14" y="642" type="curve" smooth="yes"/>
+      <point x="14" y="610"/>
+      <point x="26" y="594"/>
+    </contour>
+    <contour>
+      <point x="-30" y="810" type="line"/>
+      <point x="14" y="810" type="line"/>
+      <point x="33" y="833"/>
+      <point x="55" y="884"/>
+      <point x="72" y="916" type="curve"/>
+      <point x="72" y="924" type="line"/>
+      <point x="4" y="924" type="line"/>
+      <point x="-6" y="888"/>
+      <point x="-16" y="853"/>
+      <point x="-30" y="819" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinverteddoublecomb" format="2">
+  <unicode hex="0361"/>
+  <anchor x="0" y="630" name="_top"/>
+  <anchor x="0" y="869" name="top"/>
+  <outline>
+    <contour>
+      <point x="-548" y="679" type="curve"/>
+      <point x="-464" y="679" type="line"/>
+      <point x="-386" y="758"/>
+      <point x="-212" y="793"/>
+      <point x="-4" y="793" type="curve" smooth="yes"/>
+      <point x="251" y="793"/>
+      <point x="397" y="750"/>
+      <point x="463" y="679" type="curve"/>
+      <point x="546" y="679" type="line"/>
+      <point x="464" y="804"/>
+      <point x="264" y="869"/>
+      <point x="-6" y="869" type="curve" smooth="yes"/>
+      <point x="-249" y="869"/>
+      <point x="-449" y="813"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

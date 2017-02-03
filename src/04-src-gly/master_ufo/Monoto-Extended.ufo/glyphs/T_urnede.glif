@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Turnede" format="2">
+  <advance width="800"/>
+  <unicode hex="2C7B"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="537" name="top"/>
+  <outline>
+    <component base="uni1D07" xScale="-1" xOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

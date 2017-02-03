@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.sc" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="-222" name="bottom"/>
+  <anchor x="400" y="574" name="top"/>
+  <anchor x="801" y="574" name="topright"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="ogonek" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

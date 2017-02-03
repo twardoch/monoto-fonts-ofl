@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DE0" format="2">
+  <unicode hex="2DE0"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="9.5" y="926.0" name="top"/>
+  <anchor x="9.5" y="620.0" name="bottom"/>
+  <outline>
+    <component base="afii10066" xScale="0.45" yScale="0.4" xOffset="-103" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

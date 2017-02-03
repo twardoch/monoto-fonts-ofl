@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn.sc" format="2">
+  <advance width="300"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="116" type="line"/>
+      <point x="150" y="116" type="line" smooth="yes"/>
+      <point x="235" y="116"/>
+      <point x="263" y="184"/>
+      <point x="263" y="298" type="curve" smooth="yes"/>
+      <point x="263" y="409"/>
+      <point x="226" y="468"/>
+      <point x="151" y="468" type="curve" smooth="yes"/>
+      <point x="115" y="468" type="line"/>
+      <point x="115" y="571" type="line"/>
+      <point x="49" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="183" type="line"/>
+      <point x="115" y="401" type="line"/>
+      <point x="148" y="401" type="line" smooth="yes"/>
+      <point x="181" y="401"/>
+      <point x="197" y="365"/>
+      <point x="197" y="294" type="curve" smooth="yes"/>
+      <point x="197" y="210"/>
+      <point x="175" y="183"/>
+      <point x="145" y="183" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

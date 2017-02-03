@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex.sc" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="806" name="top"/>
+  <anchor x="250" y="621" name="topleft"/>
+  <anchor x="249" y="10" name="ogonek"/>
+  <anchor x="250" y="296" name="center"/>
+  <anchor x="250" y="591" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="circumflexcomb.sc" xOffset="250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

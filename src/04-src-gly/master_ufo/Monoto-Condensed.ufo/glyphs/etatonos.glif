@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatonos" format="2">
+  <advance width="300"/>
+  <unicode hex="03AE"/>
+  <anchor x="150" y="-240" name="bottom"/>
+  <anchor x="174" y="782" name="top"/>
+  <anchor x="297" y="535" name="topright"/>
+  <outline>
+    <component base="eta"/>
+    <component base="tonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

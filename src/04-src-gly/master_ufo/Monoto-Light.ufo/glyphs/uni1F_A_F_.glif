@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FAF" format="2">
+  <advance width="1000"/>
+  <unicode hex="1FAF"/>
+  <anchor x="890" y="0" name="bottom"/>
+  <anchor x="804" y="528" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <outline>
+    <component base="uni1FFC"/>
+    <component base="uni1FDF" xOffset="571"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

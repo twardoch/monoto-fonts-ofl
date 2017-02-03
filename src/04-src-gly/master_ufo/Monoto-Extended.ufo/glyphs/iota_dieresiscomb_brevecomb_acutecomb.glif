@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota_dieresiscomb_brevecomb_acutecomb" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="947" name="top"/>
+  <anchor x="519" y="0" name="bottom"/>
+  <outline>
+    <component base="iota"/>
+    <component base="acutecomb_brevecomb_dieresiscomb" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

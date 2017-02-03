@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="300"/>
+  <unicode hex="038E"/>
+  <anchor x="177" y="0" name="bottom"/>
+  <anchor x="177" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="277" type="line"/>
+      <point x="282" y="714" type="line"/>
+      <point x="256" y="714" type="line"/>
+      <point x="176" y="305" type="line"/>
+      <point x="95" y="714" type="line"/>
+      <point x="69" y="714" type="line"/>
+      <point x="164" y="275" type="line"/>
+    </contour>
+    <component base="tonos" xOffset="-130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

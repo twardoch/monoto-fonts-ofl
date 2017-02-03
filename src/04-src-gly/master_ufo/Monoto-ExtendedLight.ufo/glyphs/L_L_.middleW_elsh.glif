@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LL.middleWelsh" format="2">
+  <advance width="800"/>
+  <unicode hex="1EFA"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="281" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="421" y="0" type="line"/>
+      <point x="785" y="0" type="line"/>
+      <point x="785" y="25" type="line"/>
+      <point x="447" y="25" type="line"/>
+      <point x="447" y="714" type="line"/>
+      <point x="421" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="714" type="line"/>
+      <point x="111" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

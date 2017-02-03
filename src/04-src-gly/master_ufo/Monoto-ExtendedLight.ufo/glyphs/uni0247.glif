@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0247" format="2">
+  <advance width="800"/>
+  <unicode hex="0247"/>
+  <anchor x="400" y="-213" name="bottom"/>
+  <anchor x="400" y="760" name="top"/>
+  <anchor x="393" y="10" name="ogonek"/>
+  <anchor x="771" y="528" name="topright"/>
+  <outline>
+    <contour>
+      <point x="135" y="-213" type="line"/>
+      <point x="165" y="-213" type="line"/>
+      <point x="629" y="760" type="line"/>
+      <point x="599" y="760" type="line"/>
+    </contour>
+    <component base="e" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

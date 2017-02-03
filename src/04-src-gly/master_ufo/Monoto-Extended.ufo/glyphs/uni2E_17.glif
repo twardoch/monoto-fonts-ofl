@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E17" format="2">
+  <advance width="800"/>
+  <unicode hex="2E17"/>
+  <outline>
+    <contour>
+      <point x="221" y="252" type="line"/>
+      <point x="617" y="437" type="line"/>
+      <point x="579" y="491" type="line"/>
+      <point x="184" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="73" type="line"/>
+      <point x="616" y="259" type="line"/>
+      <point x="579" y="312" type="line"/>
+      <point x="184" y="127" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

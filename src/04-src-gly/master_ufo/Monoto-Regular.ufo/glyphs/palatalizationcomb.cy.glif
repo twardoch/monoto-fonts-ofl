@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palatalizationcomb.cy" format="2">
+  <unicode hex="0484"/>
+  <anchor x="0" y="537" name="_top"/>
+  <anchor x="0" y="729" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="610" type="curve"/>
+      <point x="146" y="610" type="line"/>
+      <point x="146" y="624" type="line" smooth="yes"/>
+      <point x="146" y="697"/>
+      <point x="112" y="729"/>
+      <point x="52" y="729" type="curve" smooth="yes"/>
+      <point x="-25" y="729"/>
+      <point x="-64" y="670"/>
+      <point x="-141" y="670" type="curve" smooth="yes"/>
+      <point x="-146" y="670" type="line"/>
+      <point x="-146" y="610" type="line"/>
+      <point x="-141" y="610" type="line" smooth="yes"/>
+      <point x="-55" y="610"/>
+      <point x="-6" y="667"/>
+      <point x="45" y="667" type="curve" smooth="yes"/>
+      <point x="75" y="667"/>
+      <point x="87" y="649"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

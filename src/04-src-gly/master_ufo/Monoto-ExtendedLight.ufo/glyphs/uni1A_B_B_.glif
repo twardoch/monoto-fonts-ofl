@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ABB" format="2">
+  <unicode hex="1ABB"/>
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="0" y="835" name="top"/>
+  <outline>
+    <contour>
+      <point x="147" y="611" type="curve"/>
+      <point x="185" y="611" type="line"/>
+      <point x="251" y="641"/>
+      <point x="282" y="680"/>
+      <point x="282" y="722" type="curve" smooth="yes"/>
+      <point x="282" y="764"/>
+      <point x="251" y="804"/>
+      <point x="185" y="835" type="curve"/>
+      <point x="147" y="835" type="line"/>
+      <point x="208" y="803"/>
+      <point x="238" y="763"/>
+      <point x="238" y="722" type="curve" smooth="yes"/>
+      <point x="238" y="682"/>
+      <point x="208" y="642"/>
+    </contour>
+    <contour>
+      <point x="-187" y="611" type="curve"/>
+      <point x="-150" y="611" type="line"/>
+      <point x="-208" y="643"/>
+      <point x="-241" y="683"/>
+      <point x="-241" y="725" type="curve" smooth="yes"/>
+      <point x="-241" y="764"/>
+      <point x="-208" y="804"/>
+      <point x="-150" y="835" type="curve"/>
+      <point x="-187" y="835" type="line"/>
+      <point x="-252" y="805"/>
+      <point x="-283" y="767"/>
+      <point x="-283" y="725" type="curve" smooth="yes"/>
+      <point x="-283" y="683"/>
+      <point x="-252" y="642"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

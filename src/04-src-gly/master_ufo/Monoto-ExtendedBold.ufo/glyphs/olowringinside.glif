@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="olowringinside" format="2">
+  <advance width="800"/>
+  <unicode hex="2C7A"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="557" name="top"/>
+  <anchor x="371" y="10" name="ogonek"/>
+  <anchor x="771" y="557" name="topright"/>
+  <anchor x="370" y="279" name="center"/>
+  <outline>
+    <component base="o" xOffset="-30"/>
+    <component base="ring" yOffset="-557"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

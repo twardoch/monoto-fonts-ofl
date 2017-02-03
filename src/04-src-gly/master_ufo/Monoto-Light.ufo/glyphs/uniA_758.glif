@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA758" format="2">
+  <advance width="500"/>
+  <unicode hex="A758"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="250" y="357" name="center"/>
+  <anchor x="250" y="-210" name="bottom"/>
+  <anchor x="250" y="714" name="top"/>
+  <anchor x="500" y="714" name="topright"/>
+  <anchor x="251" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="139" y="-240" type="line"/>
+      <point x="488" y="-17" type="line" smooth="yes"/>
+      <point x="560" y="29"/>
+      <point x="587" y="60"/>
+      <point x="587" y="127" type="curve" smooth="yes"/>
+      <point x="587" y="206"/>
+      <point x="544" y="241"/>
+      <point x="479" y="241" type="curve"/>
+      <point x="480" y="217" type="line"/>
+      <point x="539" y="217"/>
+      <point x="560" y="180"/>
+      <point x="560" y="127" type="curve" smooth="yes"/>
+      <point x="560" y="80"/>
+      <point x="546" y="48"/>
+      <point x="468" y="-1" type="curve" smooth="yes"/>
+      <point x="125" y="-218" type="line"/>
+    </contour>
+    <component base="Q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

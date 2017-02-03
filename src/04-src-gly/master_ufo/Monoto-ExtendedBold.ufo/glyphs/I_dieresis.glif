@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="800"/>
+  <unicode hex="00CF"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="939" name="top"/>
+  <anchor x="-2" y="714" name="topleft"/>
+  <anchor x="524" y="10" name="ogonek"/>
+  <anchor x="801" y="714" name="topright"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb" xOffset="399" yOffset="157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

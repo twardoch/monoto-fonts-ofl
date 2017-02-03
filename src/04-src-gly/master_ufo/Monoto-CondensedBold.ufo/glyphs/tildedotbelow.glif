@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedotbelow" format="2">
+  <advance width="300"/>
+  <unicode hex="2E1F"/>
+  <outline>
+    <contour>
+      <point x="153" y="105" type="curve" smooth="yes"/>
+      <point x="173" y="105"/>
+      <point x="195" y="126"/>
+      <point x="195" y="168" type="curve" smooth="yes"/>
+      <point x="195" y="213"/>
+      <point x="173" y="231"/>
+      <point x="153" y="231" type="curve" smooth="yes"/>
+      <point x="131" y="231"/>
+      <point x="110" y="213"/>
+      <point x="110" y="168" type="curve" smooth="yes"/>
+      <point x="110" y="125"/>
+      <point x="131" y="105"/>
+    </contour>
+    <component base="asciitilde" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

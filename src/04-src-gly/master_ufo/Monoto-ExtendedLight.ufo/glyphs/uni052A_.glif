@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052A" format="2">
+  <advance width="800"/>
+  <unicode hex="052A"/>
+  <anchor x="504" y="-175" name="bottom"/>
+  <anchor x="504" y="714" name="top"/>
+  <anchor x="1162" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="345" y="352" type="line"/>
+      <point x="732" y="352" type="line"/>
+      <point x="732" y="377" type="line"/>
+      <point x="345" y="377" type="line"/>
+    </contour>
+    <component base="afii10021" xOffset="-318"/>
+    <component base="afii10028" xOffset="360"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
