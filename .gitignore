@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# node modules
+node_modules/
+.sass-cache/
