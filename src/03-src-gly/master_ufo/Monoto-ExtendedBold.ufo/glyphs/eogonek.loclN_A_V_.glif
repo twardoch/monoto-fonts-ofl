@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek.loclNAV" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="557" name="top"/>
+  <anchor x="407" y="10" name="ogonek"/>
+  <anchor x="801" y="557" name="topright"/>
+  <anchor x="414" y="-244" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="414"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:13</string>
+    </dict>
+  </lib>
+</glyph>

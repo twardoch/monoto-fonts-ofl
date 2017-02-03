@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tturned" format="2">
+  <advance width="300"/>
+  <unicode hex="0287"/>
+  <anchor x="150" y="-136" name="bottom"/>
+  <anchor x="150" y="545" name="top"/>
+  <anchor x="21" y="-128" name="topright"/>
+  <anchor x="175" y="264" name="center"/>
+  <outline>
+    <component base="t" xScale="-1" yScale="-1" xOffset="300" yOffset="553"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

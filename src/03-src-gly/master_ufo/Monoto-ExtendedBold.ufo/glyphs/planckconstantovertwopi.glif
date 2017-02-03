@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="planckconstantovertwopi" format="2">
+  <advance width="800"/>
+  <unicode hex="210F"/>
+  <outline>
+    <contour>
+      <point x="12" y="575" type="line"/>
+      <point x="573" y="575" type="line"/>
+      <point x="594" y="701" type="line"/>
+      <point x="33" y="701" type="line"/>
+    </contour>
+    <component base="planckconstant" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

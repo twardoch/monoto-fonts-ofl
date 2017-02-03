@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookretroflexbelowcomb" format="2">
+  <unicode hex="0322"/>
+  <outline>
+    <contour>
+      <point x="8" y="-235" type="curve"/>
+      <point x="16" y="-235"/>
+      <point x="24" y="-230"/>
+      <point x="29" y="-226" type="curve"/>
+      <point x="29" y="-201" type="line"/>
+      <point x="25" y="-205"/>
+      <point x="18" y="-210"/>
+      <point x="11" y="-210" type="curve" smooth="yes"/>
+      <point x="-1" y="-210"/>
+      <point x="-8" y="-191"/>
+      <point x="-8" y="-155" type="curve" smooth="yes"/>
+      <point x="-8" y="31" type="line"/>
+      <point x="-30" y="31" type="line"/>
+      <point x="-30" y="-159" type="line" smooth="yes"/>
+      <point x="-30" y="-205"/>
+      <point x="-18" y="-235"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:34:05</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

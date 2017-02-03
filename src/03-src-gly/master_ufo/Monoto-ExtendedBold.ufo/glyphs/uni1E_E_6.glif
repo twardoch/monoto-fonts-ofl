@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EE6" format="2">
+  <advance width="800"/>
+  <unicode hex="1EE6"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="994" name="top"/>
+  <anchor x="743" y="10" name="ogonek"/>
+  <anchor x="801" y="714" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="hookabovecomb" xOffset="399" yOffset="157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

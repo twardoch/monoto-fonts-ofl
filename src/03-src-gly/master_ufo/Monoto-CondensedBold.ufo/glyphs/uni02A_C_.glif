@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02AC" format="2">
+  <advance width="300"/>
+  <unicode hex="02AC"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="46" y="379" type="line"/>
+      <point x="137" y="379" type="line"/>
+      <point x="149" y="614" type="line"/>
+      <point x="158" y="379" type="line"/>
+      <point x="248" y="379" type="line"/>
+      <point x="287" y="714" type="line"/>
+      <point x="211" y="714" type="line"/>
+      <point x="199" y="469" type="line"/>
+      <point x="190" y="714" type="line"/>
+      <point x="106" y="714" type="line"/>
+      <point x="98" y="469" type="line"/>
+      <point x="88" y="715" type="line"/>
+      <point x="13" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="149" y="235" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="287" y="335" type="line"/>
+      <point x="211" y="335" type="line"/>
+      <point x="199" y="90" type="line"/>
+      <point x="190" y="335" type="line"/>
+      <point x="106" y="335" type="line"/>
+      <point x="98" y="90" type="line"/>
+      <point x="88" y="336" type="line"/>
+      <point x="13" y="336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:02:56</string>
+    </dict>
+  </lib>
+</glyph>

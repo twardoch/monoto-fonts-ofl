@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fahrenheit" format="2">
+  <advance width="300"/>
+  <unicode hex="2109"/>
+  <anchor x="201" y="714" name="top"/>
+  <anchor x="326" y="714" name="topright"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <outline>
+    <component base="degree" xOffset="-159"/>
+    <component base="F" xOffset="48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:38:56</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

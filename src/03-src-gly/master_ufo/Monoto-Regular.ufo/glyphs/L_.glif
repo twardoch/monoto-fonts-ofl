@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+  <advance width="500"/>
+  <unicode hex="004C"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="250" y="357" name="center"/>
+  <anchor x="119" y="714" name="top"/>
+  <anchor x="363" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="80" type="line"/>
+      <point x="159" y="80" type="line"/>
+      <point x="159" y="714" type="line"/>
+      <point x="75" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

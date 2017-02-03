@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="500"/>
+  <unicode hex="006C"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="393" name="center"/>
+  <anchor x="250" y="760" name="top"/>
+  <anchor x="423" y="760" name="topright"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="113" type="line"/>
+      <point x="329" y="132" type="line"/>
+      <point x="329" y="760" type="line"/>
+      <point x="59" y="760" type="line"/>
+      <point x="59" y="643" type="line"/>
+      <point x="177" y="633" type="line"/>
+      <point x="177" y="132" type="line"/>
+      <point x="35" y="113" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:19</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>302</integer>
+          <key>y</key>
+          <integer>214</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

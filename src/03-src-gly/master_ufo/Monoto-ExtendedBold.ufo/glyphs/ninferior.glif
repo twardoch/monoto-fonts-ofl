@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninferior" format="2">
+  <advance width="800"/>
+  <unicode hex="2099"/>
+  <anchor x="409.35" y="238.2" name="top"/>
+  <anchor x="658.3000000000001" y="238.2" name="topright"/>
+  <anchor x="403.5" y="-96.0" name="bottom"/>
+  <outline>
+    <component base="n" xScale="0.65" yScale="0.6" xOffset="137" yOffset="-96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 00:14:20</string>
+    </dict>
+  </lib>
+</glyph>

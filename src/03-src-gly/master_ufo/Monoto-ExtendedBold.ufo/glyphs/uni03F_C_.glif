@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03FC" format="2">
+  <advance width="800"/>
+  <unicode hex="03FC"/>
+  <anchor x="400" y="-240" name="bottom"/>
+  <anchor x="400" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-211" type="line"/>
+      <point x="469" y="-211" type="line"/>
+      <point x="469" y="-86" type="line"/>
+      <point x="-30" y="-86" type="line"/>
+    </contour>
+    <component base="rho" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

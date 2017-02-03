@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quadrupleprime" format="2">
+  <advance width="800"/>
+  <unicode hex="2057"/>
+  <outline>
+    <component base="minute" xOffset="-253"/>
+    <component base="minute" xOffset="-86"/>
+    <component base="minute" xOffset="81"/>
+    <component base="minute" xOffset="255"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:27:25</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

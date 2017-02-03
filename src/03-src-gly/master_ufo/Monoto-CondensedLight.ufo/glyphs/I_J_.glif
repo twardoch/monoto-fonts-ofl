@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="300"/>
+  <unicode hex="0132"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="10" y="0" name="caret_1"/>
+  <anchor x="150" y="714" name="top"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="141" y="-15" type="curve" smooth="yes"/>
+      <point x="204" y="-15"/>
+      <point x="229" y="57"/>
+      <point x="229" y="176" type="curve" smooth="yes"/>
+      <point x="229" y="714" type="line"/>
+      <point x="204" y="714" type="line"/>
+      <point x="204" y="184" type="line" smooth="yes"/>
+      <point x="204" y="67"/>
+      <point x="185" y="9"/>
+      <point x="140" y="9" type="curve" smooth="yes"/>
+      <point x="110" y="9"/>
+      <point x="80" y="36"/>
+      <point x="69" y="55" type="curve"/>
+      <point x="69" y="27" type="line"/>
+      <point x="84" y="5"/>
+      <point x="113" y="-15"/>
+    </contour>
+    <contour>
+      <point x="69" y="147" type="line"/>
+      <point x="94" y="147" type="line"/>
+      <point x="94" y="714" type="line"/>
+      <point x="69" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:21:36</string>
+    </dict>
+  </lib>
+</glyph>

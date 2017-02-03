@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RDoubleStruck" format="2">
+  <advance width="300"/>
+  <unicode hex="211D"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="321" type="line"/>
+      <point x="129" y="321" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="205" y="342" type="line"/>
+      <point x="242" y="373"/>
+      <point x="264" y="436"/>
+      <point x="264" y="524" type="curve" smooth="yes"/>
+      <point x="264" y="645"/>
+      <point x="228" y="714"/>
+      <point x="163" y="714" type="curve" smooth="yes"/>
+      <point x="38" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="42" type="line"/>
+      <point x="63" y="671" type="line"/>
+      <point x="94" y="671" type="line"/>
+      <point x="94" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="41" type="line"/>
+      <point x="155" y="323" type="line"/>
+      <point x="164" y="324"/>
+      <point x="173" y="325"/>
+      <point x="183" y="328" type="curve"/>
+      <point x="247" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="364" type="line"/>
+      <point x="118" y="671" type="line"/>
+      <point x="173" y="671" type="line"/>
+      <point x="173" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="378" type="curve"/>
+      <point x="198" y="659" type="line"/>
+      <point x="224" y="641"/>
+      <point x="237" y="597"/>
+      <point x="237" y="524" type="curve" smooth="yes"/>
+      <point x="237" y="444"/>
+      <point x="221" y="400"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

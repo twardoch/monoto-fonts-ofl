@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="500"/>
+  <unicode hex="0049"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="285" y="10" name="ogonek"/>
+  <anchor x="250" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="480" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="20" type="line"/>
+      <point x="263" y="23" type="line"/>
+      <point x="263" y="690" type="line"/>
+      <point x="380" y="694" type="line"/>
+      <point x="380" y="714" type="line"/>
+      <point x="120" y="714" type="line"/>
+      <point x="120" y="694" type="line"/>
+      <point x="237" y="690" type="line"/>
+      <point x="237" y="23" type="line"/>
+      <point x="120" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:25</string>
+    </dict>
+  </lib>
+</glyph>

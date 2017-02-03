@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute.sc" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="-27" name="bottom"/>
+  <anchor x="400" y="796" name="top"/>
+  <anchor x="370" y="589" name="topleft"/>
+  <anchor x="331" y="10" name="ogonek"/>
+  <anchor x="370" y="280" name="center"/>
+  <anchor x="370" y="559" name="topright"/>
+  <outline>
+    <component base="oslash.sc"/>
+    <component base="acutecomb.sc" xOffset="400" yOffset="26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="800"/>
+  <unicode hex="005A"/>
+  <anchor x="430" y="0" name="bottom"/>
+  <anchor x="425" y="714" name="top"/>
+  <anchor x="801" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="677" y="0" type="line"/>
+      <point x="677" y="25" type="line"/>
+      <point x="174" y="25" type="line"/>
+      <point x="658" y="696" type="line"/>
+      <point x="658" y="714" type="line"/>
+      <point x="180" y="714" type="line"/>
+      <point x="180" y="689" type="line"/>
+      <point x="621" y="689" type="line"/>
+      <point x="138" y="18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA67E" format="2">
+  <advance width="500"/>
+  <unicode hex="A67E"/>
+  <outline>
+    <component base="uniA67C" xOffset="250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:23</string>
+    </dict>
+  </lib>
+</glyph>

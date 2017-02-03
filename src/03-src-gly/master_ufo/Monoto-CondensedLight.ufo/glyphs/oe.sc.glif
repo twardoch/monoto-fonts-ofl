@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.sc" format="2">
+  <advance width="300"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="159" y="559" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="-5" type="curve" smooth="yes"/>
+      <point x="135" y="-5"/>
+      <point x="145" y="-4"/>
+      <point x="153" y="0" type="curve"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="25" type="line"/>
+      <point x="177" y="25" type="line"/>
+      <point x="177" y="283" type="line"/>
+      <point x="264" y="283" type="line"/>
+      <point x="264" y="308" type="line"/>
+      <point x="177" y="308" type="line"/>
+      <point x="177" y="534" type="line"/>
+      <point x="270" y="534" type="line"/>
+      <point x="270" y="559" type="line"/>
+      <point x="154" y="559" type="line"/>
+      <point x="144" y="563"/>
+      <point x="133" y="564"/>
+      <point x="126" y="564" type="curve" smooth="yes"/>
+      <point x="61" y="564"/>
+      <point x="29" y="449"/>
+      <point x="29" y="280" type="curve" smooth="yes"/>
+      <point x="29" y="110"/>
+      <point x="62" y="-5"/>
+    </contour>
+    <contour>
+      <point x="129" y="20" type="curve" smooth="yes"/>
+      <point x="77" y="20"/>
+      <point x="54" y="127"/>
+      <point x="54" y="280" type="curve" smooth="yes"/>
+      <point x="54" y="434"/>
+      <point x="77" y="539"/>
+      <point x="128" y="539" type="curve" smooth="yes"/>
+      <point x="137" y="539"/>
+      <point x="146" y="537"/>
+      <point x="152" y="534" type="curve"/>
+      <point x="152" y="27" type="line"/>
+      <point x="145" y="22"/>
+      <point x="138" y="20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

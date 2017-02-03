@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB4F" format="2">
+  <advance width="500"/>
+  <unicode hex="AB4F"/>
+  <outline>
+    <contour>
+      <point x="20" y="203" type="line"/>
+      <point x="480" y="203" type="line"/>
+      <point x="480" y="267" type="line"/>
+      <point x="20" y="267" type="line"/>
+    </contour>
+    <component base="uniAB4E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA783" format="2">
+  <advance width="800"/>
+  <unicode hex="A783"/>
+  <outline>
+    <contour>
+      <point x="82" y="-238" type="line"/>
+      <point x="283" y="-238" type="line"/>
+      <point x="283" y="293" type="line" smooth="yes"/>
+      <point x="283" y="373"/>
+      <point x="355" y="399"/>
+      <point x="401" y="399" type="curve" smooth="yes"/>
+      <point x="468" y="399"/>
+      <point x="499" y="383"/>
+      <point x="499" y="354" type="curve" smooth="yes"/>
+      <point x="499" y="123" type="line" smooth="yes"/>
+      <point x="499" y="42"/>
+      <point x="543" y="-10"/>
+      <point x="675" y="-10" type="curve" smooth="yes"/>
+      <point x="721" y="-10"/>
+      <point x="770" y="-3"/>
+      <point x="808" y="5" type="curve"/>
+      <point x="808" y="162" type="line"/>
+      <point x="788" y="157"/>
+      <point x="771" y="156"/>
+      <point x="753" y="156" type="curve" smooth="yes"/>
+      <point x="719" y="156"/>
+      <point x="700" y="168"/>
+      <point x="700" y="188" type="curve" smooth="yes"/>
+      <point x="700" y="378" type="line" smooth="yes"/>
+      <point x="700" y="510"/>
+      <point x="630" y="567"/>
+      <point x="489" y="567" type="curve" smooth="yes"/>
+      <point x="402" y="567"/>
+      <point x="331" y="551"/>
+      <point x="275" y="487" type="curve"/>
+      <point x="267" y="487" type="line"/>
+      <point x="245" y="557" type="line"/>
+      <point x="82" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:05:39</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 25}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 11}</string>
+          <key>target</key>
+          <string>{0, 18}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 31}</string>
+          <key>target</key>
+          <string>{0, 4}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 31}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 32}</string>
+          <key>target</key>
+          <string>{0, 0}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 8}</string>
+          <key>target</key>
+          <string>{0, 21}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

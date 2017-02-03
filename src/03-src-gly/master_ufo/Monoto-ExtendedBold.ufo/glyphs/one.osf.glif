@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="2">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="334" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="562" type="line"/>
+      <point x="354" y="562" type="line"/>
+      <point x="63" y="438" type="line"/>
+      <point x="143" y="303" type="line"/>
+      <point x="244" y="332" type="line" smooth="yes"/>
+      <point x="278" y="342"/>
+      <point x="305" y="355"/>
+      <point x="338" y="372" type="curve"/>
+      <point x="336" y="328"/>
+      <point x="334" y="221"/>
+      <point x="334" y="195" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="731" y="145" type="line"/>
+      <point x="524" y="158" type="line"/>
+      <point x="335" y="158" type="line"/>
+      <point x="128" y="145" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

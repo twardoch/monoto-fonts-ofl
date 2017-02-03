@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA74C" format="2">
+  <advance width="600"/>
+  <unicode hex="A74C"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <anchor x="149" y="357" name="center"/>
+  <anchor x="149" y="0" name="bottom"/>
+  <anchor x="149" y="714" name="top"/>
+  <anchor x="289" y="714" name="topright"/>
+  <anchor x="149" y="10" name="ogonek"/>
+  <outline>
+    <component base="O"/>
+    <component base="degree" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 01:36:55</string>
+    </dict>
+  </lib>
+</glyph>

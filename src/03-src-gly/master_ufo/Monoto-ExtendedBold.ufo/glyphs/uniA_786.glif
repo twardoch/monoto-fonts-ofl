@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA786" format="2">
+  <advance width="800"/>
+  <unicode hex="A786"/>
+  <outline>
+    <contour>
+      <point x="477" y="-10" type="curve" smooth="yes"/>
+      <point x="584" y="-10"/>
+      <point x="664" y="1"/>
+      <point x="753" y="32" type="curve"/>
+      <point x="753" y="213" type="line"/>
+      <point x="661" y="185"/>
+      <point x="597" y="166"/>
+      <point x="508" y="166" type="curve" smooth="yes"/>
+      <point x="333" y="166"/>
+      <point x="232" y="222"/>
+      <point x="232" y="307" type="curve" smooth="yes"/>
+      <point x="232" y="430"/>
+      <point x="374" y="536"/>
+      <point x="639" y="536" type="curve"/>
+      <point x="555" y="611" type="line"/>
+      <point x="344" y="611"/>
+      <point x="30" y="560"/>
+      <point x="30" y="289" type="curve" smooth="yes"/>
+      <point x="30" y="124"/>
+      <point x="194" y="-10"/>
+    </contour>
+    <contour>
+      <point x="30" y="536" type="line"/>
+      <point x="774" y="536" type="line"/>
+      <point x="774" y="714" type="line"/>
+      <point x="30" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

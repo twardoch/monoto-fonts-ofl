@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F4C" format="2">
+  <advance width="500"/>
+  <unicode hex="1F4C"/>
+  <anchor x="650" y="0" name="bottom"/>
+  <anchor x="650" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="249" y="10" name="ogonek"/>
+  <anchor x="250" y="357" name="center"/>
+  <anchor x="500" y="714" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni1FCE" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 01:56:59</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

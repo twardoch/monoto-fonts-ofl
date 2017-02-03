@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0230" format="2">
+  <advance width="300"/>
+  <unicode hex="0230"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="1059" name="top"/>
+  <anchor x="22" y="714" name="topleft"/>
+  <anchor x="159" y="10" name="ogonek"/>
+  <anchor x="150" y="357" name="center"/>
+  <anchor x="290" y="714" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotaccentcomb" xOffset="150" yOffset="169"/>
+    <component base="macroncomb" xOffset="150" yOffset="391"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+  <advance width="500"/>
+  <unicode hex="0397"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="500" y="714" name="topright"/>
+  <anchor x="250" y="375" name="center"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:19</string>
+    </dict>
+  </lib>
+</glyph>

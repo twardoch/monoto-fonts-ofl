@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03F3dotless" format="2">
+  <advance width="800"/>
+  <anchor x="400" y="-248" name="bottom"/>
+  <anchor x="400" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="259" y="-248" type="curve" smooth="yes"/>
+      <point x="386" y="-248"/>
+      <point x="473" y="-196"/>
+      <point x="473" y="-88" type="curve" smooth="yes"/>
+      <point x="473" y="528" type="line"/>
+      <point x="173" y="528" type="line"/>
+      <point x="173" y="507" type="line"/>
+      <point x="447" y="503" type="line"/>
+      <point x="447" y="-81" type="line" smooth="yes"/>
+      <point x="447" y="-168"/>
+      <point x="386" y="-222"/>
+      <point x="261" y="-222" type="curve" smooth="yes"/>
+      <point x="204" y="-222"/>
+      <point x="114" y="-210"/>
+      <point x="88" y="-201" type="curve"/>
+      <point x="88" y="-228" type="line"/>
+      <point x="108" y="-234"/>
+      <point x="186" y="-248"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:20</string>
+    </dict>
+  </lib>
+</glyph>

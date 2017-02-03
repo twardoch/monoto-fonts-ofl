@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04CC" format="2">
+  <advance width="500"/>
+  <unicode hex="04CC"/>
+  <anchor x="250" y="-240" name="bottom"/>
+  <anchor x="250" y="553" name="top"/>
+  <anchor x="480" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="258" y="-203" type="line"/>
+      <point x="400" y="-203" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="366" y="135" type="line"/>
+      <point x="258" y="135" type="line"/>
+    </contour>
+    <component base="afii10089"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

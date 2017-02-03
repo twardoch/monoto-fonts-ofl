@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeinferior" format="2">
+  <advance width="800"/>
+  <unicode hex="2083"/>
+  <outline>
+    <component base="threesuperior" xOffset="-30" yOffset="-546"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:22</string>
+    </dict>
+  </lib>
+</glyph>

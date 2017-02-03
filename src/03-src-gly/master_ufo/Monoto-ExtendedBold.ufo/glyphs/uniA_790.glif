@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA790" format="2">
+  <advance width="800"/>
+  <unicode hex="A790"/>
+  <anchor x="377" y="714" name="top"/>
+  <anchor x="799" y="714" name="topright"/>
+  <anchor x="369" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="587" y="-227" type="line"/>
+      <point x="755" y="-227" type="line"/>
+      <point x="755" y="152" type="line"/>
+      <point x="615" y="152" type="line"/>
+      <point x="587" y="0" type="line"/>
+    </contour>
+    <component base="N" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

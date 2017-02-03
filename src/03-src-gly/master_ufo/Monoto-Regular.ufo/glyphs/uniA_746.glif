@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA746" format="2">
+  <advance width="500"/>
+  <unicode hex="A746"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="76" type="line"/>
+      <point x="244" y="76" type="line"/>
+      <point x="244" y="456" type="line"/>
+      <point x="160" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="364" type="line"/>
+      <point x="244" y="428" type="line"/>
+      <point x="244" y="493" type="line"/>
+      <point x="83" y="428" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="403" type="line"/>
+      <point x="167" y="434" type="line"/>
+      <point x="167" y="714" type="line"/>
+      <point x="83" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02B2dotless" format="2">
+  <advance width="300"/>
+  <anchor x="194.8" y="603.8" name="top"/>
+  <anchor x="180.5" y="138.20000000000002" name="bottom"/>
+  <outline>
+    <component base="jdotless" xScale="0.65" yScale="0.6" xOffset="83" yOffset="287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA655" format="2">
+  <advance width="300"/>
+  <unicode hex="A655"/>
+  <anchor x="150" y="535" name="top"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <outline>
+    <component base="afii10096" xScale="-1" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

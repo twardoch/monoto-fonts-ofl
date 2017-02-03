@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+  <advance width="500"/>
+  <unicode hex="0074"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="206" y="287" name="center"/>
+  <anchor x="238" y="682" name="top"/>
+  <anchor x="480" y="682" name="topright"/>
+  <outline>
+    <contour>
+      <point x="320" y="-10" type="curve" smooth="yes"/>
+      <point x="373" y="-10"/>
+      <point x="439" y="0"/>
+      <point x="485" y="18" type="curve"/>
+      <point x="485" y="153" type="line"/>
+      <point x="438" y="137"/>
+      <point x="398" y="132"/>
+      <point x="369" y="132" type="curve" smooth="yes"/>
+      <point x="329" y="132"/>
+      <point x="285" y="142"/>
+      <point x="285" y="219" type="curve" smooth="yes"/>
+      <point x="285" y="418" type="line"/>
+      <point x="481" y="418" type="line"/>
+      <point x="481" y="553" type="line"/>
+      <point x="286" y="553" type="line"/>
+      <point x="286" y="682" type="line"/>
+      <point x="188" y="682" type="line"/>
+      <point x="141" y="552" type="line"/>
+      <point x="10" y="492" type="line"/>
+      <point x="10" y="418" type="line"/>
+      <point x="130" y="418" type="line"/>
+      <point x="130" y="190" type="line" smooth="yes"/>
+      <point x="130" y="53"/>
+      <point x="207" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>304</integer>
+          <key>y</key>
+          <integer>214</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

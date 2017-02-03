@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D82" format="2">
+  <advance width="600"/>
+  <unicode hex="1D82"/>
+  <anchor x="187" y="764" name="top"/>
+  <anchor x="278" y="765" name="topright"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <outline>
+    <component base="f"/>
+    <component base="cyrillicbighooklc" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 01:36:55</string>
+    </dict>
+  </lib>
+</glyph>

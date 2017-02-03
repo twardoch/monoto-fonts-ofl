@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+  <advance width="300"/>
+  <unicode hex="004B"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="151" y="714" name="top"/>
+  <anchor x="279" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="250" type="line"/>
+      <point x="141" y="312" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="218" y="393" type="line"/>
+      <point x="294" y="714" type="line"/>
+      <point x="183" y="714" type="line"/>
+      <point x="154" y="479" type="line" smooth="yes"/>
+      <point x="148" y="432"/>
+      <point x="130" y="396"/>
+      <point x="119" y="362" type="curve"/>
+      <point x="119" y="714" type="line"/>
+      <point x="19" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:08:43</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

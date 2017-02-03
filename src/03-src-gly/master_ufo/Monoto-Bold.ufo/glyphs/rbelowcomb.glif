@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rbelowcomb" format="2">
+  <unicode hex="1DCA"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="8.950000000000003" y="-56.79999999999998" name="top"/>
+  <anchor x="103.0" y="-56.79999999999998" name="topright"/>
+  <anchor x="-17.14999999999999" y="-278.0" name="bottom"/>
+  <outline>
+    <component base="r" xScale="0.45" yScale="0.4" xOffset="-113" yOffset="-278"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:34:06</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

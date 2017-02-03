@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E9_uni02E5_uni02E5" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="154" y="636" type="line"/>
+      <point x="207" y="636" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="688" type="line"/>
+      <point x="129" y="688" type="line"/>
+      <point x="33" y="12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:23</string>
+    </dict>
+  </lib>
+</glyph>

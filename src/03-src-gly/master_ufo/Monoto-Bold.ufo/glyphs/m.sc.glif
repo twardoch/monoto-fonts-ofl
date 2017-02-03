@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="591" name="top"/>
+  <anchor x="480" y="591" name="topright"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="142" y="158" type="line" smooth="yes"/>
+      <point x="142" y="219"/>
+      <point x="117" y="458"/>
+      <point x="116" y="482" type="curve"/>
+      <point x="125" y="482" type="line"/>
+      <point x="176" y="175" type="line"/>
+      <point x="328" y="175" type="line"/>
+      <point x="379" y="484" type="line"/>
+      <point x="388" y="484" type="line"/>
+      <point x="386" y="462"/>
+      <point x="357" y="218"/>
+      <point x="357" y="158" type="curve" smooth="yes"/>
+      <point x="357" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="591" type="line"/>
+      <point x="283" y="591" type="line"/>
+      <point x="256" y="288" type="line"/>
+      <point x="253" y="288" type="line"/>
+      <point x="221" y="591" type="line"/>
+      <point x="10" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:06:18</string>
+    </dict>
+  </lib>
+</glyph>

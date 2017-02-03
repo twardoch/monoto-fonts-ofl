@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+  <advance width="500"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="67" y="302" type="line"/>
+      <point x="102" y="302" type="line" smooth="yes"/>
+      <point x="239" y="302"/>
+      <point x="306" y="367"/>
+      <point x="306" y="511" type="curve" smooth="yes"/>
+      <point x="306" y="656"/>
+      <point x="238" y="714"/>
+      <point x="108" y="714" type="curve" smooth="yes"/>
+      <point x="40" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="-10" type="curve" smooth="yes"/>
+      <point x="473" y="-10"/>
+      <point x="487" y="-8"/>
+      <point x="500" y="-4" type="curve"/>
+      <point x="500" y="21" type="line"/>
+      <point x="487" y="17"/>
+      <point x="474" y="15"/>
+      <point x="463" y="15" type="curve" smooth="yes"/>
+      <point x="405" y="15"/>
+      <point x="389" y="44"/>
+      <point x="389" y="114" type="curve" smooth="yes"/>
+      <point x="389" y="307" type="line"/>
+      <point x="500" y="307" type="line"/>
+      <point x="500" y="332" type="line"/>
+      <point x="389" y="332" type="line"/>
+      <point x="389" y="441" type="line"/>
+      <point x="370" y="441" type="line"/>
+      <point x="362" y="333" type="line"/>
+      <point x="289" y="327" type="line"/>
+      <point x="289" y="307" type="line"/>
+      <point x="363" y="307" type="line"/>
+      <point x="363" y="105" type="line" smooth="yes"/>
+      <point x="363" y="27"/>
+      <point x="389" y="-10"/>
+    </contour>
+    <contour>
+      <point x="67" y="327" type="line"/>
+      <point x="67" y="689" type="line"/>
+      <point x="105" y="689" type="line" smooth="yes"/>
+      <point x="224" y="689"/>
+      <point x="279" y="641"/>
+      <point x="279" y="512" type="curve" smooth="yes"/>
+      <point x="279" y="387"/>
+      <point x="227" y="327"/>
+      <point x="97" y="327" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

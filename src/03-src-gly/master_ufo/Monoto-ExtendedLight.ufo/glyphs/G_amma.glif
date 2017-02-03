@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="2">
+  <advance width="800"/>
+  <unicode hex="0393"/>
+  <anchor x="457" y="0" name="bottom"/>
+  <anchor x="457" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="689" type="line"/>
+      <point x="700" y="689" type="line"/>
+      <point x="700" y="714" type="line"/>
+      <point x="191" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

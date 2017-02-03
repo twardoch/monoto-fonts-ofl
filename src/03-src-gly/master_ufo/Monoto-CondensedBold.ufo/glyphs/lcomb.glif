@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcomb" format="2">
+  <unicode hex="1DDD"/>
+  <anchor x="0" y="545" name="_top"/>
+  <anchor x="9.5" y="924.0" name="top"/>
+  <anchor x="10.400000000000006" y="772.8" name="center"/>
+  <anchor x="56.75" y="924.0" name="topright"/>
+  <anchor x="10.400000000000006" y="620.0" name="bottom"/>
+  <outline>
+    <component base="l" xScale="0.45" yScale="0.4" xOffset="-58" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:34:06</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

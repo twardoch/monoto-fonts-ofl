@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB60" format="2">
+  <advance width="800"/>
+  <unicode hex="AB60"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="528" type="line"/>
+      <point x="102" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="0" type="line"/>
+      <point x="520" y="0" type="line" smooth="yes"/>
+      <point x="690" y="0"/>
+      <point x="776" y="56"/>
+      <point x="776" y="156" type="curve" smooth="yes"/>
+      <point x="776" y="244"/>
+      <point x="703" y="302"/>
+      <point x="540" y="302" type="curve" smooth="yes"/>
+      <point x="352" y="302" type="line"/>
+      <point x="352" y="528" type="line"/>
+      <point x="326" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="25" type="line"/>
+      <point x="352" y="277" type="line"/>
+      <point x="536" y="277" type="line" smooth="yes"/>
+      <point x="680" y="277"/>
+      <point x="746" y="233"/>
+      <point x="746" y="157" type="curve" smooth="yes"/>
+      <point x="746" y="72"/>
+      <point x="686" y="25"/>
+      <point x="513" y="25" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:08:06</string>
+    </dict>
+  </lib>
+</glyph>

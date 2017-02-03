@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="2">
+  <advance width="300"/>
+  <anchor x="161" y="0" name="bottom"/>
+  <anchor x="102" y="291" name="center"/>
+  <anchor x="99" y="582" name="top"/>
+  <anchor x="163" y="582" name="topright"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="102" type="line"/>
+      <point x="156" y="102" type="line"/>
+      <point x="156" y="582" type="line"/>
+      <point x="45" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F6E" format="2">
+  <advance width="800"/>
+  <unicode hex="1F6E"/>
+  <anchor x="1039" y="0" name="bottom"/>
+  <anchor x="1038" y="714" name="top"/>
+  <anchor x="-2" y="714" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="uni1FCF" xOffset="-2" yOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 01:56:59</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

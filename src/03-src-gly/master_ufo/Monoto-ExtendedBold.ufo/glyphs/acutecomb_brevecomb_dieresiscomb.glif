@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb_brevecomb_dieresiscomb" format="2">
+  <anchor x="0" y="557" name="_top"/>
+  <anchor x="0" y="993" name="top"/>
+  <outline>
+    <contour>
+      <point x="-3" y="739" type="curve"/>
+      <point x="155" y="739"/>
+      <point x="242" y="823"/>
+      <point x="252" y="945" type="curve"/>
+      <point x="146" y="945" type="line"/>
+      <point x="137" y="880"/>
+      <point x="77" y="832"/>
+      <point x="-1" y="832" type="curve"/>
+      <point x="-83" y="832"/>
+      <point x="-141" y="876"/>
+      <point x="-149" y="945" type="curve"/>
+      <point x="-252" y="945" type="line"/>
+      <point x="-245" y="818"/>
+      <point x="-166" y="739"/>
+    </contour>
+    <contour>
+      <point x="-141" y="576" type="curve"/>
+      <point x="-90" y="576"/>
+      <point x="-51" y="602"/>
+      <point x="-51" y="646" type="curve"/>
+      <point x="-51" y="693"/>
+      <point x="-90" y="719"/>
+      <point x="-141" y="719" type="curve"/>
+      <point x="-195" y="719"/>
+      <point x="-231" y="693"/>
+      <point x="-231" y="646" type="curve"/>
+      <point x="-231" y="602"/>
+      <point x="-195" y="576"/>
+    </contour>
+    <contour>
+      <point x="140" y="576" type="curve"/>
+      <point x="193" y="576"/>
+      <point x="231" y="602"/>
+      <point x="231" y="646" type="curve"/>
+      <point x="231" y="693"/>
+      <point x="193" y="719"/>
+      <point x="140" y="719" type="curve"/>
+      <point x="86" y="719"/>
+      <point x="51" y="693"/>
+      <point x="51" y="646" type="curve"/>
+      <point x="51" y="602"/>
+      <point x="86" y="576"/>
+    </contour>
+    <contour>
+      <point x="-70" y="882" type="line"/>
+      <point x="21" y="882" type="line"/>
+      <point x="67" y="909"/>
+      <point x="127" y="958"/>
+      <point x="165" y="983" type="curve"/>
+      <point x="165" y="993" type="line"/>
+      <point x="12" y="993" type="line"/>
+      <point x="-12" y="968"/>
+      <point x="-44" y="917"/>
+      <point x="-70" y="896" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 09:43:38</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="800"/>
+  <unicode hex="013E"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="760" name="top"/>
+  <anchor x="658" y="760" name="topright"/>
+  <anchor x="398" y="391" name="center"/>
+  <outline>
+    <component base="l" xOffset="-30"/>
+    <component base="caroncommaaccent" xOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

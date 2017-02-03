@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="300"/>
+  <unicode hex="012E"/>
+  <anchor x="150" y="-223" name="bottom"/>
+  <anchor x="150" y="714" name="top"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <anchor x="205" y="10" name="ogonek"/>
+  <anchor x="288" y="714" name="topright"/>
+  <outline>
+    <component base="I" xOffset="10"/>
+    <component base="ogonek" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 09:33:30</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

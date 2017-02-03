@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.sc" format="2">
+  <advance width="300"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="98" y="571" name="top"/>
+  <anchor x="200" y="571" name="topright"/>
+  <anchor x="99" y="285" name="center"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="caroncommaaccent" xOffset="73" yOffset="-188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 01:40:31</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

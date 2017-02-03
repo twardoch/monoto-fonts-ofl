@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedSansSerifL" format="2">
+  <advance width="300"/>
+  <unicode hex="2143"/>
+  <anchor x="210" y="714" name="top"/>
+  <anchor x="140" y="357" name="center"/>
+  <anchor x="71" y="714" name="topright"/>
+  <anchor x="130" y="0" name="bottom"/>
+  <outline>
+    <component base="L" xScale="-1" xOffset="290"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:23</string>
+    </dict>
+  </lib>
+</glyph>

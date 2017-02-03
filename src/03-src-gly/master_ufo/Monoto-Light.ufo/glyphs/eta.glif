@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="2">
+  <advance width="500"/>
+  <unicode hex="03B7"/>
+  <anchor x="246" y="-240" name="bottom"/>
+  <anchor x="250" y="528" name="top"/>
+  <anchor x="480" y="528" name="topright"/>
+  <outline>
+    <contour>
+      <point x="394" y="-240" type="line"/>
+      <point x="420" y="-240" type="line"/>
+      <point x="420" y="68" type="line"/>
+      <point x="394" y="68" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 22:22:20</string>
+    </dict>
+  </lib>
+</glyph>

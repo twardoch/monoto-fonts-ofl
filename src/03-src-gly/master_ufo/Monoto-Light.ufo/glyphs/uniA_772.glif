@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA772" format="2">
+  <advance width="500"/>
+  <unicode hex="A772"/>
+  <anchor x="268" y="760" name="top"/>
+  <anchor x="273" y="376" name="center"/>
+  <anchor x="414" y="760" name="topright"/>
+  <anchor x="273" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="50" y="-157" type="line"/>
+      <point x="78" y="-157" type="line"/>
+      <point x="232" y="184" type="line"/>
+      <point x="204" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="25" type="line"/>
+      <point x="50" y="25" type="line"/>
+    </contour>
+    <component base="l" xOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

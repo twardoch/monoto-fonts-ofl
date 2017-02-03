@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10097" format="2">
+  <advance width="300"/>
+  <unicode hex="044F"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="168" y="545" name="top"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="166" y="210" type="line"/>
+      <point x="173" y="210" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="545" type="line"/>
+      <point x="146" y="545" type="line" smooth="yes"/>
+      <point x="78" y="545"/>
+      <point x="42" y="484"/>
+      <point x="42" y="379" type="curve" smooth="yes"/>
+      <point x="42" y="301"/>
+      <point x="55" y="245"/>
+      <point x="71" y="225" type="curve"/>
+    </contour>
+    <contour>
+      <point x="166" y="297" type="line" smooth="yes"/>
+      <point x="159" y="297"/>
+      <point x="152" y="325"/>
+      <point x="152" y="376" type="curve" smooth="yes"/>
+      <point x="152" y="427"/>
+      <point x="157" y="457"/>
+      <point x="163" y="457" type="curve" smooth="yes"/>
+      <point x="173" y="457" type="line"/>
+      <point x="173" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

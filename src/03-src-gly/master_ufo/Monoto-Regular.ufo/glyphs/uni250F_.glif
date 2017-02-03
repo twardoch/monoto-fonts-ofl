@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni250F" format="2">
+  <advance width="500"/>
+  <unicode hex="250F"/>
+  <outline>
+    <contour>
+      <point x="184" y="433" type="line"/>
+      <point x="184" y="-246" type="line"/>
+      <point x="316" y="-246" type="line"/>
+      <point x="316" y="301" type="line"/>
+      <point x="506" y="301" type="line"/>
+      <point x="506" y="433" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:21:36</string>
+    </dict>
+  </lib>
+</glyph>

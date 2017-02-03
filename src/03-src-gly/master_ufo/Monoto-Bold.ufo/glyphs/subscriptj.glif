@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="subscriptj" format="2">
+  <advance width="500"/>
+  <unicode hex="2C7C"/>
+  <anchor x="307.15" y="464.4" name="top"/>
+  <anchor x="430.0" y="464.4" name="topright"/>
+  <anchor x="231.75" y="-147.0" name="bottom"/>
+  <outline>
+    <component base="j" xScale="0.65" yScale="0.6" xOffset="118"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 00:09:39</string>
+    </dict>
+  </lib>
+</glyph>

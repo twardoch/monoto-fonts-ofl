@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii61352" format="2">
+  <advance width="800"/>
+  <unicode hex="2116"/>
+  <anchor x="28" y="714" name="top"/>
+  <anchor x="451" y="714" name="topright"/>
+  <anchor x="21" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="850" y="130" type="curve" smooth="yes"/>
+      <point x="1002" y="130"/>
+      <point x="1096" y="200"/>
+      <point x="1096" y="337" type="curve" smooth="yes"/>
+      <point x="1096" y="479"/>
+      <point x="1003" y="548"/>
+      <point x="850" y="548" type="curve" smooth="yes"/>
+      <point x="700" y="548"/>
+      <point x="602" y="479"/>
+      <point x="602" y="341" type="curve" smooth="yes"/>
+      <point x="602" y="200"/>
+      <point x="698" y="130"/>
+    </contour>
+    <contour>
+      <point x="671" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1028" y="72" type="line"/>
+      <point x="671" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="850" y="200" type="curve" smooth="yes"/>
+      <point x="737" y="200"/>
+      <point x="683" y="254"/>
+      <point x="683" y="340" type="curve" smooth="yes"/>
+      <point x="683" y="426"/>
+      <point x="741" y="479"/>
+      <point x="851" y="479" type="curve" smooth="yes"/>
+      <point x="965" y="479"/>
+      <point x="1016" y="426"/>
+      <point x="1016" y="340" type="curve" smooth="yes"/>
+      <point x="1016" y="254"/>
+      <point x="963" y="200"/>
+    </contour>
+    <component base="N" xOffset="-379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:23:42</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

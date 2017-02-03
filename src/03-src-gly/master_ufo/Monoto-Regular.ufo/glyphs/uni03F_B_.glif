@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03FB" format="2">
+  <advance width="500"/>
+  <unicode hex="03FB"/>
+  <anchor x="250" y="-240" name="bottom"/>
+  <anchor x="250" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="-240" type="line"/>
+      <point x="125" y="-240" type="line"/>
+      <point x="125" y="347" type="line" smooth="yes"/>
+      <point x="125" y="376"/>
+      <point x="125" y="415"/>
+      <point x="123" y="440" type="curve"/>
+      <point x="219" y="183" type="line"/>
+      <point x="279" y="183" type="line"/>
+      <point x="376" y="442" type="line"/>
+      <point x="374" y="417"/>
+      <point x="373" y="378"/>
+      <point x="373" y="351" type="curve"/>
+      <point x="373" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="537" type="line"/>
+      <point x="346" y="537" type="line"/>
+      <point x="250" y="274" type="line"/>
+      <point x="152" y="537" type="line"/>
+      <point x="49" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 02:03:17</string>
+    </dict>
+  </lib>
+</glyph>

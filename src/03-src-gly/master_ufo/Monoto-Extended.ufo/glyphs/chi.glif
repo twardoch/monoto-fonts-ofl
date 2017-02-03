@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="2">
+  <advance width="800"/>
+  <unicode hex="03C7"/>
+  <anchor x="393" y="-243" name="bottom"/>
+  <anchor x="393" y="537" name="top"/>
+  <anchor x="801" y="537" name="topright"/>
+  <outline>
+    <contour>
+      <point x="670" y="-243" type="curve" smooth="yes"/>
+      <point x="702" y="-243"/>
+      <point x="725" y="-238"/>
+      <point x="743" y="-234" type="curve"/>
+      <point x="743" y="-161" type="line"/>
+      <point x="727" y="-163"/>
+      <point x="707" y="-166"/>
+      <point x="687" y="-166" type="curve" smooth="yes"/>
+      <point x="624" y="-166"/>
+      <point x="592" y="-137"/>
+      <point x="563" y="-76" type="curve" smooth="yes"/>
+      <point x="450" y="162" type="line"/>
+      <point x="707" y="537" type="line"/>
+      <point x="606" y="537" type="line"/>
+      <point x="406" y="253" type="line"/>
+      <point x="321" y="420" type="line" smooth="yes"/>
+      <point x="281" y="498"/>
+      <point x="247" y="541"/>
+      <point x="166" y="541" type="curve" smooth="yes"/>
+      <point x="135" y="541"/>
+      <point x="107" y="536"/>
+      <point x="89" y="532" type="curve"/>
+      <point x="89" y="458" type="line"/>
+      <point x="105" y="462"/>
+      <point x="122" y="464"/>
+      <point x="139" y="464" type="curve" smooth="yes"/>
+      <point x="182" y="464"/>
+      <point x="209" y="434"/>
+      <point x="235" y="383" type="curve" smooth="yes"/>
+      <point x="341" y="172" type="line"/>
+      <point x="60" y="-240" type="line"/>
+      <point x="162" y="-240" type="line"/>
+      <point x="386" y="78" type="line"/>
+      <point x="481" y="-105" type="line" smooth="yes"/>
+      <point x="511" y="-162"/>
+      <point x="546" y="-243"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

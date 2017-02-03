@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eopenreversedhook" format="2">
+  <advance width="300"/>
+  <unicode hex="025D"/>
+  <anchor x="112" y="0" name="bottom"/>
+  <anchor x="108" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="262" y="278" type="curve" smooth="yes"/>
+      <point x="279" y="278"/>
+      <point x="290" y="292"/>
+      <point x="300" y="308" type="curve"/>
+      <point x="289" y="345" type="line"/>
+      <point x="284" y="335"/>
+      <point x="277" y="328"/>
+      <point x="269" y="328" type="curve" smooth="yes"/>
+      <point x="255" y="328"/>
+      <point x="249" y="347"/>
+      <point x="244" y="415" type="curve" smooth="yes"/>
+      <point x="240" y="464" type="line"/>
+      <point x="196" y="446" type="line"/>
+      <point x="197" y="387" type="line"/>
+      <point x="212" y="393" type="line"/>
+      <point x="220" y="305"/>
+      <point x="237" y="278"/>
+    </contour>
+    <component base="afii10073" xOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

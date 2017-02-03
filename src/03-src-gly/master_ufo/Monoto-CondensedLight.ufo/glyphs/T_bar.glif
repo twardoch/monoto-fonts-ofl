@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="300"/>
+  <unicode hex="0166"/>
+  <anchor x="139" y="0" name="bottom"/>
+  <anchor x="139" y="714" name="top"/>
+  <anchor x="278" y="714" name="topright"/>
+  <anchor x="149" y="357" name="center"/>
+  <outline>
+    <contour>
+      <point x="55" y="359" type="line"/>
+      <point x="245" y="359" type="line"/>
+      <point x="245" y="384" type="line"/>
+      <point x="55" y="384" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 10:01:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

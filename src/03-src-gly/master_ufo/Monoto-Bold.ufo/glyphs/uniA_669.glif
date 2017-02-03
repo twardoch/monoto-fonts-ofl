@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA669" format="2">
+  <advance width="500"/>
+  <unicode hex="A669"/>
+  <anchor x="250.0" y="756.1107999999999" name="top"/>
+  <anchor x="253" y="10" name="ogonek"/>
+  <anchor x="499" y="553" name="topright"/>
+  <anchor x="250" y="277" name="center"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotaccentcomb" xScale="0.6294" yScale="0.9289" xOffset="250" yOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes />
+    <sources>
+        <source familyname="Monoto" filename="Monoto-CondensedLight.ufo" name="Monoto Condensed Light" stylename="Condensed Light">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-Condensed.ufo" name="Monoto Condensed" stylename="Condensed">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-CondensedBold.ufo" name="Monoto Condensed Bold" stylename="Condensed Bold">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-Light.ufo" name="Monoto Light" stylename="Light">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-Regular.ufo" name="Monoto Regular" stylename="Regular">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-Bold.ufo" name="Monoto Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-ExtendedLight.ufo" name="Monoto Extended Light" stylename="Extended Light">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-Extended.ufo" name="Monoto Extended" stylename="Extended">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+        </source>
+        <source familyname="Monoto" filename="Monoto-ExtendedBold.ufo" name="Monoto Extended Bold" stylename="Extended Bold">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd100Th.ufo" name="Monoto 1 UlCd 100 Th" stylename="1 UlCd 100 Th">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd200ExLt.ufo" name="Monoto 1 UlCd 200 ExLt" stylename="1 UlCd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd300Lt.ufo" name="Monoto 1 UlCd 300 Lt" stylename="1 UlCd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd400Rg.ufo" name="Monoto 1 UlCd 400 Rg" stylename="1 UlCd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd500Md.ufo" name="Monoto 1 UlCd 500 Md" stylename="1 UlCd 500 Md">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd600SmBd.ufo" name="Monoto 1 UlCd 600 SmBd" stylename="1 UlCd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd700Bd.ufo" name="Monoto 1 UlCd 700 Bd" stylename="1 UlCd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd800ExBd.ufo" name="Monoto 1 UlCd 800 ExBd" stylename="1 UlCd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-1UlCd900Blk.ufo" name="Monoto 1 UlCd 900 Blk" stylename="1 UlCd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="60.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd100Th.ufo" name="Monoto 2 ExCd 100 Th" stylename="2 ExCd 100 Th">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd200ExLt.ufo" name="Monoto 2 ExCd 200 ExLt" stylename="2 ExCd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd300Lt.ufo" name="Monoto 2 ExCd 300 Lt" stylename="2 ExCd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd400Rg.ufo" name="Monoto 2 ExCd 400 Rg" stylename="2 ExCd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd500Md.ufo" name="Monoto 2 ExCd 500 Md" stylename="2 ExCd 500 Md">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd600SmBd.ufo" name="Monoto 2 ExCd 600 SmBd" stylename="2 ExCd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd700Bd.ufo" name="Monoto 2 ExCd 700 Bd" stylename="2 ExCd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd800ExBd.ufo" name="Monoto 2 ExCd 800 ExBd" stylename="2 ExCd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-2ExCd900Blk.ufo" name="Monoto 2 ExCd 900 Blk" stylename="2 ExCd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="67.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd100Th.ufo" name="Monoto 3 Cd 100 Th" stylename="3 Cd 100 Th">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd200ExLt.ufo" name="Monoto 3 Cd 200 ExLt" stylename="3 Cd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd300Lt.ufo" name="Monoto 3 Cd 300 Lt" stylename="3 Cd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd400Rg.ufo" name="Monoto 3 Cd 400 Rg" stylename="3 Cd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd500Md.ufo" name="Monoto 3 Cd 500 Md" stylename="3 Cd 500 Md">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd600SmBd.ufo" name="Monoto 3 Cd 600 SmBd" stylename="3 Cd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd700Bd.ufo" name="Monoto 3 Cd 700 Bd" stylename="3 Cd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd800ExBd.ufo" name="Monoto 3 Cd 800 ExBd" stylename="3 Cd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-3Cd900Blk.ufo" name="Monoto 3 Cd 900 Blk" stylename="3 Cd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="80.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd100Th.ufo" name="Monoto 4 SmCd 100 Th" stylename="4 SmCd 100 Th">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd200ExLt.ufo" name="Monoto 4 SmCd 200 ExLt" stylename="4 SmCd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd300Lt.ufo" name="Monoto 4 SmCd 300 Lt" stylename="4 SmCd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd400Rg.ufo" name="Monoto 4 SmCd 400 Rg" stylename="4 SmCd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd500Md.ufo" name="Monoto 4 SmCd 500 Md" stylename="4 SmCd 500 Md">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd600SmBd.ufo" name="Monoto 4 SmCd 600 SmBd" stylename="4 SmCd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd700Bd.ufo" name="Monoto 4 SmCd 700 Bd" stylename="4 SmCd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd800ExBd.ufo" name="Monoto 4 SmCd 800 ExBd" stylename="4 SmCd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-4SmCd900Blk.ufo" name="Monoto 4 SmCd 900 Blk" stylename="4 SmCd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="90.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No100Th.ufo" name="Monoto 5 No 100 Th" stylename="5 No 100 Th">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No200ExLt.ufo" name="Monoto 5 No 200 ExLt" stylename="5 No 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No300Lt.ufo" name="Monoto 5 No 300 Lt" stylename="5 No 300 Lt">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No400Rg.ufo" name="Monoto 5 No 400 Rg" stylename="5 No 400 Rg">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No500Md.ufo" name="Monoto 5 No 500 Md" stylename="5 No 500 Md">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No600SmBd.ufo" name="Monoto 5 No 600 SmBd" stylename="5 No 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No700Bd.ufo" name="Monoto 5 No 700 Bd" stylename="5 No 700 Bd">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No800ExBd.ufo" name="Monoto 5 No 800 ExBd" stylename="5 No 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-5No900Blk.ufo" name="Monoto 5 No 900 Blk" stylename="5 No 900 Blk">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd100Th.ufo" name="Monoto 6 SmWd 100 Th" stylename="6 SmWd 100 Th">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd200ExLt.ufo" name="Monoto 6 SmWd 200 ExLt" stylename="6 SmWd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd300Lt.ufo" name="Monoto 6 SmWd 300 Lt" stylename="6 SmWd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd400Rg.ufo" name="Monoto 6 SmWd 400 Rg" stylename="6 SmWd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd500Md.ufo" name="Monoto 6 SmWd 500 Md" stylename="6 SmWd 500 Md">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd600SmBd.ufo" name="Monoto 6 SmWd 600 SmBd" stylename="6 SmWd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd700Bd.ufo" name="Monoto 6 SmWd 700 Bd" stylename="6 SmWd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd800ExBd.ufo" name="Monoto 6 SmWd 800 ExBd" stylename="6 SmWd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-6SmWd900Blk.ufo" name="Monoto 6 SmWd 900 Blk" stylename="6 SmWd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="120.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd100Th.ufo" name="Monoto 7 Wd 100 Th" stylename="7 Wd 100 Th">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd200ExLt.ufo" name="Monoto 7 Wd 200 ExLt" stylename="7 Wd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd300Lt.ufo" name="Monoto 7 Wd 300 Lt" stylename="7 Wd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd400Rg.ufo" name="Monoto 7 Wd 400 Rg" stylename="7 Wd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd500Md.ufo" name="Monoto 7 Wd 500 Md" stylename="7 Wd 500 Md">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd600SmBd.ufo" name="Monoto 7 Wd 600 SmBd" stylename="7 Wd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd700Bd.ufo" name="Monoto 7 Wd 700 Bd" stylename="7 Wd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd800ExBd.ufo" name="Monoto 7 Wd 800 ExBd" stylename="7 Wd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-7Wd900Blk.ufo" name="Monoto 7 Wd 900 Blk" stylename="7 Wd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="133.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd100Th.ufo" name="Monoto 8 ExWd 100 Th" stylename="8 ExWd 100 Th">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd200ExLt.ufo" name="Monoto 8 ExWd 200 ExLt" stylename="8 ExWd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd300Lt.ufo" name="Monoto 8 ExWd 300 Lt" stylename="8 ExWd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd400Rg.ufo" name="Monoto 8 ExWd 400 Rg" stylename="8 ExWd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd500Md.ufo" name="Monoto 8 ExWd 500 Md" stylename="8 ExWd 500 Md">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd600SmBd.ufo" name="Monoto 8 ExWd 600 SmBd" stylename="8 ExWd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd700Bd.ufo" name="Monoto 8 ExWd 700 Bd" stylename="8 ExWd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd800ExBd.ufo" name="Monoto 8 ExWd 800 ExBd" stylename="8 ExWd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-8ExWd900Blk.ufo" name="Monoto 8 ExWd 900 Blk" stylename="8 ExWd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="147.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd100Th.ufo" name="Monoto 9 UlWd 100 Th" stylename="9 UlWd 100 Th">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="26.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd200ExLt.ufo" name="Monoto 9 UlWd 200 ExLt" stylename="9 UlWd 200 ExLt">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="42.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd300Lt.ufo" name="Monoto 9 UlWd 300 Lt" stylename="9 UlWd 300 Lt">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="66.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd400Rg.ufo" name="Monoto 9 UlWd 400 Rg" stylename="9 UlWd 400 Rg">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="90.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd500Md.ufo" name="Monoto 9 UlWd 500 Md" stylename="9 UlWd 500 Md">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="105.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd600SmBd.ufo" name="Monoto 9 UlWd 600 SmBd" stylename="9 UlWd 600 SmBd">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="121.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd700Bd.ufo" name="Monoto 9 UlWd 700 Bd" stylename="9 UlWd 700 Bd">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="141.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd800ExBd.ufo" name="Monoto 9 UlWd 800 ExBd" stylename="9 UlWd 800 ExBd">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="164.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Monoto" filename="../instance_ufo/Monoto-9UlWd900Blk.ufo" name="Monoto 9 UlWd 900 Blk" stylename="9 UlWd 900 Blk">
+            <location>
+                <dimension name="width" xvalue="160.000000" />
+                <dimension name="weight" xvalue="190.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+    </instances>
+</designspace>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+  <advance width="800"/>
+  <unicode hex="0071"/>
+  <anchor x="387" y="-240" name="bottom"/>
+  <anchor x="387" y="528" name="top"/>
+  <anchor x="801" y="528" name="topright"/>
+  <outline>
+    <contour>
+      <point x="649" y="-240" type="line"/>
+      <point x="675" y="-240" type="line"/>
+      <point x="675" y="528" type="line"/>
+      <point x="652" y="528" type="line"/>
+      <point x="648" y="422" type="line"/>
+      <point x="646" y="422" type="line"/>
+      <point x="614" y="484"/>
+      <point x="531" y="537"/>
+      <point x="382" y="537" type="curve" smooth="yes"/>
+      <point x="161" y="537"/>
+      <point x="73" y="416"/>
+      <point x="73" y="254" type="curve" smooth="yes"/>
+      <point x="73" y="86"/>
+      <point x="170" y="-10"/>
+      <point x="368" y="-10" type="curve" smooth="yes"/>
+      <point x="522" y="-10"/>
+      <point x="610" y="46"/>
+      <point x="649" y="124" type="curve"/>
+      <point x="652" y="124" type="line"/>
+      <point x="650" y="91"/>
+      <point x="649" y="35"/>
+      <point x="649" y="3" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="365" y="15" type="curve" smooth="yes"/>
+      <point x="187" y="15"/>
+      <point x="100" y="98"/>
+      <point x="100" y="256" type="curve" smooth="yes"/>
+      <point x="100" y="420"/>
+      <point x="196" y="512"/>
+      <point x="380" y="512" type="curve" smooth="yes"/>
+      <point x="556" y="512"/>
+      <point x="649" y="430"/>
+      <point x="649" y="275" type="curve" smooth="yes"/>
+      <point x="649" y="265" type="line" smooth="yes"/>
+      <point x="649" y="109"/>
+      <point x="556" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

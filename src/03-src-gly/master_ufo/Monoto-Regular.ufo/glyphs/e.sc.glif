@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="2">
+  <advance width="500"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="268" y="572" name="top"/>
+  <anchor x="480" y="572" name="topright"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="422" y="71" type="line"/>
+      <point x="182" y="71" type="line"/>
+      <point x="182" y="262" type="line"/>
+      <point x="409" y="262" type="line"/>
+      <point x="409" y="332" type="line"/>
+      <point x="182" y="332" type="line"/>
+      <point x="182" y="501" type="line"/>
+      <point x="422" y="501" type="line"/>
+      <point x="422" y="572" type="line"/>
+      <point x="98" y="572" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotereversed" format="2">
+  <advance width="500"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="224" y="437" type="curve"/>
+      <point x="344" y="437" type="line"/>
+      <point x="328" y="515"/>
+      <point x="312" y="636"/>
+      <point x="306" y="714" type="curve"/>
+      <point x="162" y="714" type="line"/>
+      <point x="156" y="703" type="line"/>
+      <point x="172" y="599"/>
+      <point x="195" y="510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:21:36</string>
+    </dict>
+  </lib>
+</glyph>

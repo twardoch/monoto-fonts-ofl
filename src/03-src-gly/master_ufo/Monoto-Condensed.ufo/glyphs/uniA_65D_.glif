@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65D" format="2">
+  <advance width="300"/>
+  <unicode hex="A65D"/>
+  <outline>
+    <contour>
+      <point x="-70" y="0" type="line"/>
+      <point x="-4" y="0" type="line"/>
+      <point x="-4" y="246" type="line"/>
+      <point x="153" y="246" type="line"/>
+      <point x="168" y="312" type="line"/>
+      <point x="-4" y="312" type="line"/>
+      <point x="-4" y="536" type="line"/>
+      <point x="-70" y="536" type="line"/>
+    </contour>
+    <component base="uniA659" xOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:23:42</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA775" format="2">
+  <advance width="800"/>
+  <unicode hex="A775"/>
+  <outline>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="297" type="line" smooth="yes"/>
+      <point x="223" y="430"/>
+      <point x="300" y="512"/>
+      <point x="513" y="512" type="curve" smooth="yes"/>
+      <point x="570" y="512"/>
+      <point x="635" y="505"/>
+      <point x="693" y="498" type="curve"/>
+      <point x="701" y="522" type="line"/>
+      <point x="648" y="529"/>
+      <point x="574" y="536"/>
+      <point x="508" y="536" type="curve" smooth="yes"/>
+      <point x="333" y="536"/>
+      <point x="253" y="488"/>
+      <point x="227" y="427" type="curve"/>
+      <point x="225" y="427" type="line"/>
+      <point x="223" y="528" type="line"/>
+      <point x="197" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="304" type="line"/>
+      <point x="439" y="304" type="line"/>
+      <point x="621" y="700" type="line"/>
+      <point x="592" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

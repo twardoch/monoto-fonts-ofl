@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D62dotless" format="2">
+  <advance width="800"/>
+  <anchor x="375.35" y="238.2" name="top"/>
+  <anchor x="598.95" y="-90.0" name="ogonek"/>
+  <anchor x="375.35" y="-96.0" name="bottom"/>
+  <outline>
+    <component base="idotless" xScale="0.65" yScale="0.6" xOffset="116" yOffset="-96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xabovecomb" format="2">
+  <unicode hex="033D"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="767" name="top"/>
+  <outline>
+    <contour>
+      <point x="-34" y="579" type="line"/>
+      <point x="0" y="639" type="line"/>
+      <point x="34" y="579" type="line"/>
+      <point x="55" y="613" type="line"/>
+      <point x="20" y="673" type="line"/>
+      <point x="55" y="733" type="line"/>
+      <point x="34" y="767" type="line"/>
+      <point x="0" y="706" type="line"/>
+      <point x="-34" y="767" type="line"/>
+      <point x="-55" y="733" type="line"/>
+      <point x="-21" y="673" type="line"/>
+      <point x="-55" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/02 09:43:38</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

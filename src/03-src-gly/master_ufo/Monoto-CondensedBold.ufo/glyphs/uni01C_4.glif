@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C4" format="2">
+  <advance width="300"/>
+  <unicode hex="01C4"/>
+  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="189" y="944" name="top"/>
+  <anchor x="263" y="714" name="topright_2"/>
+  <anchor x="-185" y="714" name="topright_1"/>
+  <anchor x="-319" y="357" name="center"/>
+  <outline>
+    <component base="caron" xOffset="45" yOffset="178"/>
+    <component base="uni01F1" xOffset="-250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:23:42</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

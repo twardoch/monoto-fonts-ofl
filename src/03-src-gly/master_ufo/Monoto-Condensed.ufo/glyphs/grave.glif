@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+  <advance width="300"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="152" y="606" type="curve"/>
+      <point x="198" y="606" type="line"/>
+      <point x="198" y="617" type="line"/>
+      <point x="184" y="654"/>
+      <point x="160" y="720"/>
+      <point x="148" y="766" type="curve"/>
+      <point x="75" y="766" type="line"/>
+      <point x="75" y="757" type="line"/>
+      <point x="90" y="714"/>
+      <point x="132" y="641"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:25</string>
+    </dict>
+  </lib>
+</glyph>

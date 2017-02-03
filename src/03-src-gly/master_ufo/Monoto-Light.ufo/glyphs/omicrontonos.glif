@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicrontonos" format="2">
+  <advance width="500"/>
+  <unicode hex="03CC"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="290" y="797" name="top"/>
+  <anchor x="251" y="15" name="ogonek"/>
+  <anchor x="480" y="528" name="topright"/>
+  <anchor x="250" y="264" name="center"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="tonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

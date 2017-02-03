@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04E6" format="2">
+  <advance width="300"/>
+  <unicode hex="04E6"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="907" name="top"/>
+  <anchor x="22" y="714" name="topleft"/>
+  <anchor x="159" y="10" name="ogonek"/>
+  <anchor x="150" y="357" name="center"/>
+  <anchor x="290" y="714" name="topright"/>
+  <outline>
+    <component base="afii10032"/>
+    <component base="dieresiscomb" xOffset="150" yOffset="169"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

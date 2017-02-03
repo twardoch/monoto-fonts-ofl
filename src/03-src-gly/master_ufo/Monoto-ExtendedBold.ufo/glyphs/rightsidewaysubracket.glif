@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightsidewaysubracket" format="2">
+  <advance width="800"/>
+  <unicode hex="2E27"/>
+  <outline>
+    <contour>
+      <point x="-14" y="193" type="line"/>
+      <point x="396" y="193" type="line"/>
+      <point x="597" y="193"/>
+      <point x="813" y="195"/>
+      <point x="813" y="354" type="curve"/>
+      <point x="813" y="513"/>
+      <point x="597" y="515"/>
+      <point x="396" y="515" type="curve"/>
+      <point x="-14" y="515" type="line"/>
+      <point x="-14" y="467" type="line"/>
+      <point x="396" y="467" type="line"/>
+      <point x="576" y="467"/>
+      <point x="747" y="461"/>
+      <point x="747" y="354" type="curve"/>
+      <point x="747" y="247"/>
+      <point x="576" y="241"/>
+      <point x="396" y="241" type="curve"/>
+      <point x="-14" y="241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:23</string>
+    </dict>
+  </lib>
+</glyph>

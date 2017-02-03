@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RotatedQ" format="2">
+  <advance width="800"/>
+  <unicode hex="213A"/>
+  <anchor x="76" y="-52" name="topleft"/>
+  <anchor x="433" y="349" name="center"/>
+  <anchor x="1010" y="379" name="bottom"/>
+  <anchor x="76" y="379" name="top"/>
+  <anchor x="76" y="809" name="topright"/>
+  <anchor x="780" y="344" name="ogonek"/>
+  <outline>
+    <component base="Q" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="790" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 20:31:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E27" format="2">
+  <advance width="800"/>
+  <unicode hex="1E27"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="155" y="985" name="top"/>
+  <anchor x="802" y="760" name="topright"/>
+  <anchor x="400" y="279" name="center"/>
+  <outline>
+    <component base="h"/>
+    <component base="dieresiscomb" xOffset="155" yOffset="203"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

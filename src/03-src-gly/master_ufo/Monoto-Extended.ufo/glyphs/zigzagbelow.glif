@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zigzagbelow" format="2">
+  <unicode hex="1DCF"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-231" name="bottom"/>
+  <outline>
+    <component base="zigzagabovecomb" xOffset="1" yOffset="-824"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:17:24</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

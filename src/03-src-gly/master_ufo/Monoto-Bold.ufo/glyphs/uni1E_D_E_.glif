@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDE" format="2">
+  <advance width="500"/>
+  <unicode hex="1EDE"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="990" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <anchor x="267" y="10" name="ogonek"/>
+  <anchor x="250" y="357" name="center"/>
+  <anchor x="500" y="714" name="topright"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="hookabovecomb" xOffset="250" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

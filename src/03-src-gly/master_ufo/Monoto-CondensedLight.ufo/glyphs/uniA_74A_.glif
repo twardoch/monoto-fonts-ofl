@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA74A" format="2">
+  <advance width="300"/>
+  <unicode hex="A74A"/>
+  <anchor x="31" y="714" name="topleft"/>
+  <anchor x="159" y="357" name="center"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="159" y="714" name="top"/>
+  <anchor x="299" y="714" name="topright"/>
+  <anchor x="159" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="10" y="363" type="line"/>
+      <point x="290" y="363" type="line"/>
+      <point x="290" y="388" type="line"/>
+      <point x="10" y="388" type="line"/>
+    </contour>
+    <component base="O" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 22:27:02</string>
+    </dict>
+  </lib>
+</glyph>

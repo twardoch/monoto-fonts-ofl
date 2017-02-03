@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051A" format="2">
+  <advance width="300"/>
+  <unicode hex="051A"/>
+  <anchor x="150" y="-179" name="bottom"/>
+  <anchor x="150" y="714" name="top"/>
+  <anchor x="31" y="714" name="topleft"/>
+  <anchor x="166" y="10" name="ogonek"/>
+  <anchor x="159" y="357" name="center"/>
+  <anchor x="289" y="714" name="topright"/>
+  <outline>
+    <component base="Q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:26</string>
+    </dict>
+  </lib>
+</glyph>

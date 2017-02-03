@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA645" format="2">
+  <advance width="800"/>
+  <unicode hex="A645"/>
+  <anchor x="396" y="537" name="top"/>
+  <anchor x="-1" y="537" name="topright"/>
+  <anchor x="396" y="0" name="bottom"/>
+  <outline>
+    <component base="s" xScale="-1" xOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:22:20</string>
+    </dict>
+  </lib>
+</glyph>

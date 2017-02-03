@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA74F" format="2">
+  <advance width="800"/>
+  <unicode hex="A74F"/>
+  <anchor x="222" y="10" name="ogonek_1"/>
+  <anchor x="580" y="10" name="ogonek_2"/>
+  <anchor x="579" y="557" name="top_2"/>
+  <anchor x="980" y="557" name="topright_2"/>
+  <anchor x="622" y="557" name="topright_1"/>
+  <anchor x="221" y="0" name="bottom_1"/>
+  <anchor x="579" y="0" name="bottom_2"/>
+  <anchor x="221" y="557" name="top_1"/>
+  <anchor x="579" y="279" name="center_2"/>
+  <anchor x="221" y="279" name="center_1"/>
+  <outline>
+    <component base="o" xOffset="-179"/>
+    <component base="o" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/01 23:23:42</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
