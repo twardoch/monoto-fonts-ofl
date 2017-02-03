@@ -1,8 +1,12 @@
 {
-  "name": "monoto",
+  "name": "monoto-fonts-ofl",
   "version": "1.0.0",
-  "description": "blah blah",
-  "main": "package.json",
+  "description": "Variable monospace font with an extreme width axis.",
+  "keywords": ["Monoto", "monospace", "variable font", "OpenType", "terminal", "variation"],
+  "repository": "https://github.com/twardoch/monoto-fonts-ofl.git",
+  "homepage": "http://twardoch.github.io/monoto-fonts-ofl/",
+  "author": "Adam Twardoch <adam+github@twardoch.com>",
+  "license": "(OFL-1.1 AND Apache-2.0)",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
