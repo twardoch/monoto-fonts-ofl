@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncommaaccent.loclMAH" format="2">
+  <advance width="800"/>
+  <anchor x="419" y="557" name="top"/>
+  <anchor x="802" y="557" name="topright"/>
+  <anchor x="410" y="-240" name="bottom"/>
+  <outline>
+    <component base="n"/>
+    <component base="cedillacomb" xOffset="410"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="300"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="132" y="-240" type="curve" smooth="yes"/>
+      <point x="185" y="-240"/>
+      <point x="210" y="-201"/>
+      <point x="210" y="-137" type="curve" smooth="yes"/>
+      <point x="210" y="-86"/>
+      <point x="196" y="-55"/>
+      <point x="166" y="-44" type="curve"/>
+      <point x="170" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="99" y="-81" type="line"/>
+      <point x="115" y="-86"/>
+      <point x="127" y="-100"/>
+      <point x="127" y="-132" type="curve" smooth="yes"/>
+      <point x="127" y="-156"/>
+      <point x="126" y="-172"/>
+      <point x="114" y="-172" type="curve" smooth="yes"/>
+      <point x="108" y="-172"/>
+      <point x="99" y="-170"/>
+      <point x="90" y="-166" type="curve"/>
+      <point x="90" y="-233" type="line"/>
+      <point x="101" y="-238"/>
+      <point x="118" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

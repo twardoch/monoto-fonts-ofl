@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEC" format="2">
+  <advance width="800"/>
+  <unicode hex="1FEC"/>
+  <anchor x="525" y="0" name="bottom"/>
+  <anchor x="525" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="229" type="line"/>
+      <point x="445" y="229" type="line" smooth="yes"/>
+      <point x="699" y="229"/>
+      <point x="791" y="343"/>
+      <point x="791" y="482" type="curve" smooth="yes"/>
+      <point x="791" y="631"/>
+      <point x="682" y="714"/>
+      <point x="456" y="714" type="curve" smooth="yes"/>
+      <point x="183" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="388" type="line"/>
+      <point x="374" y="554" type="line"/>
+      <point x="433" y="554" type="line" smooth="yes"/>
+      <point x="541" y="554"/>
+      <point x="590" y="524"/>
+      <point x="590" y="474" type="curve" smooth="yes"/>
+      <point x="590" y="417"/>
+      <point x="533" y="388"/>
+      <point x="424" y="388" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni1FFE" xScale="0.829" xOffset="-340" yOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

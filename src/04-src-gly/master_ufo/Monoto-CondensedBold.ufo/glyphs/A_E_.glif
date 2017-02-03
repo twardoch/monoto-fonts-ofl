@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="300"/>
+  <unicode hex="00C6"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="159" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="142" y="608" type="line"/>
+      <point x="145" y="608" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="110" type="line"/>
+      <point x="243" y="110" type="line"/>
+      <point x="243" y="316" type="line"/>
+      <point x="271" y="316" type="line"/>
+      <point x="271" y="426" type="line"/>
+      <point x="243" y="426" type="line"/>
+      <point x="243" y="604" type="line"/>
+      <point x="282" y="604" type="line"/>
+      <point x="282" y="714" type="line"/>
+      <point x="64" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="189" type="line"/>
+      <point x="166" y="189" type="line"/>
+      <point x="169" y="297" type="line"/>
+      <point x="116" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

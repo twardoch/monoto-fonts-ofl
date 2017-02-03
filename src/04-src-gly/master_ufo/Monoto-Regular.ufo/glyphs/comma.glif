@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="500"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="159" y="-131" type="curve"/>
+      <point x="222" y="-131" type="line"/>
+      <point x="254" y="-59"/>
+      <point x="284" y="27"/>
+      <point x="303" y="104" type="curve"/>
+      <point x="296" y="115" type="line"/>
+      <point x="206" y="115" type="line"/>
+      <point x="198" y="44"/>
+      <point x="179" y="-52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

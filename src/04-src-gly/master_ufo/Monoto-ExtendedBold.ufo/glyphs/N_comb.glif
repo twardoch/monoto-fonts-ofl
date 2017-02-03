@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncomb" format="2">
+  <unicode hex="1DE1"/>
+  <anchor x="0" y="557" name="_top"/>
+  <anchor x="1.0" y="842.8" name="top"/>
+  <anchor x="1.0" y="620.0" name="bottom"/>
+  <outline>
+    <component base="uni0274" xScale="0.45" yScale="0.4" xOffset="-179" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

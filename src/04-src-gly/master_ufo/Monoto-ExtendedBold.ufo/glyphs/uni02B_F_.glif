@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BF" format="2">
+  <advance width="800"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="487" y="575" type="curve"/>
+      <point x="487" y="669" type="line"/>
+      <point x="452" y="669"/>
+      <point x="425" y="681"/>
+      <point x="425" y="698" type="curve" smooth="yes"/>
+      <point x="425" y="716"/>
+      <point x="452" y="729"/>
+      <point x="487" y="729" type="curve"/>
+      <point x="487" y="823" type="line"/>
+      <point x="389" y="823"/>
+      <point x="313" y="775"/>
+      <point x="313" y="701" type="curve" smooth="yes"/>
+      <point x="313" y="623"/>
+      <point x="388" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

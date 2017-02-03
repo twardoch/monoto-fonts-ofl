@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb_macroncomb_dieresiscomb" format="2">
+  <anchor x="0" y="557" name="_top"/>
+  <anchor x="0" y="1029" name="top"/>
+  <outline>
+    <contour>
+      <point x="-236" y="770" type="line"/>
+      <point x="236" y="770" type="line"/>
+      <point x="236" y="886" type="line"/>
+      <point x="-236" y="886" type="line"/>
+    </contour>
+    <contour>
+      <point x="-140" y="596" type="curve"/>
+      <point x="-86" y="596"/>
+      <point x="-50" y="622"/>
+      <point x="-50" y="669" type="curve"/>
+      <point x="-50" y="713"/>
+      <point x="-86" y="740"/>
+      <point x="-140" y="740" type="curve"/>
+      <point x="-193" y="740"/>
+      <point x="-230" y="713"/>
+      <point x="-230" y="669" type="curve"/>
+      <point x="-230" y="622"/>
+      <point x="-193" y="596"/>
+    </contour>
+    <contour>
+      <point x="142" y="596" type="curve"/>
+      <point x="195" y="596"/>
+      <point x="232" y="622"/>
+      <point x="232" y="669" type="curve"/>
+      <point x="232" y="713"/>
+      <point x="195" y="740"/>
+      <point x="142" y="740" type="curve"/>
+      <point x="89" y="740"/>
+      <point x="52" y="713"/>
+      <point x="52" y="669" type="curve"/>
+      <point x="52" y="622"/>
+      <point x="89" y="596"/>
+    </contour>
+    <contour>
+      <point x="-35" y="909" type="curve"/>
+      <point x="87" y="909" type="line"/>
+      <point x="87" y="921" type="line"/>
+      <point x="46" y="953"/>
+      <point x="20" y="990"/>
+      <point x="-15" y="1029" type="curve"/>
+      <point x="-210" y="1029" type="line"/>
+      <point x="-210" y="1021" type="line"/>
+      <point x="-159" y="987"/>
+      <point x="-93" y="938"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

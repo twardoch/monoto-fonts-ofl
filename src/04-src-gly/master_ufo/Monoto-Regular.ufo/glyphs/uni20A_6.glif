@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A6" format="2">
+  <advance width="500"/>
+  <unicode hex="20A6"/>
+  <anchor x="252.58" y="714" name="top"/>
+  <anchor x="477.0" y="714" name="topright"/>
+  <anchor x="248.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="10" y="409" type="line"/>
+      <point x="490" y="409" type="line"/>
+      <point x="490" y="461" type="line"/>
+      <point x="10" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="271" type="line"/>
+      <point x="490" y="271" type="line"/>
+      <point x="490" y="323" type="line"/>
+      <point x="10" y="323" type="line"/>
+    </contour>
+    <component base="N" xScale="0.916" xOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

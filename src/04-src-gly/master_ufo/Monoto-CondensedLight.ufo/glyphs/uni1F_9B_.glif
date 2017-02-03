@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F9B" format="2">
+  <advance width="600"/>
+  <unicode hex="1F9B"/>
+  <anchor x="540" y="0" name="bottom"/>
+  <anchor x="493" y="528" name="top"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <anchor x="290" y="714" name="topright"/>
+  <anchor x="150" y="375" name="center"/>
+  <outline>
+    <component base="uni1FCC"/>
+    <component base="uni1FDD" xOffset="343"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

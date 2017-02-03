@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F5D" format="2">
+  <advance width="1600"/>
+  <unicode hex="1F5D"/>
+  <anchor x="1016" y="0" name="bottom"/>
+  <anchor x="1016" y="714" name="top"/>
+  <anchor x="799" y="714" name="topleft"/>
+  <anchor x="1601" y="714" name="topright"/>
+  <outline>
+    <component base="uni1FDE"/>
+    <component base="Y" xOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

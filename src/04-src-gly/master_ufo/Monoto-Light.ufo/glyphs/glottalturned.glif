@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalturned" format="2">
+  <advance width="500"/>
+  <unicode hex="0296"/>
+  <anchor x="228" y="-240" name="bottom"/>
+  <anchor x="228" y="528" name="top"/>
+  <outline>
+    <component base="uni0294" yScale="-1" yOffset="528"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

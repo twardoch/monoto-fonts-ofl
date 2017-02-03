@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="0173"/>
+  <anchor x="270" y="-217" name="bottom"/>
+  <anchor x="250" y="528" name="top"/>
+  <anchor x="450" y="10" name="ogonek"/>
+  <anchor x="480" y="528" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="ogonek" xOffset="114"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

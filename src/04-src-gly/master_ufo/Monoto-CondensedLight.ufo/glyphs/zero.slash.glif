@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.slash" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="160" y="-8" type="curve" smooth="yes"/>
+      <point x="238" y="-8"/>
+      <point x="269" y="130"/>
+      <point x="269" y="359" type="curve" smooth="yes"/>
+      <point x="269" y="571"/>
+      <point x="241" y="725"/>
+      <point x="161" y="725" type="curve" smooth="yes"/>
+      <point x="79" y="725"/>
+      <point x="50" y="572"/>
+      <point x="50" y="358" type="curve" smooth="yes"/>
+      <point x="50" y="126"/>
+      <point x="86" y="-8"/>
+    </contour>
+    <contour>
+      <point x="161" y="17" type="curve" smooth="yes"/>
+      <point x="102" y="17"/>
+      <point x="76" y="141"/>
+      <point x="76" y="359" type="curve" smooth="yes"/>
+      <point x="76" y="558"/>
+      <point x="98" y="700"/>
+      <point x="161" y="700" type="curve" smooth="yes"/>
+      <point x="226" y="700"/>
+      <point x="244" y="559"/>
+      <point x="244" y="359" type="curve" smooth="yes"/>
+      <point x="244" y="144"/>
+      <point x="221" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 19:32:23</string>
+    </dict>
+  </lib>
+</glyph>

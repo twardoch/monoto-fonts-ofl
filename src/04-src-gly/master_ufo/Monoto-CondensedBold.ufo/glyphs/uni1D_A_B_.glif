@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DAB" format="2">
+  <advance width="300"/>
+  <unicode hex="1DAB"/>
+  <anchor x="119.9" y="327.0" name="top"/>
+  <anchor x="153.7" y="0.0" name="bottom"/>
+  <outline>
+    <component base="uni029F" xScale="0.65" yScale="0.6" xOffset="51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

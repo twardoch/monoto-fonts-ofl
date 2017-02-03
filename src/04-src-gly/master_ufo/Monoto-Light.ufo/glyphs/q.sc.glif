@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q.sc" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="-133" name="bottom"/>
+  <anchor x="250" y="559" name="top"/>
+  <anchor x="480" y="559" name="topright"/>
+  <anchor x="250" y="589" name="topleft"/>
+  <anchor x="248" y="10" name="ogonek"/>
+  <anchor x="250" y="280" name="center"/>
+  <outline>
+    <contour>
+      <point x="367" y="-133" type="line"/>
+      <point x="401" y="-133" type="line"/>
+      <point x="301" y="1" type="line"/>
+      <point x="276" y="-5" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

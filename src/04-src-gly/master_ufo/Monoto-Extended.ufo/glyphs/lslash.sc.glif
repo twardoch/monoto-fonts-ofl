@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="2">
+  <advance width="800"/>
+  <anchor x="501" y="0" name="bottom"/>
+  <anchor x="295" y="574" name="top"/>
+  <anchor x="616" y="574" name="topright"/>
+  <anchor x="269" y="287" name="center"/>
+  <outline>
+    <contour>
+      <point x="128" y="190" type="line"/>
+      <point x="522" y="371" type="line"/>
+      <point x="481" y="434" type="line"/>
+      <point x="87" y="254" type="line"/>
+    </contour>
+    <component base="l.sc" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

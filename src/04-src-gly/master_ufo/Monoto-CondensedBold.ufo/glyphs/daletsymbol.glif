@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daletsymbol" format="2">
+  <advance width="300"/>
+  <unicode hex="2138"/>
+  <outline>
+    <contour>
+      <point x="133" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="490" type="line"/>
+      <point x="288" y="490" type="line"/>
+      <point x="288" y="584" type="line"/>
+      <point x="10" y="584" type="line"/>
+      <point x="10" y="490" type="line"/>
+      <point x="133" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

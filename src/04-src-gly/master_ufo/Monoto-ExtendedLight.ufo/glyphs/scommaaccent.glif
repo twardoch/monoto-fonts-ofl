@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent" format="2">
+  <advance width="800"/>
+  <unicode hex="0219"/>
+  <anchor x="400" y="-221" name="bottom"/>
+  <anchor x="400" y="528" name="top"/>
+  <anchor x="802" y="528" name="topright"/>
+  <outline>
+    <component base="s"/>
+    <component base="commaaccent" xOffset="399"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

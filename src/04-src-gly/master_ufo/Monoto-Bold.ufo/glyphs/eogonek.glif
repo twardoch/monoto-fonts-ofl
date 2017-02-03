@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="0119"/>
+  <anchor x="260" y="-240" name="bottom"/>
+  <anchor x="250" y="553" name="top"/>
+  <anchor x="262" y="10" name="ogonek"/>
+  <anchor x="497" y="553" name="topright"/>
+  <outline>
+    <contour>
+      <point x="365" y="-240" type="curve" smooth="yes"/>
+      <point x="395" y="-240"/>
+      <point x="419" y="-233"/>
+      <point x="434" y="-226" type="curve"/>
+      <point x="434" y="-136" type="line"/>
+      <point x="424" y="-141"/>
+      <point x="413" y="-145"/>
+      <point x="399" y="-145" type="curve" smooth="yes"/>
+      <point x="370" y="-145"/>
+      <point x="355" y="-128"/>
+      <point x="355" y="-98" type="curve" smooth="yes"/>
+      <point x="355" y="-63"/>
+      <point x="376" y="-33"/>
+      <point x="447" y="30" type="curve"/>
+      <point x="385" y="46" type="line"/>
+      <point x="316" y="5"/>
+      <point x="246" y="-38"/>
+      <point x="246" y="-124" type="curve" smooth="yes"/>
+      <point x="246" y="-192"/>
+      <point x="286" y="-240"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

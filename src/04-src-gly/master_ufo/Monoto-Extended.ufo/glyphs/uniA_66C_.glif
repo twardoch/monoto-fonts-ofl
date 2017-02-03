@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66C" format="2">
+  <advance width="3040"/>
+  <unicode hex="A66C"/>
+  <anchor x="400" y="10" name="ogonek_1"/>
+  <anchor x="1920" y="10" name="ogonek_2"/>
+  <anchor x="1920" y="714" name="top_2"/>
+  <anchor x="2350" y="714" name="topright_2"/>
+  <anchor x="830" y="714" name="topright_1"/>
+  <anchor x="400" y="0" name="bottom_1"/>
+  <anchor x="1920" y="0" name="bottom_2"/>
+  <anchor x="400" y="714" name="top_1"/>
+  <anchor x="1920" y="357" name="center_2"/>
+  <anchor x="400" y="357" name="center_1"/>
+  <anchor x="1519" y="714" name="topleft_2"/>
+  <anchor x="-1" y="714" name="topleft_1"/>
+  <outline>
+    <component base="uniA668"/>
+    <component base="uniA668" xOffset="1520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

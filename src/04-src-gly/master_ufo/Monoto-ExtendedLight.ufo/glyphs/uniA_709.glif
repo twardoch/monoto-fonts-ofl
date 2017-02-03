@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA709" format="2">
+  <advance width="800"/>
+  <unicode hex="A709"/>
+  <outline>
+    <contour>
+      <point x="493" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="587" y="688" type="line"/>
+      <point x="493" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="432" type="curve" smooth="yes"/>
+      <point x="327" y="432"/>
+      <point x="361" y="450"/>
+      <point x="361" y="488" type="curve" smooth="yes"/>
+      <point x="361" y="527"/>
+      <point x="327" y="544"/>
+      <point x="287" y="544" type="curve" smooth="yes"/>
+      <point x="245" y="544"/>
+      <point x="212" y="527"/>
+      <point x="212" y="488" type="curve" smooth="yes"/>
+      <point x="212" y="450"/>
+      <point x="245" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

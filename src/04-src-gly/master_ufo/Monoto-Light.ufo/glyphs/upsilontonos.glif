@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilontonos" format="2">
+  <advance width="500"/>
+  <unicode hex="03CD"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="280" y="797" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="tonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

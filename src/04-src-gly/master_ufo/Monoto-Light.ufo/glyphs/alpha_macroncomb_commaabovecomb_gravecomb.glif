@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha_macroncomb_commaabovecomb_gravecomb" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="844" name="top"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psilivaria_firsttonechinese"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

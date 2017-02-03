@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71E" format="2">
+  <advance width="300"/>
+  <unicode hex="A71E"/>
+  <outline>
+    <contour>
+      <point x="110" y="323" type="line"/>
+      <point x="189" y="323" type="line"/>
+      <point x="170" y="661" type="line"/>
+      <point x="130" y="661" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="736" type="curve" smooth="yes"/>
+      <point x="173" y="736"/>
+      <point x="193" y="752"/>
+      <point x="193" y="793" type="curve" smooth="yes"/>
+      <point x="193" y="833"/>
+      <point x="173" y="850"/>
+      <point x="150" y="850" type="curve" smooth="yes"/>
+      <point x="129" y="850"/>
+      <point x="107" y="833"/>
+      <point x="107" y="793" type="curve" smooth="yes"/>
+      <point x="107" y="752"/>
+      <point x="129" y="736"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

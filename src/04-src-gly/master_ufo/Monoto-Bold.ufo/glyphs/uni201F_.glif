@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201F" format="2">
+  <advance width="500"/>
+  <unicode hex="201F"/>
+  <outline>
+    <component base="quoteleft" yScale="-1" xOffset="-121" yOffset="1151"/>
+    <component base="quoteleft" yScale="-1" xOffset="97" yOffset="1151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

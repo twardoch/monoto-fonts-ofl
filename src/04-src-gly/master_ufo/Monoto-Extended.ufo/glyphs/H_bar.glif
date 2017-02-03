@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="800"/>
+  <unicode hex="0126"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="357" name="center"/>
+  <anchor x="400" y="714" name="top"/>
+  <anchor x="-1" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="-30" y="523" type="line"/>
+      <point x="830" y="523" type="line"/>
+      <point x="830" y="598" type="line"/>
+      <point x="-30" y="598" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="330" type="line"/>
+      <point x="619" y="330" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="716" y="714" type="line"/>
+      <point x="619" y="714" type="line"/>
+      <point x="619" y="416" type="line"/>
+      <point x="181" y="416" type="line"/>
+      <point x="181" y="714" type="line"/>
+      <point x="84" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

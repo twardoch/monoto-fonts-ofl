@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerwithleftguard" format="2">
+  <advance width="300"/>
+  <unicode hex="2E36"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="180" y="475" type="line"/>
+      <point x="180" y="552" type="line"/>
+      <point x="201" y="760" type="line"/>
+      <point x="83" y="760" type="line"/>
+      <point x="105" y="552" type="line"/>
+      <point x="16" y="567" type="line"/>
+      <point x="16" y="461" type="line"/>
+      <point x="105" y="475" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

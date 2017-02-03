@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0478" format="2">
+  <advance width="600"/>
+  <unicode hex="0478"/>
+  <anchor x="305" y="-243" name="bottom"/>
+  <anchor x="305" y="714" name="top"/>
+  <anchor x="575" y="528" name="topright_2"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <anchor x="149" y="10" name="ogonek"/>
+  <anchor x="289" y="714" name="topright_1"/>
+  <anchor x="149" y="357" name="center"/>
+  <outline>
+    <component base="O"/>
+    <component base="y" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

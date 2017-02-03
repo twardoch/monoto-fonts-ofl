@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icomb" format="2">
+  <unicode hex="0365"/>
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="10.450000000000017" y="913.6" name="top"/>
+  <anchor x="123.85000000000002" y="913.6" name="topright"/>
+  <anchor x="14.5" y="620.0" name="bottom"/>
+  <outline>
+    <component base="i" xScale="0.45" yScale="0.4" xOffset="-179" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

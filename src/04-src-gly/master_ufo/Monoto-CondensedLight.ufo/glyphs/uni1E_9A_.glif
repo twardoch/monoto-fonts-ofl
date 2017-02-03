@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E9A" format="2">
+  <advance width="600"/>
+  <unicode hex="1E9A"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="147" y="781" name="top"/>
+  <anchor x="261" y="10" name="ogonek"/>
+  <anchor x="278" y="528" name="topright"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni02BE" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

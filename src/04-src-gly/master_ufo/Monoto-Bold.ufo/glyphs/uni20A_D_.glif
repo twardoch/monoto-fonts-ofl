@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AD" format="2">
+  <advance width="500"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="274" type="line"/>
+      <point x="231" y="300" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="384" y="307" type="line"/>
+      <point x="467" y="307" type="line"/>
+      <point x="467" y="423" type="line"/>
+      <point x="366" y="423" type="line"/>
+      <point x="495" y="714" type="line"/>
+      <point x="322" y="714" type="line"/>
+      <point x="221" y="423" type="line"/>
+      <point x="209" y="423" type="line"/>
+      <point x="209" y="714" type="line"/>
+      <point x="49" y="714" type="line"/>
+      <point x="49" y="423" type="line"/>
+      <point x="0" y="423" type="line"/>
+      <point x="0" y="307" type="line"/>
+      <point x="49" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

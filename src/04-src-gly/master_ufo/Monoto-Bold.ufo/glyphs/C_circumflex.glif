@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircumflex" format="2">
+  <advance width="500"/>
+  <unicode hex="0108"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="299" y="927" name="top"/>
+  <anchor x="480" y="714" name="topright"/>
+  <outline>
+    <component base="C"/>
+    <component base="circumflexcomb" xOffset="298" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

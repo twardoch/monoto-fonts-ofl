@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brackhalfbottomright" format="2">
+  <advance width="300"/>
+  <unicode hex="2E25"/>
+  <outline>
+    <contour>
+      <point x="114" y="281" type="line"/>
+      <point x="225" y="281" type="line"/>
+      <point x="225" y="727" type="line"/>
+      <point x="74" y="727" type="line"/>
+      <point x="74" y="631" type="line"/>
+      <point x="114" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

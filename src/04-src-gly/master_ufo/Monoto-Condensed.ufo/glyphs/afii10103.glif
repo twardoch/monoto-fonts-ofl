@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10103" format="2">
+  <advance width="300"/>
+  <unicode hex="0456"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="156" y="762" name="top"/>
+  <anchor x="248" y="762" name="topright"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

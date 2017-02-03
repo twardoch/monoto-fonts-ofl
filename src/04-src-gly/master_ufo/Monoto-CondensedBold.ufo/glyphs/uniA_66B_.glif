@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66B" format="2">
+  <advance width="300"/>
+  <unicode hex="A66B"/>
+  <outline>
+    <contour>
+      <point x="150" y="-10" type="curve" smooth="yes"/>
+      <point x="260" y="-10"/>
+      <point x="300" y="114"/>
+      <point x="300" y="273" type="curve" smooth="yes"/>
+      <point x="300" y="454"/>
+      <point x="227" y="555"/>
+      <point x="148" y="555" type="curve" smooth="yes"/>
+      <point x="48" y="555"/>
+      <point x="0" y="442"/>
+      <point x="0" y="275" type="curve" smooth="yes"/>
+      <point x="0" y="112"/>
+      <point x="45" y="-10"/>
+    </contour>
+    <contour>
+      <point x="150" y="95" type="curve" smooth="yes"/>
+      <point x="132" y="95"/>
+      <point x="121" y="156"/>
+      <point x="121" y="274" type="curve" smooth="yes"/>
+      <point x="121" y="392"/>
+      <point x="130" y="450"/>
+      <point x="148" y="450" type="curve" smooth="yes"/>
+      <point x="162" y="450"/>
+      <point x="179" y="391"/>
+      <point x="179" y="274" type="curve" smooth="yes"/>
+      <point x="179" y="156"/>
+      <point x="168" y="95"/>
+    </contour>
+    <component base="period" xScale="0.449" yScale="0.538" xOffset="131" yOffset="231"/>
+    <component base="period" xScale="0.449" yScale="0.538" xOffset="95" yOffset="238"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downwardsancora" format="2">
+  <advance width="800"/>
+  <unicode hex="2E14"/>
+  <outline>
+    <contour>
+      <point x="361" y="63" type="curve" smooth="yes"/>
+      <point x="400" y="63"/>
+      <point x="441" y="70"/>
+      <point x="484" y="83" type="curve"/>
+      <point x="435" y="117" type="line"/>
+      <point x="408" y="110"/>
+      <point x="382" y="106"/>
+      <point x="357" y="106" type="curve" smooth="yes"/>
+      <point x="306" y="106"/>
+      <point x="258" y="120"/>
+      <point x="206" y="151" type="curve"/>
+      <point x="762" y="539" type="line"/>
+      <point x="719" y="569" type="line"/>
+      <point x="163" y="181" type="line"/>
+      <point x="119" y="217"/>
+      <point x="99" y="251"/>
+      <point x="99" y="286" type="curve" smooth="yes"/>
+      <point x="99" y="304"/>
+      <point x="104" y="322"/>
+      <point x="114" y="341" type="curve"/>
+      <point x="66" y="375" type="line"/>
+      <point x="47" y="345"/>
+      <point x="37" y="316"/>
+      <point x="37" y="289" type="curve" smooth="yes"/>
+      <point x="37" y="233"/>
+      <point x="76" y="182"/>
+      <point x="142" y="136" type="curve" smooth="yes"/>
+      <point x="208" y="90"/>
+      <point x="281" y="63"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

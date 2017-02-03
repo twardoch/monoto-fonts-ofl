@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raiseddottedinterpolationmarker" format="2">
+  <advance width="300"/>
+  <unicode hex="2E07"/>
+  <outline>
+    <contour>
+      <point x="141" y="276" type="line"/>
+      <point x="160" y="276" type="line"/>
+      <point x="160" y="689" type="line"/>
+      <point x="270" y="689" type="line"/>
+      <point x="270" y="714" type="line"/>
+      <point x="30" y="714" type="line"/>
+      <point x="30" y="689" type="line"/>
+      <point x="141" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="460" type="curve" smooth="yes"/>
+      <point x="225" y="460"/>
+      <point x="231" y="473"/>
+      <point x="231" y="496" type="curve" smooth="yes"/>
+      <point x="231" y="519"/>
+      <point x="225" y="531"/>
+      <point x="213" y="531" type="curve" smooth="yes"/>
+      <point x="200" y="531"/>
+      <point x="195" y="515"/>
+      <point x="195" y="496" type="curve" smooth="yes"/>
+      <point x="195" y="475"/>
+      <point x="200" y="460"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

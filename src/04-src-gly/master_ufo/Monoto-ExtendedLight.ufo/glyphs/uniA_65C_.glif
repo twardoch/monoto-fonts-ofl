@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65C" format="2">
+  <advance width="800"/>
+  <unicode hex="A65C"/>
+  <outline>
+    <contour>
+      <point x="428" y="0" type="line"/>
+      <point x="1276" y="0" type="line"/>
+      <point x="1276" y="25" type="line"/>
+      <point x="428" y="25" type="line"/>
+    </contour>
+    <component base="uniA656" xOffset="-229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

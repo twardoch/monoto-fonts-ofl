@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni023A" format="2">
+  <advance width="300"/>
+  <unicode hex="023A"/>
+  <anchor x="140" y="-75" name="bottom"/>
+  <anchor x="140" y="760" name="top"/>
+  <anchor x="261" y="10" name="ogonek"/>
+  <anchor x="278" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="76" y="-75" type="line"/>
+      <point x="94" y="-75" type="line"/>
+      <point x="218" y="760" type="line"/>
+      <point x="200" y="760" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

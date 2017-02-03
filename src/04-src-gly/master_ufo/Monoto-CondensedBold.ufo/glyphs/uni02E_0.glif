@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E0" format="2">
+  <advance width="300"/>
+  <unicode hex="02E0"/>
+  <anchor x="161.5" y="614.0" name="top"/>
+  <anchor x="161.5" y="143.0" name="bottom"/>
+  <outline>
+    <component base="uni0263" xScale="0.65" yScale="0.6" xOffset="64" yOffset="287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

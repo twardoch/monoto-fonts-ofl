@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBD" format="2">
+  <advance width="300"/>
+  <unicode hex="1FBD"/>
+  <anchor x="149" y="535" name="_top"/>
+  <outline>
+    <contour>
+      <point x="115" y="586" type="line"/>
+      <point x="161" y="589"/>
+      <point x="183" y="631"/>
+      <point x="183" y="692" type="curve" smooth="yes"/>
+      <point x="183" y="737"/>
+      <point x="169" y="757"/>
+      <point x="149" y="757" type="curve" smooth="yes"/>
+      <point x="130" y="757"/>
+      <point x="119" y="741"/>
+      <point x="119" y="713" type="curve" smooth="yes"/>
+      <point x="119" y="684"/>
+      <point x="128" y="668"/>
+      <point x="147" y="668" type="curve"/>
+      <point x="147" y="644"/>
+      <point x="132" y="621"/>
+      <point x="115" y="619" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

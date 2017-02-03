@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB45" format="2">
+  <advance width="500"/>
+  <unicode hex="AB45"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="103" type="line" smooth="yes"/>
+      <point x="157" y="199"/>
+      <point x="187" y="239"/>
+      <point x="249" y="239" type="curve" smooth="yes"/>
+      <point x="312" y="239"/>
+      <point x="342" y="199"/>
+      <point x="342" y="103" type="curve" smooth="yes"/>
+      <point x="342" y="0" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="423" y="114" type="line" smooth="yes"/>
+      <point x="423" y="234"/>
+      <point x="380" y="311"/>
+      <point x="249" y="311" type="curve" smooth="yes"/>
+      <point x="119" y="311"/>
+      <point x="76" y="234"/>
+      <point x="76" y="114" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="209" y="268" type="line"/>
+      <point x="290" y="268" type="line"/>
+      <point x="290" y="537" type="line"/>
+      <point x="209" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+    </dict>
+  </lib>
+</glyph>

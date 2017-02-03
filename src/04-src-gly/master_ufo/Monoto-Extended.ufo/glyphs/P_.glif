@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+  <advance width="800"/>
+  <unicode hex="0050"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="400" y="714" name="top"/>
+  <anchor x="830" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="272" type="line"/>
+      <point x="379" y="272" type="line" smooth="yes"/>
+      <point x="639" y="272"/>
+      <point x="750" y="383"/>
+      <point x="750" y="503" type="curve" smooth="yes"/>
+      <point x="750" y="638"/>
+      <point x="637" y="714"/>
+      <point x="398" y="714" type="curve" smooth="yes"/>
+      <point x="116" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="355" type="line"/>
+      <point x="212" y="631" type="line"/>
+      <point x="388" y="631" type="line" smooth="yes"/>
+      <point x="568" y="631"/>
+      <point x="652" y="593"/>
+      <point x="652" y="499" type="curve" smooth="yes"/>
+      <point x="652" y="397"/>
+      <point x="546" y="355"/>
+      <point x="369" y="355" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/03 18:58:02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>
