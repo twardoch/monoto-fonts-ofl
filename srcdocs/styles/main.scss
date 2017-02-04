@@ -1,5 +1,5 @@
-body {
-	background-color: green;
-	color: white;
-	font-family: Lato;
-}
+@import '_partials/reset';
+@import '_partials/fonts';
+@import '_partials/variables';
+@import '_partials/input-range';
+@import '_views/mainpage';

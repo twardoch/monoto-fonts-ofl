@@ -4,7 +4,7 @@
  */
 // Load plugins
 var gulp = require('gulp-async-tasks')(require('gulp')), // gulp main module
-    sass = require('gulp-ruby-sass'), // compiles sass
+    sass = require('gulp-sass'), // compiles sass
     sourcemaps = require('gulp-sourcemaps'); // creates source maps
     autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS
     cssnano = require('gulp-cssnano'), // minifies CSS
@@ -30,10 +30,17 @@ var gulp = require('gulp-async-tasks')(require('gulp')), // gulp main module
 
 // Styles
 gulp.task('styles', function() {
-    return sass(pathToStyles + 'main.scss', { 
-            style: 'compressed', 
-            sourcemap: true
-        })
+    gulp.src( pathToStyles + 'main.scss' )
+        .pipe(
+            sass( {
+                errLogToConsole: true,
+                outputStyle: 'compressed',
+                precision: 10
+            })
+            .on("error", notify.onError(function (error) {
+                return "Error spotted! " + error.message;
+            }))
+        )
         .pipe(autoprefixer('last 2 version'))
         .pipe(gulp.dest(pathToDocs + 'styles'))
         .pipe(rename({ 
