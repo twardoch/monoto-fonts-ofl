@@ -1,0 +1,123 @@
+<html>
+<h3>adjustypo.js</h3>
+<h1>MonotoVF-Regular</h1>
+<p>  <strong>Version 202.901</strong> 
+ with 3301 glyphs</p>
+<h2>Dimensions</h2>
+  <ul class="adjustypo adjustypo-dimension">
+    <li class="adjustypo adjustypo-dimension-font-size">
+      <input type="range" id="adjustypo_dimension_font_size" value="16" min="8" max="64" step="0.01" />
+      <label for="adjustypo_dimension_font_size">Font size</label>
+    </li>
+    <li class="adjustypo adjustypo-dimension-line-height">
+      <input type="range" id="adjustypo_dimension_line_height" value="1.19" min="0.5" max="2.5" step="0.01" />
+      <label for="adjustypo_dimension_line_height">Line height</label>
+    </li>
+    <li class="adjustypo adjustypo-dimension-letter-spacing">
+      <input type="range" id="adjustypo_dimension_letter_spacing" value="-1" min="0" max="1" step="0.01" />
+      <label for="adjustypo_dimension_letter_spacing">Letter spacing</label>
+    </li>
+  </ul>
+<h2>Variations</h2>
+  <ul class="adjustypo adjustypo-variation">
+    <li class="adjustypo adjustypo-variation-wdth">
+      <input type="range" id="adjustypo_variation_wdth" value="100" min="60" max="160" step="0.01" />
+      <label for="adjustypo_variation_wdth">Width</label>
+    </li>
+    <li class="adjustypo adjustypo-variation-wght">
+      <input type="range" id="adjustypo_variation_wght" value="90" min="26" max="190" step="0.01" />
+      <label for="adjustypo_variation_wght">Weight</label>
+    </li>
+  </ul>
+
+
+<h2>Features</h2>
+  <ul class="adjustypo adjustypo-feature">
+    <li class="adjustypo adjustypo-uppercase">
+      <input type="checkbox" id="adjustypo_uppercase" />
+      <label for="adjustypo_uppercase">CASE</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-c2sc">
+      <input type="checkbox" id="adjustypo_feature_c2sc" />
+      <label for="adjustypo_feature_c2sc">c2sc</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ccmp">
+      <input type="checkbox" id="adjustypo_feature_ccmp" checked="checked" />
+      <label for="adjustypo_feature_ccmp">ccmp</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-dlig">
+      <input type="checkbox" id="adjustypo_feature_dlig" />
+      <label for="adjustypo_feature_dlig">dlig</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-dnom">
+      <input type="checkbox" id="adjustypo_feature_dnom" />
+      <label for="adjustypo_feature_dnom">dnom</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-frac">
+      <input type="checkbox" id="adjustypo_feature_frac" />
+      <label for="adjustypo_feature_frac">frac</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-hlig">
+      <input type="checkbox" id="adjustypo_feature_hlig" />
+      <label for="adjustypo_feature_hlig">hlig</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-numr">
+      <input type="checkbox" id="adjustypo_feature_numr" />
+      <label for="adjustypo_feature_numr">numr</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-onum">
+      <input type="checkbox" id="adjustypo_feature_onum" />
+      <label for="adjustypo_feature_onum">onum</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ordn">
+      <input type="checkbox" id="adjustypo_feature_ordn" />
+      <label for="adjustypo_feature_ordn">ordn</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-salt">
+      <input type="checkbox" id="adjustypo_feature_salt" />
+      <label for="adjustypo_feature_salt">salt</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-smcp">
+      <input type="checkbox" id="adjustypo_feature_smcp" />
+      <label for="adjustypo_feature_smcp">smcp</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ss01">
+      <input type="checkbox" id="adjustypo_feature_ss01" />
+      <label for="adjustypo_feature_ss01">ss01</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ss02">
+      <input type="checkbox" id="adjustypo_feature_ss02" />
+      <label for="adjustypo_feature_ss02">ss02</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ss03">
+      <input type="checkbox" id="adjustypo_feature_ss03" />
+      <label for="adjustypo_feature_ss03">ss03</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-ss04">
+      <input type="checkbox" id="adjustypo_feature_ss04" />
+      <label for="adjustypo_feature_ss04">ss04</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-subs">
+      <input type="checkbox" id="adjustypo_feature_subs" />
+      <label for="adjustypo_feature_subs">subs</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-sups">
+      <input type="checkbox" id="adjustypo_feature_sups" />
+      <label for="adjustypo_feature_sups">sups</label>
+    </li>
+    <li class="adjustypo adjustypo-feature-zero">
+      <input type="checkbox" id="adjustypo_feature_zero" />
+      <label for="adjustypo_feature_zero">zero</label>
+    </li>
+  </ul>
+
+
+<pre><code class="css">
+  font-size: 16px;
+  line-height: 1.19em;
+  letter-spacing: 0em;
+  font-variation-settings: "wdth" 100, "wght" 90;
+  text-transform: normal;
+  font-feature-settings: "c2sc" 0, "ccmp" 1, "dlig" 0, "dnom" 0, "frac" 0, "hlig" 0, "numr" 0, "onum" 0, "ordn" 0, "salt" 0, "smcp" 0, "ss01" 0, "ss02" 0, "ss03" 0, "ss04" 0, "subs" 0, "sups" 0, "zero" 0;
+</code></pre>
+</html>
