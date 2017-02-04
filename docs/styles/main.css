@@ -1,6 +1,52 @@
-body {
-  background-color: red;
-  color: white;
-  font-family: Lato;
-  content: 'I <3 U!';
-}
+/*
+Error: Invalid CSS after "	content: ": expected expression (e.g. 1px, bold), was "'I <3 U!"
+        on line 5 of styles/main.scss
+
+1: body {
+2: 	background-color: green;
+3: 	color: white;
+4: 	font-family: Lato;
+5: 	content: 'I <3 U!
+6: }
+
+Backtrace:
+styles/main.scss:5
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:1179:in `expected'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/script/lexer.rb:228:in `expected!'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/script/parser.rb:673:in `assert_expr'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/script/parser.rb:63:in `parse'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:1041:in `sass_script'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:894:in `value!'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:767:in `block in try_declaration'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:1155:in `call'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:1155:in `rethrow'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:780:in `try_declaration'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:710:in `declaration_or_ruleset'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:675:in `block_child'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:667:in `block_contents'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:656:in `block'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:649:in `ruleset'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:674:in `block_child'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:664:in `block_contents'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:126:in `stylesheet'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/scss/parser.rb:42:in `parse'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/engine.rb:403:in `_to_tree'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/engine.rb:378:in `_render_with_sourcemap'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/engine.rb:295:in `render_with_sourcemap'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/plugin/compiler.rb:490:in `update_stylesheet'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/plugin/compiler.rb:209:in `each'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/plugin.rb:82:in `update_stylesheets'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:361:in `watch_or_update'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:51:in `process_result'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/exec/base.rb:52:in `parse'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/lib/sass/exec/base.rb:19:in `parse!'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.20/bin/sass:13:in `<top (required)>'
+/usr/local/bin/sass:23:in `load'
+/usr/local/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"	content: \": expected expression (e.g. 1px, bold), was \"'I <3 U!\"\A         on line 5 of styles/main.scss\A \A 1: body {\A 2: 	background-color: green;\A 3: 	color: white;\A 4: 	font-family: Lato;\A 5: 	content: 'I <3 U!\A 6: }"; }

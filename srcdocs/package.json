@@ -2,7 +2,14 @@
   "name": "monoto-fonts-ofl",
   "version": "1.0.0",
   "description": "Variable monospace font with an extreme width axis.",
-  "keywords": ["Monoto", "monospace", "variable font", "OpenType", "terminal", "variation"],
+  "keywords": [
+    "Monoto",
+    "monospace",
+    "variable font",
+    "OpenType",
+    "terminal",
+    "variation"
+  ],
   "repository": "https://github.com/twardoch/monoto-fonts-ofl.git",
   "homepage": "http://twardoch.github.io/monoto-fonts-ofl/",
   "author": "Adam Twardoch <adam+github@twardoch.com>",
@@ -20,6 +27,8 @@
     "gulp-notify": "^3.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-ruby-sass": "^2.1.1",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-ttf2woff": "^1.1.0",
     "gulp-uglify": "^2.0.1",
     "jshint": "^2.9.4"
   }

@@ -3,8 +3,9 @@
  * $ npm install gulp-ruby-sass gulp-autoprefixer gulp-cssnano gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
  */
 // Load plugins
-var gulp = require('gulp'), // gulp main module
+var gulp = require('gulp-async-tasks')(require('gulp')), // gulp main module
     sass = require('gulp-ruby-sass'), // compiles sass
+    sourcemaps = require('gulp-sourcemaps'); // creates source maps
     autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS
     cssnano = require('gulp-cssnano'), // minifies CSS
     jshint = require('gulp-jshint'), // checkes JS code
@@ -16,21 +17,37 @@ var gulp = require('gulp'), // gulp main module
     cache = require('gulp-cache'), // cache proxy
     livereload = require('gulp-livereload'), // livereload
     del = require('del'), // deletes files
+    ttf2woff = require('gulp-ttf2woff'), // converts fonts from TTF to woff
 
+    // Paths
     pathToStyles = 'styles/',
     pathToScritps = 'scripts/',
     pathToImages = 'images/',
+    pathToFonts = '../fonts/Monoto-VF-TTF/',
     pathToDocs = '../docs/';
+
+// TODO: Error handling
 
 // Styles
 gulp.task('styles', function() {
-    return sass(pathToStyles + 'main.scss', { style: 'expanded' })
+    return sass(pathToStyles + 'main.scss', { 
+            style: 'compressed', 
+            sourcemap: true
+        })
         .pipe(autoprefixer('last 2 version'))
         .pipe(gulp.dest(pathToDocs + 'styles'))
-        .pipe(rename({ suffix: '.min' }))
+        .pipe(rename({ 
+            suffix: '.min' 
+        }))
         .pipe(cssnano())
-        .pipe(gulp.dest(pathToDocs + 'styles'))
-        .pipe(notify({ message: 'Styles task complete' }));
+        .pipe(sourcemaps.write('./', { 
+            includeContent: false, 
+            sourceRoot: 'source' 
+        }))
+        .pipe( sourcemaps.init({ 
+            loadMaps: true 
+        }))
+        .pipe(gulp.dest(pathToDocs + 'styles'));
 });
 
 // Scripts
@@ -40,30 +57,78 @@ gulp.task('scripts', function() {
         .pipe(jshint.reporter('default'))
         .pipe(concat('main.js'))
         .pipe(gulp.dest(pathToDocs + 'scripts'))
-        .pipe(rename({ suffix: '.min' }))
-        .pipe(uglify())
-        .pipe(gulp.dest(pathToDocs + 'scripts'))
-        .pipe(notify({ message: 'Scripts task complete' }));
+        .pipe(rename({ 
+            suffix: '.min' 
+        }))
+        .pipe(uglify()
+            .on('error', notify.onError(function (error) {
+                return 'Error spotted! ' + error.message;
+            })))
+        .pipe(gulp.dest(pathToDocs + 'scripts'));
 });
 
 // Images
 gulp.task('images', function() {
     return gulp.src(pathToImages + '/**/*')
-        .pipe(cache(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true })))
-        .pipe(gulp.dest(pathToDocs + 'images'))
-        .pipe(notify({ message: 'Images task complete' }));
+        .pipe(cache(imagemin({ 
+            optimizationLevel: 3, 
+            progressive: true, 
+            interlaced: true 
+        })))
+        .pipe(gulp.dest(pathToDocs + 'images'));
 });
 
-// Clean
+// Fonts: TTF to woff
+gulp.task('fonts', ['clean-fonts'], function() {
+    gulp.src(pathToFonts + '*.ttf')
+    .pipe(ttf2woff())
+    .pipe(gulp.dest(pathToDocs + 'fonts/'));
+});
+
+// Clean build
 gulp.task('clean', function() {
 return del(
-    [pathToDocs + 'styles', pathToDocs + 'scripts', pathToDocs + 'images'],
-    {force: true});
+    [
+        pathToDocs + 'styles', 
+        pathToDocs + 'scripts', 
+        pathToDocs + 'images'
+    ],
+    {
+        force: true
+    });
+});
+
+// Clean fonts
+gulp.task('clean-fonts', function() {
+return del(
+    [
+        pathToDocs + 'fonts'
+    ], 
+    {
+        force: true
+    });
+});
+
+// Clean sourcemaps
+gulp.task('clean-sourcemaps', function() {
+return del(
+    [
+        pathToDocs + 'styles/*.map'
+    ], 
+    {
+        force: true
+    });
 });
 
 // Default task
 gulp.task('default', ['clean'], function() {
     gulp.start('styles', 'scripts', 'images');
+});
+
+// Production
+// TODO: refactor for Gulp 4.0, make `clean-sourcemaps` async
+gulp.task('production', function() {
+    gulp.start('default', 'fonts', 'clean-sourcemaps');
 });
 
 // Watch

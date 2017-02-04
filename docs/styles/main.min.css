@@ -1,1 +1,2 @@
-body{background-color:red;color:#fff;font-family:Lato;content:"I <3 U!"}
+body:before{white-space:pre;font-family:monospace;content:"Error: Invalid CSS after \"	content: \": expected expression (e.g. 1px, bold), was \"'I <3 U!\"\A         on line 5 of styles/main.scss\A \A 1: body {\A 2: 	background-color: green;\A 3: 	color: white;\A 4: 	font-family: Lato;\A 5: 	content: 'I <3 U!\A 6: }"}
+/*# sourceMappingURL=main.min.css.map */
