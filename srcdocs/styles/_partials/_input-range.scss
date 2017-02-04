@@ -1,0 +1,81 @@
+// Mixins
+@mixin rangeThumb() {
+	border: none;
+	height: .7rem;
+	width: .7rem;
+	border-radius: 50%;
+	background: $color-accent;
+}
+
+@mixin rangeTrack() {
+	width: 100%;
+	height: 2px;
+	background: $color-silver;
+}
+
+// Reset `input[type="range"]`
+input[type=range] {
+	-webkit-appearance: none; // Hides the slider so that custom slider can be made
+	width: 100%; // Specific width is required for Firefox.
+	background: transparent; // Otherwise white in Chrome
+	cursor: pointer;
+
+	&:active {
+		&::-webkit-slider-runnable-track {
+			background: $color-font-dark;
+		}
+
+		&::-moz-range-track {
+			background: $color-font-dark;
+		}
+
+		&::-ms-track {
+			background: $color-font-dark;
+		}
+	}
+
+	&::-webkit-slider-thumb {
+		-webkit-appearance: none;
+		transform: translateY(-50%);
+	}
+
+	&::-ms-track {
+		background: transparent; 
+		border-color: transparent;
+		color: transparent;
+	}
+
+	&::-webkit-slider-thumb {
+		@include rangeThumb();
+	}
+
+	&::-moz-range-thumb {
+		@include rangeThumb();
+	}
+
+	&::-ms-thumb {
+		@include rangeThumb();
+	}
+
+	&::-webkit-slider-runnable-track {
+		@include rangeTrack();
+	}
+
+	&::-moz-range-track {
+		@include rangeTrack();
+	}
+
+	&::-ms-track {
+		@include rangeTrack();
+	}
+
+	&::-ms-fill-lower {
+		background: $color-silver;
+		border: none;
+	}
+
+	&::-ms-fill-upper {
+		background: $color-silver;
+		border: none;
+	}
+}
