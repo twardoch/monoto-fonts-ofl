@@ -1,6 +1,5 @@
-body {
-	background-color: red;
-	color: white;
-	font-family: Lato;
-	content: 'I <3 U!';
-}
+@import '_partials/reset';
+@import '_partials/fonts';
+@import '_partials/variables';
+@import '_partials/input-range';
+@import '_views/mainpage';
