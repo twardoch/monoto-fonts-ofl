@@ -113,7 +113,7 @@ mnt.methods = {
 				value = mnt.font[settingsType][ key ];
 				fontSettings.push( '"' + key + '" ' + value );
 				if ( key === mnt.font.properties.wght ) {
-					mnt.font.bold = parseInt(value) + (document.getElementById(mnt.font.properties.wght).max - value) * .25;
+					mnt.font.bold = parseInt(value) + (document.getElementById(mnt.font.properties.wght).max - value) * .6;
 				}
 			}
 		}

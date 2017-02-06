@@ -1,8 +1,8 @@
 // Mixins
 @mixin rangeThumb() {
 	border: none;
-	height: 10px;
-	width: 10px;
+	height: 16px;
+	width: 16px;
 	border-radius: 50%;
 	background: $color-accent;
 }
