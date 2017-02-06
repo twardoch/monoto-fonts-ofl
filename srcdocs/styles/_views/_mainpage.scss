@@ -4,56 +4,14 @@ body {
 	font-family: $font-main;
 	font-size: 100%;
 	-webkit-font-smoothing: antialiased;
+	font-variation-settings: "wdth" 100, "wght" 90;
 }
 
 h1 {
-	font-size: 5rem;
-	text-align: center;
+	font-size: $font-header-size;
+	line-height: $font-line-height;
 }
 
-header {
-	position: relative;
-
-	.settings-wrapper {
-		position: absolute;
-		top: 0.5em;
-		width: 4rem;
-		height: 4rem;
-		background-color: $color-button;
-		transition: all 300ms ease-in-out;
-
-		&.open {
-			width: 100%;
-			max-width: $dim-container-width;
-			height: auto;
-			top: .5rem;
-			bottom: initial;
-			left: initial;
-			box-shadow: $color-font-dark 0px 1px 30px 0px;
-
-			.input-set {
-				display: block;
-			}
-
-			button {
-				background-image: url($svg-exit);
-			}
-		}
-
-		button {
-			background: url($svg-gear) center center/50% no-repeat;
-			border: none;
-			cursor: pointer;
-			position: relative;
-		    padding: 1em;
-		    width: 2rem;
-		    height: 2rem;
-		    box-sizing: content-box;
-		}
-	}
-}
-
-header,
 section {
 	width: 100%;
 	max-width: $dim-container-width;
@@ -61,42 +19,118 @@ section {
 }
 
 .input-set.range {
-	display: none;
-	margin: 1em;
-	width: 25%;
+	visibility: hidden;
+	padding: 1em;
+	margin: 1em 0 0;
+	width: 100%;
+	color: $color-font-dark;
+	position: relative;
 
 	label {
-		color: $color-font-dark;
 	    text-align: center;
 	    text-transform: uppercase;
 	    font-size: .7em;
 	    letter-spacing: .08em;
+	    padding: 1em .5em 0;
 	}
 
-	input {
-		position: relative;
-		margin-top: 2em;
+	output {
+		position: absolute;
+		top: -1.5em;
+		left: 0;
+		background-color: $color-font-dark;
+		color: $color-font-light;
+		box-sizing: content-box;
+		padding: .4em .6em;
+		min-width: 1.5em;
+		text-align: center;
 
-		// &:after {
-		// 	content: attr(data-value);
-		// 	background-color: white;
-		// 	border: 1px solid #eee;
-		// 	color: $color-font-dark;
-		//     position: absolute;
-		//     top: -2em;
-		//     padding: .4em .6em;
-		//     font-size: .7em;
-		//     letter-spacing: .1em;
-		//     left: 0;
-		//     right: 0;
-		//     margin: 0 auto;
-		//     width: 50%;
-		// }
+		&:after { 
+			content: '';
+			position: absolute;
+			width: 0;
+			height: 0;
+			border-top: 5px solid $color-font-dark;
+			border-left: 10px solid transparent;
+			border-right: 10px solid transparent;
+			top: 100%;
+			left: 50%;
+			margin-left: -10px;
+		}
 	}
 
 	label,
-	input {
+	input,
+	output {
 		display: block;
 	}
+}
+
+.console {
+	position: relative;
+
+	.console-content {
+		position: relative;
+		z-index: 1;
+		left: $dim-settings-button;
+		width: calc(100% - (2* #{$dim-settings-button}));
+		transition: left #{$transition-duration} #{$transition-timing-function};
+
+		&.open {
+			left: 25%;
+		}
+	}
+}
+
+.settings-wrapper {
+	position: absolute;
+	top: calc(#{$font-header-size} * #{$font-line-height});
+	left: $dim-settings-button;
+	width: calc(25% - #{$dim-settings-button});
+	height: auto;
+	background-color: $color-button;
+	transition: all #{$transition-duration} #{$transition-timing-function};
+	font-variation-settings: normal;
+	font-feature-settings: normal;
+	z-index: 0;
+	transition: left #{$transition-duration} #{$transition-timing-function};
+
+	&.open {
+		.input-set.range {
+			visibility: visible;
+		}
+
+		button {
+			background-image: url($svg-exit);
+			background-size: 40%;
+			left: initial;
+			right: calc(-100% + #{$dim-settings-button});
+		}
+	}
+
+	button {
+		background: $color-button url($svg-gear) center center/50% no-repeat;
+		border: none;
+		cursor: pointer;
+		position: relative;
+	    padding: .5em;
+	    width: $dim-settings-button;
+	    height: $dim-settings-button;
+	    right: $dim-settings-button;
+	    transition: right #{$transition-duration} #{$transition-timing-function}, background 0s #{$transition-timing-function} #{$transition-delay};
+	}
+}
+
+.hljs-keyword, 
+.hljs-attribute, 
+.hljs-selector-tag, 
+.hljs-meta-keyword, 
+.hljs-doctag, 
+.hljs-name,
+.hljs-title, 
+.hljs-section,
+strong,
+b {
+	font-weight: normal;
 }
 	
