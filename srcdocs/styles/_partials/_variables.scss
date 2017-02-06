@@ -4,6 +4,7 @@
 $color-black: #000;
 $color-white: #fff;
 $color-silver: #ccc;
+$color-silver-chalice: #aaa;
 
 // Functions
 $color-background: #222;
@@ -14,9 +15,17 @@ $color-accent: #e91e63;
 
 // FONTS
 $font-main: 'Monoto';
+$font-header-size: 5rem;
+$font-line-height: 1.5;
 
 // DIMENSIONS
 $dim-container-width: 800px;
+$dim-settings-button: 2rem;
+
+// TRANSITIONS
+$transition-duration: 300ms;
+$transition-delay: 240ms;
+$transition-timing-function: ease-in-out;
 
 // SVG
 $svg-gear: '../images/gear.svg';
