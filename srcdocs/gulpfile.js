@@ -3,7 +3,7 @@
  * $ npm install gulp-ruby-sass gulp-autoprefixer gulp-cssnano gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
  */
 // Load plugins
-var gulp = require('gulp-async-tasks')(require('gulp')), // gulp main module
+var gulp = require('gulp'), // gulp main module
     sass = require('gulp-sass'), // compiles sass
     sourcemaps = require('gulp-sourcemaps'); // creates source maps
     autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS

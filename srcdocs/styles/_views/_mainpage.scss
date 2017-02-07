@@ -36,7 +36,7 @@ section {
 
 	output {
 		position: absolute;
-		top: -1.5em;
+		top: -1.65em;
 		left: 0;
 		background-color: $color-font-dark;
 		color: $color-font-light;
@@ -109,7 +109,7 @@ section {
 	}
 
 	button {
-		background: $color-button url($svg-gear) center center/50% no-repeat;
+		background: $color-button url($svg-gear) center center/70% no-repeat;
 		border: none;
 		cursor: pointer;
 		position: relative;
