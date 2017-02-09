@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA74E" format="2">
-  <advance width="1000"/>
+  <advance width="1060"/>
   <unicode hex="A74E"/>
   <anchor x="249" y="10" name="ogonek_1"/>
-  <anchor x="749" y="10" name="ogonek_2"/>
-  <anchor x="750" y="714" name="top_2"/>
-  <anchor x="1000" y="714" name="topright_2"/>
+  <anchor x="779" y="10" name="ogonek_2"/>
+  <anchor x="780" y="714" name="top_2"/>
+  <anchor x="1030" y="714" name="topright_2"/>
   <anchor x="500" y="714" name="topright_1"/>
   <anchor x="250" y="0" name="bottom_1"/>
-  <anchor x="750" y="0" name="bottom_2"/>
+  <anchor x="780" y="0" name="bottom_2"/>
   <anchor x="250" y="714" name="top_1"/>
-  <anchor x="750" y="357" name="center_2"/>
+  <anchor x="780" y="357" name="center_2"/>
   <anchor x="250" y="357" name="center_1"/>
-  <anchor x="520" y="714" name="topleft_2"/>
+  <anchor x="550" y="714" name="topleft_2"/>
   <anchor x="20" y="714" name="topleft_1"/>
   <outline>
     <component base="O"/>
-    <component base="O" xOffset="500"/>
+    <component base="O" xOffset="530"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:45</string>
+      <string>2017/02/08 14:49:41</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04FB" format="2">
-  <advance width="300"/>
+  <advance width="600"/>
   <unicode hex="04FB"/>
   <anchor x="136" y="-186" name="bottom"/>
   <anchor x="158" y="534" name="top"/>
   <anchor x="259" y="0" name="bottomright"/>
   <outline>
     <component base="uni0493"/>
-    <component base="cyrillicbighookUC" xOffset="270"/>
+    <component base="cyrillicbighookUC" xOffset="300"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:51</string>
+      <string>2017/02/08 14:54:00</string>
     </dict>
   </lib>
 </glyph>

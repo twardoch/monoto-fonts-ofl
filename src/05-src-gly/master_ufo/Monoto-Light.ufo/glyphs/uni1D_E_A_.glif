@@ -3,8 +3,8 @@
   <unicode hex="1DEA"/>
   <anchor x="0" y="528" name="_top"/>
   <anchor x="6.450000000000017" y="831.2" name="top"/>
-  <anchor x="-2.0999999999999943" y="827.2" name="ogonek"/>
-  <anchor x="-123.15" y="620.0" name="topright"/>
+  <anchor x="6.0" y="827.2" name="ogonek"/>
+  <anchor x="-115.05" y="620.0" name="topright"/>
   <anchor x="6.450000000000017" y="620.0" name="bottom"/>
   <outline>
     <component base="uni0259" xScale="0.45" yScale="0.4" xOffset="-129" yOffset="620"/>

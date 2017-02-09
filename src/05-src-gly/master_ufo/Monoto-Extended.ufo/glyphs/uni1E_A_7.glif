@@ -9,12 +9,12 @@
   <outline>
     <component base="a"/>
     <component base="circumflexcomb" xOffset="370"/>
-    <component base="gravecomb" xOffset="370" yOffset="230"/>
+    <component base="gravecomb" xOffset="370" yOffset="229"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:51</string>
+      <string>2017/02/08 14:54:00</string>
     </dict>
   </lib>
 </glyph>

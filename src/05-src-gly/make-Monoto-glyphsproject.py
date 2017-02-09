@@ -8,7 +8,7 @@ class GlyphsProjectGenerator(object):
         self.folder = "otf"
 
         self.projs = { 
-            "Monoto-MM": { 
+            "Monoto-VF": { 
                 "italic":  "" 
             }, 
         } 
@@ -28,12 +28,12 @@ class GlyphsProjectGenerator(object):
         }
 
         self.wdths = { 
-            48: ["1 UlCd", "Ultra Condensed"], 
-            60: ["2 ExCd", "Extra Condensed"], 
-            70: ["3 Cd", "Condensed"], 
-            85: ["4 SmCd", "SemiCondensed"], 
-            100: ["5 No", ""], 
-            116: ["6 SmWd", "Semi Expanded"], 
+            30: ["30 UlCd", "Ultra Condensed"], 
+            36: ["36 ExCd", "Extra Condensed"], 
+            44: ["44 Cd", "Condensed"], 
+            53: ["53 SmCd", "SemiCondensed"], 
+            62: ["62 No", ""], 
+            72: ["72 SmWd", "Semi Expanded"], 
         }
 
     def makeGInstance(self, cust, wdth, wght, italic): 

@@ -10,12 +10,12 @@
   <anchor x="265" y="714" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xOffset="135" yOffset="169"/>
+    <component base="hookabovecomb" xOffset="135" yOffset="171"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:51</string>
+      <string>2017/02/08 14:54:00</string>
     </dict>
   </lib>
 </glyph>

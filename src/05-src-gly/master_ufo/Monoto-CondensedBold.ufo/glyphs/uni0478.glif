@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0478" format="2">
-  <advance width="300"/>
+  <advance width="600"/>
   <unicode hex="0478"/>
   <anchor x="275" y="-245" name="bottom"/>
   <anchor x="285" y="714" name="top"/>
-  <anchor x="529" y="543" name="topright_2"/>
+  <anchor x="559" y="543" name="topright_2"/>
   <anchor x="16" y="714" name="topleft"/>
   <anchor x="144" y="10" name="ogonek"/>
   <anchor x="265" y="714" name="topright_1"/>
   <anchor x="135" y="357" name="center"/>
   <outline>
     <component base="O"/>
-    <component base="y" xOffset="270"/>
+    <component base="y" xOffset="300"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:50</string>
+      <string>2017/02/08 14:54:00</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

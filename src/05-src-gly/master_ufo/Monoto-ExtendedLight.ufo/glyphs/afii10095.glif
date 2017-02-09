@@ -4,14 +4,14 @@
   <unicode hex="044D"/>
   <anchor x="284" y="0" name="bottom"/>
   <anchor x="333" y="528" name="top"/>
-  <anchor x="26" y="528" name="topright"/>
+  <anchor x="24" y="528" name="topright"/>
   <outline>
-    <component base="afii10101" xScale="-1" xOffset="722"/>
+    <component base="afii10101" xScale="-1" xOffset="720"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:43</string>
+      <string>2017/02/08 14:49:36</string>
     </dict>
   </lib>
 </glyph>

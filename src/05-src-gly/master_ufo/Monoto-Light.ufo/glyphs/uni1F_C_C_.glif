@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCC" format="2">
-  <advance width="1204"/>
+  <advance width="1240"/>
   <unicode hex="1FCC"/>
   <anchor x="948" y="0" name="bottom"/>
   <anchor x="847" y="528" name="top"/>
@@ -9,7 +9,7 @@
   <anchor x="612" y="714" name="topright"/>
   <outline>
     <component base="H"/>
-    <component base="iota" xOffset="602"/>
+    <component base="iota" xOffset="620"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:44</string>
+      <string>2017/02/08 14:49:39</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

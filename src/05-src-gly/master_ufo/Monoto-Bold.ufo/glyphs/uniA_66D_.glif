@@ -4,12 +4,12 @@
   <unicode hex="A66D"/>
   <anchor x="304" y="10" name="ogonek_1"/>
   <anchor x="906" y="10" name="ogonek_2"/>
-  <anchor x="903.0" y="760.4075" name="top_2"/>
+  <anchor x="903.0" y="761.4075" name="top_2"/>
   <anchor x="1203" y="554" name="topright_2"/>
   <anchor x="601" y="554" name="topright_1"/>
   <anchor x="301" y="0" name="bottom_1"/>
   <anchor x="903" y="0" name="bottom_2"/>
-  <anchor x="301.0" y="760.4075" name="top_1"/>
+  <anchor x="301.0" y="761.4075" name="top_1"/>
   <anchor x="903" y="277" name="center_2"/>
   <anchor x="301" y="277" name="center_1"/>
   <outline>

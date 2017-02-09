@@ -8,12 +8,12 @@
   <anchor x="589" y="714" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb" xOffset="602"/>
+    <component base="horncomb" xOffset="620"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:43</string>
+      <string>2017/02/08 14:49:36</string>
     </dict>
   </lib>
 </glyph>

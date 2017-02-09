@@ -38,6 +38,7 @@ animate();
 });
 }
 </string>
+		<string>/uni1EAB</string>
 	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>76A4C521-9D4D-45AA-ACB6-E60567F34B8B</string>
@@ -2473,7 +2474,7 @@ animate();
 	<key>com.schriftgestaltung.width</key>
 	<string>Condensed</string>
 	<key>com.schriftgestaltung.widthValue</key>
-	<integer>48</integer>
+	<integer>30</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>

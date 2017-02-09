@@ -38,6 +38,7 @@ animate();
 });
 }
 </string>
+		<string>/uni1EAB</string>
 	</array>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
@@ -2478,7 +2479,7 @@ animate();
 	<key>com.schriftgestaltung.width</key>
 	<string>SemiCondensed</string>
 	<key>com.schriftgestaltung.widthValue</key>
-	<integer>85</integer>
+	<integer>53</integer>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
 		<dict>

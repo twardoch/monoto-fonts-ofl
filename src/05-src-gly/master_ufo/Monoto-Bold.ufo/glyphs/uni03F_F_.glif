@@ -4,7 +4,7 @@
   <unicode hex="03FF"/>
   <anchor x="258" y="0" name="bottom"/>
   <anchor x="258" y="714" name="top"/>
-  <anchor x="13" y="714" name="topright"/>
+  <anchor x="31" y="714" name="topright"/>
   <anchor x="205" y="361" name="center"/>
   <outline>
     <component base="uni0186"/>

@@ -38,6 +38,7 @@ animate();
 });
 }
 </string>
+		<string>/uni1EAB</string>
 	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>C17A2074-C7C5-42D4-A328-0C34BA299D2C</string>
@@ -2469,7 +2470,7 @@ animate();
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
 	<key>com.schriftgestaltung.widthValue</key>
-	<integer>116</integer>
+	<integer>72</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>

@@ -4,8 +4,8 @@
   <unicode hex="01DD"/>
   <anchor x="361" y="0" name="bottom"/>
   <anchor x="361" y="556" name="top"/>
-  <anchor x="353" y="543" name="ogonek"/>
-  <anchor x="0" y="-3" name="topright"/>
+  <anchor x="351" y="543" name="ogonek"/>
+  <anchor x="-2" y="-3" name="topright"/>
   <outline>
     <component base="uni0259"/>
   </outline>

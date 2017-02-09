@@ -8,13 +8,13 @@
   <anchor x="264" y="543" name="topright"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="147" yOffset="-2"/>
-    <component base="tildecomb" xOffset="147" yOffset="212"/>
+    <component base="brevecomb" xOffset="147"/>
+    <component base="tildecomb" xOffset="147" yOffset="213"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:51</string>
+      <string>2017/02/08 14:54:00</string>
     </dict>
   </lib>
 </glyph>

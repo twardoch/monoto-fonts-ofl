@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA74E" format="2">
-  <advance width="1204"/>
+  <advance width="1240"/>
   <unicode hex="A74E"/>
   <anchor x="303" y="10" name="ogonek_1"/>
-  <anchor x="905" y="10" name="ogonek_2"/>
-  <anchor x="903" y="714" name="top_2"/>
-  <anchor x="1214" y="714" name="topright_2"/>
+  <anchor x="923" y="10" name="ogonek_2"/>
+  <anchor x="921" y="714" name="top_2"/>
+  <anchor x="1232" y="714" name="topright_2"/>
   <anchor x="612" y="714" name="topright_1"/>
   <anchor x="301" y="0" name="bottom_1"/>
-  <anchor x="903" y="0" name="bottom_2"/>
+  <anchor x="921" y="0" name="bottom_2"/>
   <anchor x="301" y="714" name="top_1"/>
-  <anchor x="903" y="357" name="center_2"/>
+  <anchor x="921" y="357" name="center_2"/>
   <anchor x="301" y="357" name="center_1"/>
-  <anchor x="615" y="714" name="topleft_2"/>
+  <anchor x="633" y="714" name="topleft_2"/>
   <anchor x="13" y="714" name="topleft_1"/>
   <outline>
     <component base="O"/>
-    <component base="O" xOffset="602"/>
+    <component base="O" xOffset="620"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:45</string>
+      <string>2017/02/08 14:49:41</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

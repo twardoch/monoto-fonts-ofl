@@ -6,12 +6,12 @@
   <anchor x="102" y="936" name="top"/>
   <outline>
     <component base="uni0474"/>
-    <component base="dblgravecomb" xOffset="135" yOffset="169"/>
+    <component base="dblgravecomb" xOffset="135" yOffset="170"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:30:50</string>
+      <string>2017/02/08 14:54:00</string>
     </dict>
   </lib>
 </glyph>

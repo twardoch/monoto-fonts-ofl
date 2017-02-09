@@ -5,12 +5,12 @@
   <anchor x="250" y="0" name="bottom"/>
   <anchor x="250" y="536" name="top"/>
   <outline>
-    <component base="uni025E" xScale="-1" xOffset="500"/>
+    <component base="uni025E" xScale="-1" xOffset="530"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/02/08 14:40:45</string>
+      <string>2017/02/08 14:49:42</string>
     </dict>
   </lib>
 </glyph>

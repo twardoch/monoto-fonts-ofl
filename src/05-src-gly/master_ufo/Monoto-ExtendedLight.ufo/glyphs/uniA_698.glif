@@ -3,16 +3,16 @@
   <advance width="1444"/>
   <unicode hex="A698"/>
   <anchor x="364" y="10" name="ogonek_1"/>
-  <anchor x="1086" y="10" name="ogonek_2"/>
+  <anchor x="1084" y="10" name="ogonek_2"/>
   <anchor x="361" y="357" name="center_1"/>
-  <anchor x="1466" y="714" name="topright_2"/>
+  <anchor x="1464" y="714" name="topright_2"/>
   <anchor x="744" y="714" name="topright_1"/>
   <anchor x="361" y="0" name="bottom_1"/>
-  <anchor x="1083" y="0" name="bottom_2"/>
-  <anchor x="1083" y="357" name="center_2"/>
+  <anchor x="1081" y="0" name="bottom_2"/>
+  <anchor x="1081" y="357" name="center_2"/>
   <anchor x="361" y="714" name="top_1"/>
-  <anchor x="1083" y="714" name="top_2"/>
-  <anchor x="726" y="714" name="topleft_2"/>
+  <anchor x="1081" y="714" name="top_2"/>
+  <anchor x="724" y="714" name="topleft_2"/>
   <anchor x="4" y="714" name="topleft_1"/>
   <outline>
     <component base="uniA74E"/>
