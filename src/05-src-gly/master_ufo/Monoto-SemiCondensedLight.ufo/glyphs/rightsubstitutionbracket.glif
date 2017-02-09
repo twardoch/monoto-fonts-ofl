@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightsubstitutionbracket" format="2">
+  <advance width="500"/>
+  <unicode hex="2E03"/>
+  <outline>
+    <contour>
+      <point x="344" y="276" type="line"/>
+      <point x="369" y="276" type="line"/>
+      <point x="369" y="597" type="line"/>
+      <point x="141" y="709" type="line"/>
+      <point x="130" y="686" type="line"/>
+      <point x="344" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

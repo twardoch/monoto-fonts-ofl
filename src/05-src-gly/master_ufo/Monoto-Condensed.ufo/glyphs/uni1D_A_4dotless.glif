@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DA4dotless" format="2">
+  <advance width="270"/>
+  <anchor x="135" y="287" name="bottom"/>
+  <anchor x="135" y="608" name="top"/>
+  <anchor x="193" y="608" name="topright"/>
+  <outline>
+    <contour>
+      <point x="75" y="428" type="line"/>
+      <point x="197" y="428" type="line"/>
+      <point x="197" y="462" type="line"/>
+      <point x="75" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="287" type="line"/>
+      <point x="200" y="287" type="line"/>
+      <point x="200" y="318" type="line"/>
+      <point x="159" y="323" type="line"/>
+      <point x="159" y="608" type="line"/>
+      <point x="76" y="608" type="line"/>
+      <point x="76" y="577" type="line"/>
+      <point x="119" y="569" type="line"/>
+      <point x="119" y="323" type="line"/>
+      <point x="70" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

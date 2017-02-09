@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D7A" format="2">
+  <advance width="722"/>
+  <unicode hex="1D7A"/>
+  <anchor x="436" y="760" name="top_2"/>
+  <anchor x="1021" y="760" name="topright_2"/>
+  <anchor x="431" y="679" name="topright_1"/>
+  <anchor x="177" y="0" name="bottom_1"/>
+  <anchor x="664" y="0" name="bottom_2"/>
+  <anchor x="32" y="679" name="top_1"/>
+  <anchor x="664" y="269" name="center_2"/>
+  <anchor x="24" y="274" name="center_1"/>
+  <outline>
+    <contour>
+      <point x="-63" y="-75" type="line"/>
+      <point x="20" y="-75" type="line"/>
+      <point x="910" y="760" type="line"/>
+      <point x="828" y="760" type="line"/>
+    </contour>
+    <component base="t" xOffset="-287"/>
+    <component base="h" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

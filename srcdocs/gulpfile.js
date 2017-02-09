@@ -4,9 +4,9 @@
  */
 // Load plugins
 var gulp = require('gulp'), // gulp main module
-    sass = require('gulp-sass'), // compiles sass
-    sourcemaps = require('gulp-sourcemaps'); // creates source maps
-    autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS
+  sass = require('gulp-sass'), // compiles sass
+  sourcemaps = require('gulp-sourcemaps') // creates source maps
+autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS
     cssnano = require('gulp-cssnano'), // minifies CSS
     jshint = require('gulp-jshint'), // checkes JS code
     uglify = require('gulp-uglify'), // minifies JS
@@ -21,133 +21,133 @@ var gulp = require('gulp'), // gulp main module
 
     // Paths
     pathToStyles = 'styles/',
-    pathToScritps = 'scripts/',
+    pathToScripts = 'scripts/',
     pathToImages = 'images/',
     pathToFonts = '../fonts/Monoto-VF-TTF/',
-    pathToDocs = '../docs/';
+    pathToDocs = '../docs/'
 
 // TODO: Error handling
 
 // Styles
-gulp.task('styles', function() {
-    gulp.src( pathToStyles + 'main.scss' )
+gulp.task('styles', function () {
+  gulp.src(pathToStyles + 'main.scss')
         .pipe(
-            sass( {
-                errLogToConsole: true,
-                outputStyle: 'compressed',
-                precision: 10
+            sass({
+              errLogToConsole: true,
+              outputStyle: 'compressed',
+              precision: 10
             })
-            .on("error", notify.onError(function (error) {
-                return "Error spotted! " + error.message;
+            .on('error', notify.onError(function (error) {
+              return 'Error spotted! ' + error.message
             }))
         )
         .pipe(autoprefixer('last 2 version'))
         .pipe(gulp.dest(pathToDocs + 'styles'))
-        .pipe(rename({ 
-            suffix: '.min' 
+        .pipe(rename({
+          suffix: '.min'
         }))
         .pipe(cssnano())
-        .pipe(sourcemaps.write('./', { 
-            includeContent: false, 
-            sourceRoot: 'source' 
+        .pipe(sourcemaps.write('./', {
+          includeContent: false,
+          sourceRoot: 'source'
         }))
-        .pipe( sourcemaps.init({ 
-            loadMaps: true 
+        .pipe(sourcemaps.init({
+          loadMaps: true
         }))
-        .pipe(gulp.dest(pathToDocs + 'styles'));
-});
+        .pipe(gulp.dest(pathToDocs + 'styles'))
+})
 
 // Scripts
-gulp.task('scripts', function() {
-    return gulp.src(pathToScritps + '**/*.js')
+gulp.task('scripts', function () {
+  return gulp.src(pathToScripts + '**/*.js')
         .pipe(jshint('.jshintrc'))
         .pipe(jshint.reporter('default'))
         .pipe(concat('main.js'))
         .pipe(gulp.dest(pathToDocs + 'scripts'))
-        .pipe(rename({ 
-            suffix: '.min' 
+        .pipe(rename({
+          suffix: '.min'
         }))
         .pipe(uglify()
             .on('error', notify.onError(function (error) {
-                return 'Error spotted! ' + error.message;
+              return 'Error spotted! ' + error.message
             })))
-        .pipe(gulp.dest(pathToDocs + 'scripts'));
-});
+        .pipe(gulp.dest(pathToDocs + 'scripts'))
+})
 
 // Images
-gulp.task('images', function() {
-    return gulp.src(pathToImages + '/**/*')
-        .pipe(cache(imagemin({ 
-            optimizationLevel: 3, 
-            progressive: true, 
-            interlaced: true 
+gulp.task('images', function () {
+  return gulp.src(pathToImages + '/**/*')
+        .pipe(cache(imagemin({
+          optimizationLevel: 3,
+          progressive: true,
+          interlaced: true
         })))
-        .pipe(gulp.dest(pathToDocs + 'images'));
-});
+        .pipe(gulp.dest(pathToDocs + 'images'))
+})
 
 // Fonts: TTF to woff
-gulp.task('fonts', ['clean-fonts'], function() {
-    gulp.src(pathToFonts + '*.ttf')
+gulp.task('fonts', ['clean-fonts'], function () {
+  gulp.src(pathToFonts + '*.ttf')
     .pipe(ttf2woff())
-    .pipe(gulp.dest(pathToDocs + 'fonts/'));
-});
+    .pipe(gulp.dest(pathToDocs + 'fonts/'))
+})
 
 // Clean build
-gulp.task('clean', function() {
-return del(
+gulp.task('clean', function () {
+  return del(
     [
-        pathToDocs + 'styles', 
-        pathToDocs + 'scripts', 
-        pathToDocs + 'images'
+      pathToDocs + 'styles',
+      pathToDocs + 'scripts',
+      pathToDocs + 'images'
     ],
     {
-        force: true
-    });
-});
+      force: true
+    })
+})
 
 // Clean fonts
-gulp.task('clean-fonts', function() {
-return del(
+gulp.task('clean-fonts', function () {
+  return del(
     [
-        pathToDocs + 'fonts'
-    ], 
+      pathToDocs + 'fonts'
+    ],
     {
-        force: true
-    });
-});
+      force: true
+    })
+})
 
 // Clean sourcemaps
-gulp.task('clean-sourcemaps', function() {
-return del(
+gulp.task('clean-sourcemaps', function () {
+  return del(
     [
-        pathToDocs + 'styles/*.map'
-    ], 
+      pathToDocs + 'styles/*.map'
+    ],
     {
-        force: true
-    });
-});
+      force: true
+    })
+})
 
 // Default task
-gulp.task('default', ['clean'], function() {
-    gulp.start('styles', 'scripts', 'images');
-});
+gulp.task('default', ['clean'], function () {
+  gulp.start('styles', 'scripts', 'images')
+})
 
 // Production
 // TODO: refactor for Gulp 4.0, make `clean-sourcemaps` async
-gulp.task('production', function() {
-    gulp.start('default', 'fonts', 'clean-sourcemaps');
-});
+gulp.task('production', function () {
+  gulp.start('default', 'fonts', 'clean-sourcemaps')
+})
 
 // Watch
-gulp.task('watch', function() {
+gulp.task('watch', function () {
     // Watch .scss files
-    gulp.watch(pathToStyles + '/**/*.scss', ['styles']);
+  gulp.watch(pathToStyles + '/**/*.scss', ['styles'])
     // Watch .js files
-    gulp.watch(pathToScritps + '/**/*.js', ['scripts']);
+  gulp.watch(pathToScripts + '/**/*.js', ['scripts'])
     // Watch image files
-    gulp.watch(pathToImages + '/**/*', ['images']);
+  gulp.watch(pathToImages + '/**/*', ['images'])
     // Create LiveReload server
-    livereload.listen();
+  livereload.listen()
     // Watch any files in dist/, reload on change
-    gulp.watch([pathToDocs + '**']).on('change', livereload.changed);
-});
+  gulp.watch([pathToDocs + '**']).on('change', livereload.changed)
+})

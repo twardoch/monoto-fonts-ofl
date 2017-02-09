@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E41" format="2">
+  <advance width="722"/>
+  <unicode hex="2E41"/>
+  <outline>
+    <component base="comma" xScale="-1" xOffset="732"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

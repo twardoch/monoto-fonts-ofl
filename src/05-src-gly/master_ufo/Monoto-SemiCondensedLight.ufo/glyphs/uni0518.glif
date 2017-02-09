@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0518" format="2">
+  <advance width="500"/>
+  <unicode hex="0518"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-129" y="0" type="line"/>
+      <point x="-97" y="0" type="line"/>
+      <point x="93" y="323" type="line"/>
+      <point x="279" y="321" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="714" type="line"/>
+      <point x="141" y="714" type="line" smooth="yes"/>
+      <point x="-17" y="714"/>
+      <point x="-111" y="670"/>
+      <point x="-111" y="524" type="curve" smooth="yes"/>
+      <point x="-111" y="413"/>
+      <point x="-50" y="352"/>
+      <point x="65" y="328" type="curve"/>
+    </contour>
+    <contour>
+      <point x="131" y="347" type="line" smooth="yes"/>
+      <point x="6" y="347"/>
+      <point x="-84" y="401"/>
+      <point x="-84" y="526" type="curve" smooth="yes"/>
+      <point x="-84" y="646"/>
+      <point x="-11" y="689"/>
+      <point x="148" y="689" type="curve" smooth="yes"/>
+      <point x="279" y="689" type="line"/>
+      <point x="279" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="25" type="line"/>
+      <point x="305" y="25" type="line"/>
+      <point x="305" y="364" type="line"/>
+      <point x="612" y="364" type="line"/>
+      <point x="612" y="389" type="line"/>
+      <point x="305" y="389" type="line"/>
+      <point x="305" y="689" type="line"/>
+      <point x="629" y="689" type="line"/>
+      <point x="629" y="714" type="line"/>
+      <point x="279" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii61248" format="2">
+  <advance width="620"/>
+  <unicode hex="2105"/>
+  <outline>
+    <contour>
+      <point x="145" y="395" type="curve" smooth="yes"/>
+      <point x="180" y="395"/>
+      <point x="212" y="402"/>
+      <point x="233" y="411" type="curve"/>
+      <point x="233" y="434" type="line"/>
+      <point x="205" y="422"/>
+      <point x="174" y="416"/>
+      <point x="146" y="416" type="curve" smooth="yes"/>
+      <point x="59" y="416"/>
+      <point x="16" y="470"/>
+      <point x="16" y="557" type="curve" smooth="yes"/>
+      <point x="16" y="649"/>
+      <point x="61" y="701"/>
+      <point x="148" y="701" type="curve" smooth="yes"/>
+      <point x="175" y="701"/>
+      <point x="195" y="698"/>
+      <point x="225" y="686" type="curve"/>
+      <point x="233" y="709" type="line"/>
+      <point x="207" y="719"/>
+      <point x="180" y="724"/>
+      <point x="149" y="724" type="curve" smooth="yes"/>
+      <point x="43" y="724"/>
+      <point x="-10" y="660"/>
+      <point x="-10" y="556" type="curve" smooth="yes"/>
+      <point x="-10" y="457"/>
+      <point x="42" y="395"/>
+    </contour>
+    <component base="fraction" xOffset="310"/>
+    <component base="ordmasculine" xOffset="139" yOffset="-410"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

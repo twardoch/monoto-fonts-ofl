@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="300"/>
+  <unicode hex="03B3"/>
+  <anchor x="136" y="-240" name="bottom"/>
+  <anchor x="137" y="545" name="top"/>
+  <anchor x="255" y="543" name="topright"/>
+  <outline>
+    <contour>
+      <point x="66" y="-240" type="curve"/>
+      <point x="171" y="-240" type="line"/>
+      <point x="171" y="-162"/>
+      <point x="181" y="-56"/>
+      <point x="193" y="22" type="curve" smooth="yes"/>
+      <point x="275" y="543" type="line"/>
+      <point x="175" y="543" type="line"/>
+      <point x="159" y="327" type="line" smooth="yes"/>
+      <point x="154" y="258"/>
+      <point x="140" y="192"/>
+      <point x="137" y="136" type="curve"/>
+      <point x="135" y="136" type="line"/>
+      <point x="132" y="197"/>
+      <point x="117" y="262"/>
+      <point x="112" y="330" type="curve" smooth="yes"/>
+      <point x="99" y="543" type="line"/>
+      <point x="-6" y="543" type="line"/>
+      <point x="83" y="-2" type="line"/>
+      <point x="75" y="-66"/>
+      <point x="66" y="-180"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+    </dict>
+  </lib>
+</glyph>

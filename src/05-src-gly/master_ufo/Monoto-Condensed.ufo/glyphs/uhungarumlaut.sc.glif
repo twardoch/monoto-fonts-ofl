@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut.sc" format="2">
+  <advance width="269"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="790" name="top"/>
+  <anchor x="261" y="570" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="hungarumlautcomb.sc" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

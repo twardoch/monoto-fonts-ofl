@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0493" format="2">
+  <advance width="300"/>
+  <unicode hex="0493"/>
+  <anchor x="134" y="0" name="bottom"/>
+  <anchor x="134" y="528" name="top"/>
+  <anchor x="259" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="48" y="263" type="line"/>
+      <point x="179" y="263" type="line"/>
+      <point x="179" y="288" type="line"/>
+      <point x="48" y="288" type="line"/>
+    </contour>
+    <component base="afii10068" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

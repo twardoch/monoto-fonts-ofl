@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="530"/>
+  <unicode hex="0127"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="277" name="center"/>
+  <anchor x="112" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="581" type="line"/>
+      <point x="297" y="581" type="line"/>
+      <point x="297" y="684" type="line"/>
+      <point x="0" y="684" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="268" type="line" smooth="yes"/>
+      <point x="190" y="356"/>
+      <point x="204" y="408"/>
+      <point x="258" y="408" type="curve" smooth="yes"/>
+      <point x="313" y="408"/>
+      <point x="315" y="366"/>
+      <point x="315" y="298" type="curve" smooth="yes"/>
+      <point x="315" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="350" type="line" smooth="yes"/>
+      <point x="470" y="479"/>
+      <point x="412" y="553"/>
+      <point x="314" y="553" type="curve" smooth="yes"/>
+      <point x="251" y="553"/>
+      <point x="208" y="522"/>
+      <point x="186" y="474" type="curve"/>
+      <point x="177" y="474" type="line"/>
+      <point x="186" y="518"/>
+      <point x="190" y="565"/>
+      <point x="190" y="611" type="curve" smooth="yes"/>
+      <point x="190" y="760" type="line"/>
+      <point x="35" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

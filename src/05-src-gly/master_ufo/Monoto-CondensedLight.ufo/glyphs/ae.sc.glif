@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="2">
+  <advance width="270"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="162" y="559" name="top"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="66" y="209" type="line"/>
+      <point x="140" y="209" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="25" type="line"/>
+      <point x="162" y="25" type="line"/>
+      <point x="162" y="283" type="line"/>
+      <point x="249" y="283" type="line"/>
+      <point x="249" y="308" type="line"/>
+      <point x="162" y="308" type="line"/>
+      <point x="162" y="534" type="line"/>
+      <point x="255" y="534" type="line"/>
+      <point x="255" y="559" type="line"/>
+      <point x="108" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="233" type="line"/>
+      <point x="124" y="534" type="line"/>
+      <point x="140" y="534" type="line"/>
+      <point x="140" y="233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nsuperior" format="2">
+  <advance width="620"/>
+  <unicode hex="207F"/>
+  <anchor x="303.20000000000005" y="316.8" name="top"/>
+  <anchor x="485.85" y="316.8" name="topright"/>
+  <anchor x="305.15" y="0.0" name="bottom"/>
+  <outline>
+    <component base="n" xScale="0.65" yScale="0.6" xOffset="103"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

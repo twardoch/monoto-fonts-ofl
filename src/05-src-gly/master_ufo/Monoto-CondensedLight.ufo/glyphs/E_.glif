@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="300"/>
+  <unicode hex="0045"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="194" y="10" name="ogonek"/>
+  <anchor x="135" y="714" name="top"/>
+  <anchor x="17" y="714" name="topleft"/>
+  <anchor x="255" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="222" y="25" type="line"/>
+      <point x="74" y="25" type="line"/>
+      <point x="74" y="364" type="line"/>
+      <point x="213" y="364" type="line"/>
+      <point x="213" y="389" type="line"/>
+      <point x="74" y="389" type="line"/>
+      <point x="74" y="689" type="line"/>
+      <point x="222" y="689" type="line"/>
+      <point x="222" y="714" type="line"/>
+      <point x="51" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>

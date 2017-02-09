@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft.sc" format="2">
+  <advance width="722"/>
+  <outline>
+    <contour>
+      <point x="517" y="-130" type="curve"/>
+      <point x="517" y="-62" type="line"/>
+      <point x="440" y="-60"/>
+      <point x="399" y="-46"/>
+      <point x="399" y="1" type="curve" smooth="yes"/>
+      <point x="399" y="119" type="line" smooth="yes"/>
+      <point x="399" y="182"/>
+      <point x="367" y="211"/>
+      <point x="302" y="221" type="curve"/>
+      <point x="302" y="225" type="line"/>
+      <point x="368" y="234"/>
+      <point x="399" y="266"/>
+      <point x="399" y="328" type="curve" smooth="yes"/>
+      <point x="399" y="443" type="line" smooth="yes"/>
+      <point x="399" y="490"/>
+      <point x="439" y="506"/>
+      <point x="517" y="507" type="curve"/>
+      <point x="517" y="576" type="line"/>
+      <point x="371" y="574"/>
+      <point x="320" y="534"/>
+      <point x="320" y="451" type="curve" smooth="yes"/>
+      <point x="320" y="330" type="line" smooth="yes"/>
+      <point x="320" y="280"/>
+      <point x="279" y="257"/>
+      <point x="204" y="257" type="curve"/>
+      <point x="204" y="188" type="line"/>
+      <point x="276" y="187"/>
+      <point x="320" y="163"/>
+      <point x="320" y="113" type="curve" smooth="yes"/>
+      <point x="320" y="-5" type="line" smooth="yes"/>
+      <point x="320" y="-93"/>
+      <point x="374" y="-130"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

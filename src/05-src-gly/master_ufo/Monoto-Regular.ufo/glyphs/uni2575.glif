@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2575" format="2">
+  <advance width="602"/>
+  <unicode hex="2575"/>
+  <outline>
+    <contour>
+      <point x="338" y="402" type="line"/>
+      <point x="338" y="979" type="line"/>
+      <point x="263" y="979" type="line"/>
+      <point x="263" y="402" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

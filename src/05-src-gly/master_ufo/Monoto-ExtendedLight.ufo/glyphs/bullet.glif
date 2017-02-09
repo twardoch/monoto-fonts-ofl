@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="720"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="360" y="294" type="curve" smooth="yes"/>
+      <point x="410" y="294"/>
+      <point x="429" y="326"/>
+      <point x="429" y="365" type="curve" smooth="yes"/>
+      <point x="429" y="406"/>
+      <point x="410" y="436"/>
+      <point x="360" y="436" type="curve" smooth="yes"/>
+      <point x="311" y="436"/>
+      <point x="292" y="408"/>
+      <point x="292" y="365" type="curve" smooth="yes"/>
+      <point x="292" y="324"/>
+      <point x="311" y="294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubletilderighthalfcomb" format="2">
+  <unicode hex="FE23"/>
+  <outline>
+    <contour>
+      <point x="22" y="608" type="curve"/>
+      <point x="143" y="608"/>
+      <point x="223" y="646"/>
+      <point x="237" y="738" type="curve"/>
+      <point x="182" y="738" type="line"/>
+      <point x="171" y="701"/>
+      <point x="126" y="677"/>
+      <point x="22" y="677" type="curve"/>
+      <point x="-74" y="677"/>
+      <point x="-159" y="692"/>
+      <point x="-238" y="707" type="curve"/>
+      <point x="-238" y="637" type="line"/>
+      <point x="-158" y="623"/>
+      <point x="-74" y="608"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

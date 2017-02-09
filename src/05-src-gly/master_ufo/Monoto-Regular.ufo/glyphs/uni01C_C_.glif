@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CC" format="2">
+  <advance width="620"/>
+  <unicode hex="01CC"/>
+  <anchor x="621" y="-240" name="bottom"/>
+  <anchor x="756" y="760" name="top"/>
+  <anchor x="921" y="764" name="topright_2"/>
+  <anchor x="379" y="536" name="topright_1"/>
+  <outline>
+    <component base="n" xOffset="-210"/>
+    <component base="j" xOffset="332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

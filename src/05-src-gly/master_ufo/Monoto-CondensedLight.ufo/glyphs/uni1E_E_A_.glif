@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EEA" format="2">
+  <advance width="300"/>
+  <unicode hex="1EEA"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="951" name="top"/>
+  <anchor x="239" y="10" name="ogonek"/>
+  <anchor x="255" y="714" name="topright"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="gravecomb" xOffset="135" yOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

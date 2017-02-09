@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E3E" format="2">
+  <advance width="300"/>
+  <unicode hex="1E3E"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="937" name="top"/>
+  <anchor x="264" y="714" name="topright"/>
+  <outline>
+    <component base="M"/>
+    <component base="acutecomb" xOffset="136" yOffset="169"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

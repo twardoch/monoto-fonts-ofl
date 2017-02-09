@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaLatin" format="2">
+  <advance width="300"/>
+  <unicode hex="0269"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="129" y="528" name="top"/>
+  <outline>
+    <component base="iota"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

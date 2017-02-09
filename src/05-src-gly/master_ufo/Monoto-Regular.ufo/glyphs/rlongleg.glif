@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlongleg" format="2">
+  <advance width="620"/>
+  <unicode hex="027C"/>
+  <anchor x="260" y="-240" name="bottom"/>
+  <anchor x="335" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="213" y="-240" type="line"/>
+      <point x="301" y="-240" type="line"/>
+      <point x="301" y="267" type="line" smooth="yes"/>
+      <point x="301" y="377"/>
+      <point x="362" y="462"/>
+      <point x="467" y="462" type="curve" smooth="yes"/>
+      <point x="495" y="462"/>
+      <point x="529" y="457"/>
+      <point x="555" y="445" type="curve"/>
+      <point x="578" y="529" type="line"/>
+      <point x="545" y="541"/>
+      <point x="510" y="547"/>
+      <point x="474" y="547" type="curve" smooth="yes"/>
+      <point x="387" y="547"/>
+      <point x="329" y="507"/>
+      <point x="299" y="441" type="curve"/>
+      <point x="294" y="441" type="line"/>
+      <point x="285" y="536" type="line"/>
+      <point x="64" y="536" type="line"/>
+      <point x="64" y="475" type="line"/>
+      <point x="213" y="461" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

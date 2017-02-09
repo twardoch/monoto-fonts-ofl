@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraphos" format="2">
+  <advance width="269"/>
+  <unicode hex="2E0F"/>
+  <outline>
+    <contour>
+      <point x="5" y="-152" type="line"/>
+      <point x="264" y="-152" type="line"/>
+      <point x="264" y="-92" type="line"/>
+      <point x="5" y="-92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

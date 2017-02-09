@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedillacomb" format="2">
+  <unicode hex="1DD7"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="28.849999999999994" y="841.2" name="top"/>
+  <anchor x="113.0" y="841.2" name="topright"/>
+  <anchor x="29.30000000000001" y="524.0" name="bottom"/>
+  <outline>
+    <component base="ccedilla" xScale="0.45" yScale="0.4" xOffset="-103" yOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

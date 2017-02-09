@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB57" format="2">
+  <advance width="722"/>
+  <unicode hex="AB57"/>
+  <outline>
+    <contour>
+      <point x="-16" y="-240" type="line"/>
+      <point x="177" y="-240" type="line"/>
+      <point x="361" y="136" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="470" y="283" type="line"/>
+      <point x="639" y="555" type="line"/>
+      <point x="442" y="555" type="line"/>
+      <point x="354" y="412" type="line"/>
+      <point x="265" y="555" type="line"/>
+      <point x="70" y="555" type="line"/>
+      <point x="238" y="261" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

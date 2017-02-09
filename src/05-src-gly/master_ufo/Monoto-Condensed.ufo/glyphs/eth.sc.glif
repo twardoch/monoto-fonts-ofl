@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="2">
+  <advance width="270"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="570" name="top"/>
+  <anchor x="258" y="570" name="topright"/>
+  <anchor x="139" y="284" name="center"/>
+  <outline>
+    <contour>
+      <point x="5" y="261" type="line"/>
+      <point x="135" y="261" type="line"/>
+      <point x="135" y="317" type="line"/>
+      <point x="5" y="317" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

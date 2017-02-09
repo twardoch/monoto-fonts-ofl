@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="flowerpunctuationmark" format="2">
+  <advance width="269"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="160" y="1" type="line"/>
+      <point x="167" y="43" type="line"/>
+      <point x="211" y="134" type="line"/>
+      <point x="253" y="76" type="line"/>
+      <point x="213" y="133" type="line"/>
+      <point x="276" y="218" type="line"/>
+      <point x="277" y="256" type="line"/>
+      <point x="214" y="298" type="line"/>
+      <point x="258" y="327" type="line"/>
+      <point x="216" y="440" type="line"/>
+      <point x="167" y="439" type="line"/>
+      <point x="167" y="394" type="line"/>
+      <point x="109" y="515" type="line"/>
+      <point x="101" y="474" type="line"/>
+      <point x="57" y="383" type="line"/>
+      <point x="15" y="442" type="line"/>
+      <point x="54" y="383" type="line"/>
+      <point x="-8" y="298" type="line"/>
+      <point x="-9" y="259" type="line"/>
+      <point x="55" y="218" type="line"/>
+      <point x="11" y="189" type="line"/>
+      <point x="51" y="77" type="line"/>
+      <point x="101" y="77" type="line"/>
+      <point x="101" y="122" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

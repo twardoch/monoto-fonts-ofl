@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0468" format="2">
+  <advance width="620"/>
+  <unicode hex="0468"/>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="436" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-249" y="0" type="line"/>
+      <point x="-76" y="0" type="line"/>
+      <point x="-76" y="295" type="line"/>
+      <point x="149" y="295" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="316" y="272" type="line"/>
+      <point x="354" y="272" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="272" type="line"/>
+      <point x="556" y="272" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="554" y="714" type="line"/>
+      <point x="320" y="714" type="line"/>
+      <point x="205" y="445" type="line"/>
+      <point x="-76" y="445" type="line"/>
+      <point x="-76" y="714" type="line"/>
+      <point x="-249" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="410" type="line"/>
+      <point x="405" y="522" type="line" smooth="yes"/>
+      <point x="415" y="545"/>
+      <point x="429" y="580"/>
+      <point x="436" y="601" type="curve"/>
+      <point x="443" y="581"/>
+      <point x="456" y="544"/>
+      <point x="467" y="521" type="curve" smooth="yes"/>
+      <point x="509" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

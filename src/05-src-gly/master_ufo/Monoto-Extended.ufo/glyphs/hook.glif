@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hook" format="2">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="-63" y="591" type="line"/>
+      <point x="-4" y="591" type="line"/>
+      <point x="1" y="642" type="line"/>
+      <point x="67" y="653"/>
+      <point x="113" y="679"/>
+      <point x="113" y="730" type="curve" smooth="yes"/>
+      <point x="113" y="792"/>
+      <point x="59" y="822"/>
+      <point x="-38" y="822" type="curve" smooth="yes"/>
+      <point x="-70" y="822"/>
+      <point x="-95" y="819"/>
+      <point x="-114" y="815" type="curve"/>
+      <point x="-114" y="761" type="line"/>
+      <point x="-97" y="764"/>
+      <point x="-74" y="766"/>
+      <point x="-48" y="766" type="curve" smooth="yes"/>
+      <point x="6" y="766"/>
+      <point x="38" y="758"/>
+      <point x="38" y="727" type="curve" smooth="yes"/>
+      <point x="38" y="696"/>
+      <point x="-2" y="683"/>
+      <point x="-70" y="674" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tricolon" format="2">
+  <advance width="722"/>
+  <unicode hex="205D"/>
+  <outline>
+    <contour>
+      <point x="362" y="617" type="curve" smooth="yes"/>
+      <point x="424" y="617"/>
+      <point x="478" y="646"/>
+      <point x="478" y="715" type="curve" smooth="yes"/>
+      <point x="478" y="787"/>
+      <point x="424" y="813"/>
+      <point x="362" y="813" type="curve" smooth="yes"/>
+      <point x="297" y="813"/>
+      <point x="244" y="787"/>
+      <point x="244" y="715" type="curve" smooth="yes"/>
+      <point x="244" y="646"/>
+      <point x="297" y="617"/>
+    </contour>
+    <contour>
+      <point x="360" y="-25" type="curve" smooth="yes"/>
+      <point x="422" y="-25"/>
+      <point x="476" y="2"/>
+      <point x="476" y="71" type="curve" smooth="yes"/>
+      <point x="476" y="144"/>
+      <point x="422" y="170"/>
+      <point x="360" y="170" type="curve" smooth="yes"/>
+      <point x="295" y="170"/>
+      <point x="242" y="144"/>
+      <point x="242" y="71" type="curve" smooth="yes"/>
+      <point x="242" y="2"/>
+      <point x="295" y="-25"/>
+    </contour>
+    <contour>
+      <point x="364" y="296" type="curve" smooth="yes"/>
+      <point x="426" y="296"/>
+      <point x="479" y="324"/>
+      <point x="479" y="393" type="curve" smooth="yes"/>
+      <point x="479" y="465"/>
+      <point x="426" y="492"/>
+      <point x="364" y="492" type="curve" smooth="yes"/>
+      <point x="299" y="492"/>
+      <point x="245" y="465"/>
+      <point x="245" y="393" type="curve" smooth="yes"/>
+      <point x="245" y="324"/>
+      <point x="299" y="296"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

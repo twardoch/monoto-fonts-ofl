@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="2">
+  <advance width="720"/>
+  <unicode hex="03A3"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="361" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="26" type="line"/>
+      <point x="207" y="26" type="line"/>
+      <point x="193" y="26"/>
+      <point x="179" y="26"/>
+      <point x="165" y="26" type="curve"/>
+      <point x="455" y="374" type="line"/>
+      <point x="174" y="688" type="line"/>
+      <point x="189" y="688"/>
+      <point x="200" y="688"/>
+      <point x="214" y="688" type="curve"/>
+      <point x="575" y="688" type="line"/>
+      <point x="575" y="714" type="line"/>
+      <point x="135" y="714" type="line"/>
+      <point x="135" y="695" type="line"/>
+      <point x="420" y="372" type="line"/>
+      <point x="127" y="21" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Z</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+    </dict>
+  </lib>
+</glyph>

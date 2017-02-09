@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longsdiagonalstroke" format="2">
+  <advance width="722"/>
+  <unicode hex="1E9C"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="361" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="225" type="line"/>
+      <point x="569" y="388" type="line"/>
+      <point x="511" y="506" type="line"/>
+      <point x="91" y="342" type="line"/>
+    </contour>
+    <component base="longs" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

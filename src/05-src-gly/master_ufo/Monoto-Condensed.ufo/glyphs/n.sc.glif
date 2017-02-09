@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sc" format="2">
+  <advance width="270"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="570" name="top"/>
+  <anchor x="255" y="570" name="topright"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="77" y="312" type="line" smooth="yes"/>
+      <point x="77" y="382"/>
+      <point x="73" y="446"/>
+      <point x="70" y="503" type="curve"/>
+      <point x="73" y="503" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="570" type="line"/>
+      <point x="192" y="570" type="line"/>
+      <point x="192" y="242" type="line" smooth="yes"/>
+      <point x="192" y="183"/>
+      <point x="197" y="97"/>
+      <point x="200" y="70" type="curve"/>
+      <point x="197" y="70" type="line"/>
+      <point x="104" y="570" type="line"/>
+      <point x="25" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="versicle" format="2">
+  <advance width="722"/>
+  <unicode hex="2123"/>
+  <anchor x="339" y="714" name="top"/>
+  <anchor x="696" y="714" name="topright"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="78" y="-145" type="line"/>
+      <point x="124" y="-145" type="line"/>
+      <point x="555" y="787" type="line"/>
+      <point x="226" y="842" type="line"/>
+      <point x="217" y="811" type="line"/>
+      <point x="500" y="764" type="line"/>
+    </contour>
+    <component base="V" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

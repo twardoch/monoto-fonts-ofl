@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03DC" format="2">
+  <advance width="500"/>
+  <unicode hex="03DC"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="270" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="329" type="line"/>
+      <point x="380" y="329" type="line"/>
+      <point x="380" y="205" type="line"/>
+      <point x="406" y="205" type="line"/>
+      <point x="406" y="354" type="line"/>
+      <point x="127" y="354" type="line"/>
+      <point x="127" y="689" type="line"/>
+      <point x="422" y="689" type="line"/>
+      <point x="422" y="714" type="line"/>
+      <point x="101" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

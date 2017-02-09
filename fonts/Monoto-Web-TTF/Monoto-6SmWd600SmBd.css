@@ -1,0 +1,13 @@
+/* Webfont: Monoto-6SmWd600SmBd */@font-face {
+    font-family: 'Monoto6SmWd600SmBd';
+    src: url('Monoto-6SmWd600SmBd.eot'); /* IE9 Compat Modes */
+    src: url('Monoto-6SmWd600SmBd.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Monoto-6SmWd600SmBd.woff2') format('woff2'), /* Modern Browsers */
+         url('Monoto-6SmWd600SmBd.woff') format('woff'), /* Modern Browsers */
+         url('Monoto-6SmWd600SmBd.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Monoto-6SmWd600SmBd.svg#Monoto-6SmWd600SmBd') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

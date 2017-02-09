@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10069" format="2">
+  <advance width="620"/>
+  <unicode hex="0434"/>
+  <anchor x="303" y="-175" name="bottom"/>
+  <anchor x="355" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="-175" type="line"/>
+      <point x="88" y="-175" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="514" y="-175" type="line"/>
+      <point x="541" y="-175" type="line"/>
+      <point x="541" y="25" type="line"/>
+      <point x="473" y="25" type="line"/>
+      <point x="473" y="528" type="line"/>
+      <point x="241" y="528" type="line"/>
+      <point x="238" y="332"/>
+      <point x="191" y="159"/>
+      <point x="100" y="25" type="curve"/>
+      <point x="61" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="25" type="line"/>
+      <point x="218" y="157"/>
+      <point x="260" y="316"/>
+      <point x="267" y="503" type="curve"/>
+      <point x="446" y="503" type="line"/>
+      <point x="446" y="25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

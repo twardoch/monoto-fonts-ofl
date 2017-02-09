@@ -1,0 +1,535 @@
+(
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 48;
+    name = "1 UlCd 100 Th";
+    weightClass = Thin;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 48;
+    name = "1 UlCd 200 ExLt";
+    weightClass = ExtraLight;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 48;
+    name = "1 UlCd 300 Lt";
+    weightClass = Light;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 48;
+    name = "1 UlCd 400 Rg";
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 48;
+    name = "1 UlCd 500 Md";
+    weightClass = Medium;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 48;
+    name = "1 UlCd 600 SmBd";
+    weightClass = SemiBold;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 1 UlCd"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 48;
+    name = "1 UlCd 700 Bd";
+    weightClass = Bold;
+    widthClass = "Ultra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 60;
+    name = "2 ExCd 100 Th";
+    weightClass = Thin;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 60;
+    name = "2 ExCd 200 ExLt";
+    weightClass = ExtraLight;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 60;
+    name = "2 ExCd 300 Lt";
+    weightClass = Light;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 60;
+    name = "2 ExCd 400 Rg";
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 60;
+    name = "2 ExCd 500 Md";
+    weightClass = Medium;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 60;
+    name = "2 ExCd 600 SmBd";
+    weightClass = SemiBold;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 2 ExCd"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 60;
+    name = "2 ExCd 700 Bd";
+    weightClass = Bold;
+    widthClass = "Extra Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 70;
+    name = "3 Cd 100 Th";
+    weightClass = Thin;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 70;
+    name = "3 Cd 200 ExLt";
+    weightClass = ExtraLight;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 70;
+    name = "3 Cd 300 Lt";
+    weightClass = Light;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 70;
+    name = "3 Cd 400 Rg";
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 70;
+    name = "3 Cd 500 Md";
+    weightClass = Medium;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 70;
+    name = "3 Cd 600 SmBd";
+    weightClass = SemiBold;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 3 Cd"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 70;
+    name = "3 Cd 700 Bd";
+    weightClass = Bold;
+    widthClass = "Condensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 85;
+    name = "4 SmCd 100 Th";
+    weightClass = Thin;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 85;
+    name = "4 SmCd 200 ExLt";
+    weightClass = ExtraLight;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 85;
+    name = "4 SmCd 300 Lt";
+    weightClass = Light;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 85;
+    name = "4 SmCd 400 Rg";
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 85;
+    name = "4 SmCd 500 Md";
+    weightClass = Medium;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 85;
+    name = "4 SmCd 600 SmBd";
+    weightClass = SemiBold;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 4 SmCd"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 85;
+    name = "4 SmCd 700 Bd";
+    weightClass = Bold;
+    widthClass = "SemiCondensed";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 100;
+    name = "5 No 100 Th";
+    weightClass = Thin;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 100;
+    name = "5 No 200 ExLt";
+    weightClass = ExtraLight;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 100;
+    name = "5 No 300 Lt";
+    weightClass = Light;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 100;
+    name = "5 No 400 Rg";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 100;
+    name = "5 No 500 Md";
+    weightClass = Medium;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 100;
+    name = "5 No 600 SmBd";
+    weightClass = SemiBold;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 5 No"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 100;
+    name = "5 No 700 Bd";
+    weightClass = Bold;
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "100 Th"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 100;
+    interpolationWidth = 116;
+    name = "6 SmWd 100 Th";
+    weightClass = Thin;
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "200 ExLt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 188;
+    interpolationWidth = 116;
+    name = "6 SmWd 200 ExLt";
+    weightClass = ExtraLight;
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "300 Lt"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 272;
+    interpolationWidth = 116;
+    name = "6 SmWd 300 Lt";
+    weightClass = Light;
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "400 Rg"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 400;
+    interpolationWidth = 116;
+    name = "6 SmWd 400 Rg";
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "500 Md"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 562;
+    interpolationWidth = 116;
+    name = "6 SmWd 500 Md";
+    weightClass = Medium;
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "600 SmBd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 738;
+    interpolationWidth = 116;
+    name = "6 SmWd 600 SmBd";
+    weightClass = SemiBold;
+    widthClass = "Semi Expanded";
+    },
+{   customParameters = (
+    {   name = preferredFamilyName;
+        value = "Monoto 6 SmWd"; },
+    {   name = preferredSubfamilyName;
+        value = "700 Bd"; }
+    );
+    interpolationCustom = 0;
+    interpolationWeight = 900;
+    interpolationWidth = 116;
+    name = "6 SmWd 700 Bd";
+    weightClass = Bold;
+    widthClass = "Semi Expanded";
+    },
+)

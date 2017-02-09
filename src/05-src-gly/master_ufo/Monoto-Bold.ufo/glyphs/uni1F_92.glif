@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F92" format="2">
+  <advance width="602"/>
+  <unicode hex="1F92"/>
+  <anchor x="301" y="-240" name="bottom"/>
+  <anchor x="301" y="776" name="top"/>
+  <anchor x="593" y="554" name="topright"/>
+  <outline>
+    <component base="eta"/>
+    <component base="uni1FCD"/>
+    <component base="ypogegrammenicomb" xOffset="304" yOffset="-240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

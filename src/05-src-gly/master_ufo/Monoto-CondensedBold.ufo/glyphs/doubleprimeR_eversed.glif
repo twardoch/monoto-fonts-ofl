@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleprimeReversed" format="2">
+  <advance width="270"/>
+  <unicode hex="2036"/>
+  <outline>
+    <component base="primeReversed" xOffset="71"/>
+    <component base="primeReversed" xOffset="-110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

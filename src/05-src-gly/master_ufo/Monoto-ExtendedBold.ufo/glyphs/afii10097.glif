@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10097" format="2">
+  <advance width="720"/>
+  <unicode hex="044F"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="426" y="556" name="top"/>
+  <outline>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="385" y="193" type="line"/>
+      <point x="482" y="193" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="556" type="line"/>
+      <point x="360" y="556" type="line" smooth="yes"/>
+      <point x="193" y="556"/>
+      <point x="88" y="491"/>
+      <point x="88" y="376" type="curve" smooth="yes"/>
+      <point x="88" y="293"/>
+      <point x="145" y="238"/>
+      <point x="221" y="211" type="curve"/>
+    </contour>
+    <contour>
+      <point x="386" y="315" type="line" smooth="yes"/>
+      <point x="309" y="315"/>
+      <point x="270" y="340"/>
+      <point x="270" y="371" type="curve" smooth="yes"/>
+      <point x="270" y="403"/>
+      <point x="303" y="429"/>
+      <point x="378" y="429" type="curve" smooth="yes"/>
+      <point x="482" y="429" type="line"/>
+      <point x="482" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

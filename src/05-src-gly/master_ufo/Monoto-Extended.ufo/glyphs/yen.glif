@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="720"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="315" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="407" y="128" type="line"/>
+      <point x="603" y="128" type="line"/>
+      <point x="603" y="193" type="line"/>
+      <point x="407" y="193" type="line"/>
+      <point x="407" y="274" type="line"/>
+      <point x="603" y="274" type="line"/>
+      <point x="603" y="339" type="line"/>
+      <point x="430" y="339" type="line"/>
+      <point x="691" y="714" type="line"/>
+      <point x="593" y="714" type="line"/>
+      <point x="361" y="374" type="line"/>
+      <point x="130" y="714" type="line"/>
+      <point x="31" y="714" type="line"/>
+      <point x="289" y="339" type="line"/>
+      <point x="120" y="339" type="line"/>
+      <point x="120" y="274" type="line"/>
+      <point x="315" y="274" type="line"/>
+      <point x="315" y="193" type="line"/>
+      <point x="120" y="193" type="line"/>
+      <point x="120" y="128" type="line"/>
+      <point x="315" y="128" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+    </dict>
+  </lib>
+</glyph>

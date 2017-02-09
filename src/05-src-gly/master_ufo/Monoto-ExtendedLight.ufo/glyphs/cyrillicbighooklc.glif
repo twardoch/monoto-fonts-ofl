@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillicbighooklc" format="2">
+  <advance width="722"/>
+  <outline>
+    <contour>
+      <point x="339" y="-168" type="curve" smooth="yes"/>
+      <point x="395" y="-168"/>
+      <point x="434" y="-140"/>
+      <point x="434" y="-80" type="curve" smooth="yes"/>
+      <point x="434" y="25" type="line"/>
+      <point x="372" y="25" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="407" y="-81" type="line" smooth="yes"/>
+      <point x="407" y="-127"/>
+      <point x="381" y="-143"/>
+      <point x="338" y="-143" type="curve" smooth="yes"/>
+      <point x="316" y="-143"/>
+      <point x="299" y="-139"/>
+      <point x="286" y="-134" type="curve"/>
+      <point x="286" y="-159" type="line"/>
+      <point x="298" y="-164"/>
+      <point x="315" y="-168"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

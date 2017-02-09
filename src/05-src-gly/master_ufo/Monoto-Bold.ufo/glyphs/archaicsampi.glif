@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="archaicsampi" format="2">
+  <advance width="602"/>
+  <unicode hex="0373"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="301" y="357" name="center"/>
+  <anchor x="301" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="217" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="386" y="612" type="line"/>
+      <point x="587" y="612" type="line"/>
+      <point x="587" y="760" type="line"/>
+      <point x="15" y="760" type="line"/>
+      <point x="15" y="612" type="line"/>
+      <point x="217" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="406" type="line"/>
+      <point x="145" y="406" type="line"/>
+      <point x="145" y="760" type="line"/>
+      <point x="15" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="406" type="line"/>
+      <point x="587" y="406" type="line"/>
+      <point x="587" y="760" type="line"/>
+      <point x="457" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78A" format="2">
+  <advance width="602"/>
+  <unicode hex="A78A"/>
+  <outline>
+    <contour>
+      <point x="95" y="353" type="line"/>
+      <point x="508" y="353" type="line"/>
+      <point x="508" y="451" type="line"/>
+      <point x="95" y="451" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="178" type="line"/>
+      <point x="508" y="178" type="line"/>
+      <point x="508" y="276" type="line"/>
+      <point x="95" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

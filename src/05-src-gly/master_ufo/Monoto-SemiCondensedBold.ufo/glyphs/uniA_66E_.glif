@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66E" format="2">
+  <advance width="2830"/>
+  <unicode hex="A66E"/>
+  <anchor x="123.354" y="4.62" name="ogonek_1"/>
+  <anchor x="527.354" y="4.62" name="ogonek_2"/>
+  <anchor x="932.354" y="4.62" name="ogonek_3"/>
+  <anchor x="1336.354" y="4.62" name="ogonek_4"/>
+  <anchor x="1740.354" y="4.62" name="ogonek_5"/>
+  <anchor x="2144.354" y="4.62" name="ogonek_6"/>
+  <anchor x="2549.354" y="4.62" name="ogonek_7"/>
+  <anchor x="635.0" y="329.868" name="topright_2"/>
+  <anchor x="1040.0" y="329.868" name="topright_3"/>
+  <anchor x="231.0" y="329.868" name="topright_1"/>
+  <anchor x="2252.0" y="329.868" name="topright_6"/>
+  <anchor x="2657.0" y="329.868" name="topright_7"/>
+  <anchor x="1444.0" y="329.868" name="topright_4"/>
+  <anchor x="1848.0" y="329.868" name="topright_5"/>
+  <anchor x="519.5" y="164.934" name="center_2"/>
+  <anchor x="115.5" y="329.868" name="top_1"/>
+  <anchor x="924.5" y="164.934" name="center_3"/>
+  <anchor x="924.5" y="329.868" name="top_3"/>
+  <anchor x="115.5" y="164.934" name="center_1"/>
+  <anchor x="2136.5" y="164.934" name="center_6"/>
+  <anchor x="2541.5" y="164.934" name="center_7"/>
+  <anchor x="1328.5" y="164.934" name="center_4"/>
+  <anchor x="1732.5" y="164.934" name="center_5"/>
+  <anchor x="2136.5" y="329.868" name="top_6"/>
+  <anchor x="519.5" y="329.868" name="top_2"/>
+  <anchor x="1732.5" y="329.868" name="top_5"/>
+  <anchor x="1328.5" y="329.868" name="top_4"/>
+  <anchor x="2541.5" y="329.868" name="top_7"/>
+  <anchor x="2030.24" y="329.868" name="topleft_6"/>
+  <anchor x="2435.24" y="329.868" name="topleft_7"/>
+  <anchor x="1222.24" y="329.868" name="topleft_4"/>
+  <anchor x="1626.24" y="329.868" name="topleft_5"/>
+  <anchor x="413.24" y="329.868" name="topleft_2"/>
+  <anchor x="818.24" y="329.868" name="topleft_3"/>
+  <anchor x="9.24" y="329.868" name="topleft_1"/>
+  <anchor x="1328.5" y="0.0" name="bottom_4"/>
+  <anchor x="1732.5" y="0.0" name="bottom_5"/>
+  <anchor x="2136.5" y="0.0" name="bottom_6"/>
+  <anchor x="2541.5" y="0.0" name="bottom_7"/>
+  <anchor x="115.5" y="0.0" name="bottom_1"/>
+  <anchor x="519.5" y="0.0" name="bottom_2"/>
+  <anchor x="924.5" y="0.0" name="bottom_3"/>
+  <outline>
+    <component base="uniA668" xScale="0.462" yScale="0.462"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="404"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="809"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="1213"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="1617"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="2021"/>
+    <component base="uniA668" xScale="0.462" yScale="0.462" xOffset="2426"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

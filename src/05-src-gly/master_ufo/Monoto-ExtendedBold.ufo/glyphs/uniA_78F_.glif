@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78F" format="2">
+  <advance width="722"/>
+  <unicode hex="A78F"/>
+  <outline>
+    <contour>
+      <point x="363" y="266" type="curve" smooth="yes"/>
+      <point x="453" y="266"/>
+      <point x="527" y="309"/>
+      <point x="527" y="412" type="curve" smooth="yes"/>
+      <point x="527" y="519"/>
+      <point x="453" y="559"/>
+      <point x="363" y="559" type="curve" smooth="yes"/>
+      <point x="269" y="559"/>
+      <point x="195" y="519"/>
+      <point x="195" y="412" type="curve" smooth="yes"/>
+      <point x="195" y="309"/>
+      <point x="269" y="266"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

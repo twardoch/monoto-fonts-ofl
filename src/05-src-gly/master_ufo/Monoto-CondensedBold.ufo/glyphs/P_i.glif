@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="300"/>
+  <unicode hex="03A0"/>
+  <anchor x="136" y="0" name="bottom"/>
+  <anchor x="136" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="615" type="line"/>
+      <point x="157" y="615" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="714" type="line"/>
+      <point x="11" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

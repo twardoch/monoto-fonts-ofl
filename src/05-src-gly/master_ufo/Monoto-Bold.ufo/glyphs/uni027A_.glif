@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni027A" format="2">
+  <advance width="620"/>
+  <unicode hex="027A"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="350" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="-10" type="curve" smooth="yes"/>
+      <point x="203" y="-10"/>
+      <point x="255" y="34"/>
+      <point x="280" y="91" type="curve"/>
+      <point x="289" y="91" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="557" y="128" type="line"/>
+      <point x="429" y="141" type="line"/>
+      <point x="429" y="760" type="line"/>
+      <point x="269" y="760" type="line"/>
+      <point x="269" y="289" type="line" smooth="yes"/>
+      <point x="269" y="204"/>
+      <point x="220" y="162"/>
+      <point x="139" y="162" type="curve" smooth="yes"/>
+      <point x="111" y="162"/>
+      <point x="73" y="167"/>
+      <point x="49" y="177" type="curve"/>
+      <point x="6" y="8" type="line"/>
+      <point x="50" y="-8"/>
+      <point x="90" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

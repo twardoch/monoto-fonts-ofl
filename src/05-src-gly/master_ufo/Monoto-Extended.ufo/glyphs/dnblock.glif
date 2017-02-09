@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dnblock" format="2">
+  <advance width="722"/>
+  <unicode hex="2584"/>
+  <outline>
+    <contour>
+      <point x="-22" y="-240" type="line"/>
+      <point x="744" y="-240" type="line"/>
+      <point x="744" y="366" type="line"/>
+      <point x="-22" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04ED" format="2">
+  <advance width="300"/>
+  <unicode hex="04ED"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="126" y="694" name="top"/>
+  <anchor x="40" y="528" name="topright"/>
+  <outline>
+    <component base="afii10095"/>
+    <component base="dieresiscomb" xOffset="125" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AB" format="2">
+  <advance width="620"/>
+  <unicode hex="04AB"/>
+  <anchor x="356" y="-220" name="bottom"/>
+  <anchor x="356" y="536" name="top"/>
+  <anchor x="589" y="536" name="topright"/>
+  <outline>
+    <component base="c"/>
+    <component base="cyrillichookleft" xOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

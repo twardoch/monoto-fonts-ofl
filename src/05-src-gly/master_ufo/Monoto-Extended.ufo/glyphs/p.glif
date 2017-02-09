@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="2">
+  <advance width="720"/>
+  <unicode hex="0070"/>
+  <anchor x="385" y="-240" name="bottom"/>
+  <anchor x="385" y="537" name="top"/>
+  <anchor x="718" y="537" name="topright"/>
+  <outline>
+    <contour>
+      <point x="87" y="-240" type="line"/>
+      <point x="180" y="-240" type="line"/>
+      <point x="180" y="-12" type="line" smooth="yes"/>
+      <point x="180" y="13"/>
+      <point x="177" y="45"/>
+      <point x="173" y="68" type="curve"/>
+      <point x="180" y="68" type="line"/>
+      <point x="217" y="25"/>
+      <point x="286" y="-10"/>
+      <point x="396" y="-10" type="curve" smooth="yes"/>
+      <point x="565" y="-10"/>
+      <point x="670" y="87"/>
+      <point x="670" y="270" type="curve" smooth="yes"/>
+      <point x="670" y="450"/>
+      <point x="571" y="547"/>
+      <point x="402" y="547" type="curve" smooth="yes"/>
+      <point x="287" y="547"/>
+      <point x="216" y="515"/>
+      <point x="180" y="464" type="curve"/>
+      <point x="175" y="464" type="line"/>
+      <point x="162" y="537" type="line"/>
+      <point x="87" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="67" type="curve" smooth="yes"/>
+      <point x="242" y="67"/>
+      <point x="180" y="143"/>
+      <point x="180" y="270" type="curve" smooth="yes"/>
+      <point x="180" y="289" type="line" smooth="yes"/>
+      <point x="180" y="406"/>
+      <point x="246" y="470"/>
+      <point x="382" y="470" type="curve" smooth="yes"/>
+      <point x="513" y="470"/>
+      <point x="575" y="405"/>
+      <point x="575" y="271" type="curve" smooth="yes"/>
+      <point x="575" y="136"/>
+      <point x="508" y="67"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

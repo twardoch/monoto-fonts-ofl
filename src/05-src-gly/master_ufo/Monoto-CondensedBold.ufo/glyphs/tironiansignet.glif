@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tironiansignet" format="2">
+  <advance width="270"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="544" type="line"/>
+      <point x="30" y="544" type="line"/>
+      <point x="30" y="451" type="line"/>
+      <point x="156" y="451" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

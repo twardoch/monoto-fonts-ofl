@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonekdotless" format="2">
+  <advance width="722"/>
+  <anchor x="360" y="-243" name="bottom"/>
+  <anchor x="360" y="556" name="top"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="683" y="132" type="line"/>
+      <point x="472" y="148" type="line"/>
+      <point x="472" y="556" type="line"/>
+      <point x="88" y="556" type="line"/>
+      <point x="88" y="421" type="line"/>
+      <point x="286" y="406" type="line"/>
+      <point x="286" y="148" type="line"/>
+      <point x="47" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="-243" type="curve" smooth="yes"/>
+      <point x="570" y="-243"/>
+      <point x="600" y="-236"/>
+      <point x="625" y="-228" type="curve"/>
+      <point x="625" y="-120" type="line"/>
+      <point x="609" y="-125"/>
+      <point x="588" y="-131"/>
+      <point x="566" y="-131" type="curve" smooth="yes"/>
+      <point x="529" y="-131"/>
+      <point x="508" y="-115"/>
+      <point x="508" y="-94" type="curve" smooth="yes"/>
+      <point x="508" y="-66"/>
+      <point x="530" y="-44"/>
+      <point x="588" y="0" type="curve"/>
+      <point x="498" y="20" type="line"/>
+      <point x="415" y="-35"/>
+      <point x="372" y="-87"/>
+      <point x="372" y="-129" type="curve" smooth="yes"/>
+      <point x="372" y="-201"/>
+      <point x="428" y="-243"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheadleftabovecomb" format="2">
+  <unicode hex="1DFE"/>
+  <anchor x="0" y="537" name="_top"/>
+  <anchor x="0" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="589" type="curve"/>
+      <point x="57" y="589" type="line"/>
+      <point x="57" y="627" type="line"/>
+      <point x="37" y="649"/>
+      <point x="15" y="668"/>
+      <point x="-11" y="690" type="curve"/>
+      <point x="14" y="710"/>
+      <point x="37" y="730"/>
+      <point x="57" y="752" type="curve"/>
+      <point x="57" y="790" type="line"/>
+      <point x="50" y="790" type="line"/>
+      <point x="14" y="756"/>
+      <point x="-27" y="727"/>
+      <point x="-57" y="713" type="curve"/>
+      <point x="-57" y="668" type="line"/>
+      <point x="-25" y="650"/>
+      <point x="23" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A3" format="2">
+  <advance width="720"/>
+  <unicode hex="04A3"/>
+  <anchor x="361" y="-205" name="bottom"/>
+  <anchor x="361" y="556" name="top"/>
+  <outline>
+    <contour>
+      <point x="558" y="-206" type="line"/>
+      <point x="730" y="-206" type="line"/>
+      <point x="730" y="151" type="line"/>
+      <point x="649" y="151" type="line"/>
+      <point x="649" y="556" type="line"/>
+      <point x="467" y="556" type="line"/>
+      <point x="467" y="351" type="line"/>
+      <point x="234" y="351" type="line"/>
+      <point x="234" y="556" type="line"/>
+      <point x="51" y="556" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="214" type="line"/>
+      <point x="467" y="214" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

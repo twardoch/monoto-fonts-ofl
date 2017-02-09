@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F09" format="2">
+  <advance width="602"/>
+  <unicode hex="1F09"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="714" name="top"/>
+  <anchor x="550" y="10" name="ogonek"/>
+  <anchor x="589" y="714" name="topright"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni1FFE" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

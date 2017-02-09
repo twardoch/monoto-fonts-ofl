@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA77B" format="2">
+  <advance width="500"/>
+  <unicode hex="A77B"/>
+  <outline>
+    <contour>
+      <point x="154" y="215" type="line"/>
+      <point x="443" y="215" type="line"/>
+      <point x="443" y="355" type="line"/>
+      <point x="154" y="355" type="line"/>
+    </contour>
+    <component base="uniA784"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="suspensionmark" format="2">
+  <unicode hex="1DC3"/>
+  <anchor x="0" y="544" name="_top"/>
+  <anchor x="0" y="740" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="657" type="curve"/>
+      <point x="94" y="657" type="line"/>
+      <point x="94" y="739" type="line"/>
+      <point x="90" y="739" type="line" smooth="yes"/>
+      <point x="3" y="739"/>
+      <point x="5" y="685"/>
+      <point x="-17" y="685" type="curve" smooth="yes"/>
+      <point x="-26" y="685"/>
+      <point x="-30" y="703"/>
+      <point x="-37" y="740" type="curve"/>
+      <point x="-95" y="740" type="line"/>
+      <point x="-95" y="720" type="line" smooth="yes"/>
+      <point x="-95" y="620"/>
+      <point x="-36" y="599"/>
+      <point x="-18" y="599" type="curve" smooth="yes"/>
+      <point x="14" y="599"/>
+      <point x="44" y="657"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E1B" format="2">
+  <advance width="602"/>
+  <unicode hex="1E1B"/>
+  <anchor x="301" y="-215" name="bottom"/>
+  <anchor x="301" y="554" name="top"/>
+  <anchor x="311" y="10" name="ogonek"/>
+  <anchor x="600" y="554" name="topright"/>
+  <outline>
+    <component base="e"/>
+    <component base="tildebelowcomb" xOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

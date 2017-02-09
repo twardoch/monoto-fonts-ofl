@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2505" format="2">
+  <advance width="722"/>
+  <unicode hex="2505"/>
+  <outline>
+    <contour>
+      <point x="-30" y="297" type="line"/>
+      <point x="183" y="297" type="line"/>
+      <point x="183" y="437" type="line"/>
+      <point x="-30" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="297" type="line"/>
+      <point x="471" y="297" type="line"/>
+      <point x="471" y="437" type="line"/>
+      <point x="256" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="297" type="line"/>
+      <point x="752" y="297" type="line"/>
+      <point x="752" y="437" type="line"/>
+      <point x="546" y="437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

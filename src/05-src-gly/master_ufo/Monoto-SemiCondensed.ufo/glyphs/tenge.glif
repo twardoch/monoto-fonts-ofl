@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge" format="2">
+  <advance width="500"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="292" y="502" type="line"/>
+      <point x="460" y="502" type="line"/>
+      <point x="460" y="569" type="line"/>
+      <point x="40" y="569" type="line"/>
+      <point x="40" y="502" type="line"/>
+      <point x="208" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="647" type="line"/>
+      <point x="460" y="647" type="line"/>
+      <point x="460" y="714" type="line"/>
+      <point x="40" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

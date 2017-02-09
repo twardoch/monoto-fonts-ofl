@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+  <advance width="720"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="328" y="375" type="line"/>
+      <point x="422" y="375" type="line"/>
+      <point x="422" y="550" type="line" smooth="yes"/>
+      <point x="422" y="569"/>
+      <point x="422" y="585"/>
+      <point x="420" y="602" type="curve"/>
+      <point x="423" y="602" type="line"/>
+      <point x="499" y="490" type="line"/>
+      <point x="562" y="490" type="line"/>
+      <point x="641" y="601" type="line"/>
+      <point x="646" y="601" type="line"/>
+      <point x="645" y="586"/>
+      <point x="643" y="569"/>
+      <point x="643" y="548" type="curve" smooth="yes"/>
+      <point x="643" y="375" type="line"/>
+      <point x="740" y="375" type="line"/>
+      <point x="740" y="714" type="line"/>
+      <point x="600" y="714" type="line"/>
+      <point x="534" y="596" type="line"/>
+      <point x="466" y="714" type="line"/>
+      <point x="328" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="375" type="line"/>
+      <point x="186" y="375" type="line"/>
+      <point x="186" y="632" type="line"/>
+      <point x="290" y="632" type="line"/>
+      <point x="290" y="714" type="line"/>
+      <point x="-27" y="714" type="line"/>
+      <point x="-27" y="632" type="line"/>
+      <point x="83" y="632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

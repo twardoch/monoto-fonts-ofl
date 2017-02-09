@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E1F" format="2">
+  <advance width="602"/>
+  <unicode hex="1E1F"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="391" y="974" name="top"/>
+  <anchor x="589" y="766" name="topright"/>
+  <outline>
+    <component base="f"/>
+    <component base="dotaccentcomb" xOffset="391" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

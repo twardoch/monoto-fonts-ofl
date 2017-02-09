@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0197" format="2">
+  <advance width="720"/>
+  <unicode hex="0197"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="361" y="714" name="top"/>
+  <anchor x="-18" y="714" name="topleft"/>
+  <anchor x="415" y="10" name="ogonek"/>
+  <anchor x="696" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="153" y="334" type="line"/>
+      <point x="570" y="334" type="line"/>
+      <point x="570" y="413" type="line"/>
+      <point x="153" y="413" type="line"/>
+    </contour>
+    <component base="I" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GammaDoubleStruck" format="2">
+  <advance width="271"/>
+  <unicode hex="213E"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="669" type="line"/>
+      <point x="251" y="669" type="line"/>
+      <point x="251" y="714" type="line"/>
+      <point x="49" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="45" type="line"/>
+      <point x="72" y="669" type="line"/>
+      <point x="101" y="669" type="line"/>
+      <point x="101" y="45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10037" format="2">
+  <advance width="720"/>
+  <unicode hex="0423"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="361" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="-10" type="curve" smooth="yes"/>
+      <point x="301" y="-10"/>
+      <point x="357" y="55"/>
+      <point x="431" y="200" type="curve" smooth="yes"/>
+      <point x="696" y="714" type="line"/>
+      <point x="599" y="714" type="line"/>
+      <point x="412" y="369" type="line" smooth="yes"/>
+      <point x="401" y="346"/>
+      <point x="389" y="319"/>
+      <point x="380" y="291" type="curve"/>
+      <point x="376" y="291" type="line"/>
+      <point x="364" y="323"/>
+      <point x="351" y="351"/>
+      <point x="337" y="373" type="curve" smooth="yes"/>
+      <point x="124" y="714" type="line"/>
+      <point x="26" y="714" type="line"/>
+      <point x="329" y="199" type="line"/>
+      <point x="281" y="100"/>
+      <point x="244" y="72"/>
+      <point x="157" y="72" type="curve" smooth="yes"/>
+      <point x="121" y="72"/>
+      <point x="88" y="78"/>
+      <point x="58" y="87" type="curve"/>
+      <point x="58" y="2" type="line"/>
+      <point x="87" y="-5"/>
+      <point x="119" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

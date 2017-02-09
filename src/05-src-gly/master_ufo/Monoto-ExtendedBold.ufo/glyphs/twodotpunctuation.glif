@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotpunctuation" format="2">
+  <advance width="722"/>
+  <unicode hex="205A"/>
+  <outline>
+    <contour>
+      <point x="362" y="542" type="curve" smooth="yes"/>
+      <point x="425" y="542"/>
+      <point x="476" y="570"/>
+      <point x="476" y="640" type="curve" smooth="yes"/>
+      <point x="476" y="713"/>
+      <point x="425" y="739"/>
+      <point x="362" y="739" type="curve" smooth="yes"/>
+      <point x="297" y="739"/>
+      <point x="246" y="713"/>
+      <point x="246" y="640" type="curve" smooth="yes"/>
+      <point x="246" y="570"/>
+      <point x="297" y="542"/>
+    </contour>
+    <contour>
+      <point x="362" y="-26" type="curve" smooth="yes"/>
+      <point x="425" y="-26"/>
+      <point x="476" y="2"/>
+      <point x="476" y="72" type="curve" smooth="yes"/>
+      <point x="476" y="145"/>
+      <point x="425" y="171"/>
+      <point x="362" y="171" type="curve" smooth="yes"/>
+      <point x="297" y="171"/>
+      <point x="246" y="145"/>
+      <point x="246" y="72" type="curve" smooth="yes"/>
+      <point x="246" y="2"/>
+      <point x="297" y="-26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

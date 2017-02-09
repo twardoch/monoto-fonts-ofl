@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA73E" format="2">
+  <advance width="722"/>
+  <unicode hex="A73E"/>
+  <anchor x="271" y="714" name="top"/>
+  <anchor x="275" y="357" name="center"/>
+  <anchor x="-18" y="714" name="topright"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <outline>
+    <component base="uni0186" xOffset="-22"/>
+    <component base="periodcentered" xOffset="-52" yOffset="52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

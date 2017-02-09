@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02FD" format="2">
+  <advance width="602"/>
+  <unicode hex="02FD"/>
+  <outline>
+    <contour>
+      <point x="161" y="-184" type="line"/>
+      <point x="442" y="-184" type="line"/>
+      <point x="442" y="-48" type="line"/>
+      <point x="407" y="-48" type="line"/>
+      <point x="407" y="-159" type="line"/>
+      <point x="197" y="-159" type="line"/>
+      <point x="197" y="-48" type="line"/>
+      <point x="161" y="-48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

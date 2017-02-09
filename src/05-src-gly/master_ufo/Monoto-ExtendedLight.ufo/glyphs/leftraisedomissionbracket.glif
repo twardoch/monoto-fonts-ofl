@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftraisedomissionbracket" format="2">
+  <advance width="722"/>
+  <unicode hex="2E0C"/>
+  <outline>
+    <contour>
+      <point x="576" y="344" type="line"/>
+      <point x="604" y="367" type="line"/>
+      <point x="146" y="714" type="line"/>
+      <point x="118" y="691" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

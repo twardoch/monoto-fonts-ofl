@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="300"/>
+  <unicode hex="0388"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="145" y="714" name="top"/>
+  <anchor x="24" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="222" y="25" type="line"/>
+      <point x="85" y="25" type="line"/>
+      <point x="85" y="364" type="line"/>
+      <point x="213" y="364" type="line"/>
+      <point x="213" y="389" type="line"/>
+      <point x="85" y="389" type="line"/>
+      <point x="85" y="689" type="line"/>
+      <point x="222" y="689" type="line"/>
+      <point x="222" y="714" type="line"/>
+      <point x="61" y="714" type="line"/>
+    </contour>
+    <component base="tonos" xOffset="-133"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

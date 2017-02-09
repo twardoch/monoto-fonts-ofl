@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiaoxia_firsttonechinese" format="2">
+  <advance width="722"/>
+  <anchor x="361" y="556" name="_top"/>
+  <anchor x="361" y="879" name="top"/>
+  <outline>
+    <contour>
+      <point x="364" y="708" type="line"/>
+      <point x="452" y="708" type="line"/>
+      <point x="495" y="747"/>
+      <point x="551" y="815"/>
+      <point x="578" y="859" type="curve"/>
+      <point x="578" y="869" type="line"/>
+      <point x="415" y="869" type="line"/>
+      <point x="403" y="817"/>
+      <point x="379" y="753"/>
+      <point x="364" y="721" type="curve"/>
+    </contour>
+    <contour>
+      <point x="143" y="579" type="line"/>
+      <point x="560" y="579" type="line"/>
+      <point x="560" y="681" type="line"/>
+      <point x="143" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="699" type="curve"/>
+      <point x="337" y="744" type="line"/>
+      <point x="289" y="747"/>
+      <point x="262" y="757"/>
+      <point x="262" y="781" type="curve"/>
+      <point x="306" y="783"/>
+      <point x="328" y="802"/>
+      <point x="328" y="831" type="curve" smooth="yes"/>
+      <point x="328" y="859"/>
+      <point x="299" y="879"/>
+      <point x="256" y="879" type="curve" smooth="yes"/>
+      <point x="204" y="879"/>
+      <point x="174" y="846"/>
+      <point x="174" y="801" type="curve" smooth="yes"/>
+      <point x="174" y="754"/>
+      <point x="231" y="698"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

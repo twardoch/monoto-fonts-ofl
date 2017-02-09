@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+  <advance width="270"/>
+  <unicode hex="0131"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="238" y="10" name="ogonek"/>
+  <anchor x="135" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="52" type="line"/>
+      <point x="169" y="61" type="line"/>
+      <point x="169" y="534" type="line"/>
+      <point x="42" y="534" type="line"/>
+      <point x="42" y="482" type="line"/>
+      <point x="109" y="471" type="line"/>
+      <point x="109" y="61" type="line"/>
+      <point x="34" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

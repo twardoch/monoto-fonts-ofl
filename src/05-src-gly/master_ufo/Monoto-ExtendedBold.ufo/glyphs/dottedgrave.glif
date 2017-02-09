@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedgrave" format="2">
+  <unicode hex="1DC0"/>
+  <anchor x="0" y="556" name="_top"/>
+  <anchor x="0" y="838" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="637" type="curve"/>
+      <point x="88" y="637" type="line"/>
+      <point x="88" y="654" type="line"/>
+      <point x="74" y="693"/>
+      <point x="57" y="756"/>
+      <point x="53" y="797" type="curve"/>
+      <point x="-115" y="797" type="line"/>
+      <point x="-115" y="786" type="line"/>
+      <point x="-91" y="741"/>
+      <point x="-48" y="693"/>
+    </contour>
+    <contour>
+      <point x="-185" y="612" type="curve"/>
+      <point x="-137" y="612"/>
+      <point x="-101" y="638"/>
+      <point x="-101" y="690" type="curve"/>
+      <point x="-101" y="746"/>
+      <point x="-137" y="771"/>
+      <point x="-185" y="771" type="curve"/>
+      <point x="-235" y="771"/>
+      <point x="-267" y="746"/>
+      <point x="-267" y="690" type="curve"/>
+      <point x="-267" y="638"/>
+      <point x="-235" y="612"/>
+    </contour>
+    <contour>
+      <point x="184" y="680" type="curve"/>
+      <point x="232" y="680"/>
+      <point x="267" y="705"/>
+      <point x="267" y="758" type="curve"/>
+      <point x="267" y="813"/>
+      <point x="232" y="838"/>
+      <point x="184" y="838" type="curve"/>
+      <point x="132" y="838"/>
+      <point x="99" y="813"/>
+      <point x="99" y="758" type="curve"/>
+      <point x="99" y="705"/>
+      <point x="132" y="680"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

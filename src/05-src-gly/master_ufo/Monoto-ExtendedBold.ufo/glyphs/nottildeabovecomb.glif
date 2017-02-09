@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nottildeabovecomb" format="2">
+  <unicode hex="034A"/>
+  <anchor x="0" y="556" name="_top"/>
+  <anchor x="0" y="772" name="top"/>
+  <outline>
+    <contour>
+      <point x="-37" y="565" type="line"/>
+      <point x="9" y="625" type="line"/>
+      <point x="35" y="615"/>
+      <point x="65" y="607"/>
+      <point x="95" y="607" type="curve"/>
+      <point x="185" y="607"/>
+      <point x="225" y="668"/>
+      <point x="233" y="735" type="curve"/>
+      <point x="154" y="735" type="line"/>
+      <point x="146" y="701"/>
+      <point x="131" y="680"/>
+      <point x="96" y="680" type="curve"/>
+      <point x="82" y="680"/>
+      <point x="68" y="681"/>
+      <point x="55" y="687" type="curve"/>
+      <point x="99" y="743" type="line"/>
+      <point x="35" y="772" type="line"/>
+      <point x="-9" y="717" type="line"/>
+      <point x="-32" y="727"/>
+      <point x="-60" y="734"/>
+      <point x="-93" y="734" type="curve"/>
+      <point x="-180" y="734"/>
+      <point x="-226" y="671"/>
+      <point x="-233" y="606" type="curve"/>
+      <point x="-155" y="606" type="line"/>
+      <point x="-143" y="646"/>
+      <point x="-129" y="661"/>
+      <point x="-93" y="661" type="curve"/>
+      <point x="-80" y="661"/>
+      <point x="-68" y="659"/>
+      <point x="-54" y="653" type="curve"/>
+      <point x="-101" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

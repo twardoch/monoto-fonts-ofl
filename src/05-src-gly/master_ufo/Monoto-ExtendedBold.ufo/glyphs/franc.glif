@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+  <advance width="720"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="297" type="line"/>
+      <point x="638" y="297" type="line"/>
+      <point x="638" y="445" type="line"/>
+      <point x="320" y="445" type="line"/>
+      <point x="320" y="564" type="line"/>
+      <point x="658" y="564" type="line"/>
+      <point x="658" y="714" type="line"/>
+      <point x="135" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="122" type="line"/>
+      <point x="508" y="122" type="line"/>
+      <point x="508" y="228" type="line"/>
+      <point x="34" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA68C" format="2">
+  <advance width="722"/>
+  <unicode hex="A68C"/>
+  <outline>
+    <contour>
+      <point x="525" y="-10" type="curve" smooth="yes"/>
+      <point x="572" y="-10"/>
+      <point x="608" y="-5"/>
+      <point x="636" y="0" type="curve"/>
+      <point x="636" y="148" type="line"/>
+      <point x="610" y="144"/>
+      <point x="584" y="139"/>
+      <point x="554" y="139" type="curve" smooth="yes"/>
+      <point x="481" y="139"/>
+      <point x="442" y="169"/>
+      <point x="442" y="249" type="curve" smooth="yes"/>
+      <point x="442" y="560" type="line"/>
+      <point x="691" y="560" type="line"/>
+      <point x="691" y="714" type="line"/>
+      <point x="19" y="714" type="line"/>
+      <point x="19" y="560" type="line"/>
+      <point x="257" y="560" type="line"/>
+      <point x="257" y="252" type="line" smooth="yes"/>
+      <point x="257" y="61"/>
+      <point x="361" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

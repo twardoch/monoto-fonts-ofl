@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="620"/>
+  <unicode hex="00DE"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="120" type="line"/>
+      <point x="300" y="120" type="line" smooth="yes"/>
+      <point x="500" y="120"/>
+      <point x="576" y="225"/>
+      <point x="576" y="366" type="curve" smooth="yes"/>
+      <point x="576" y="513"/>
+      <point x="490" y="594"/>
+      <point x="306" y="594" type="curve" smooth="yes"/>
+      <point x="223" y="594" type="line"/>
+      <point x="223" y="714" type="line"/>
+      <point x="56" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="262" type="line"/>
+      <point x="223" y="454" type="line"/>
+      <point x="294" y="454" type="line" smooth="yes"/>
+      <point x="372" y="454"/>
+      <point x="411" y="423"/>
+      <point x="411" y="360" type="curve" smooth="yes"/>
+      <point x="411" y="296"/>
+      <point x="371" y="262"/>
+      <point x="283" y="262" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

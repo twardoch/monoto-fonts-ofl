@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10074" format="2">
+  <advance width="720"/>
+  <unicode hex="0438"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="718" y="0" name="bottomright"/>
+  <anchor x="364" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="554" y="426" type="line"/>
+      <point x="551" y="388"/>
+      <point x="549" y="334"/>
+      <point x="549" y="295" type="curve" smooth="yes"/>
+      <point x="549" y="0" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="635" y="538" type="line"/>
+      <point x="531" y="538" type="line"/>
+      <point x="168" y="112" type="line"/>
+      <point x="171" y="151"/>
+      <point x="173" y="199"/>
+      <point x="173" y="235" type="curve" smooth="yes"/>
+      <point x="173" y="538" type="line"/>
+      <point x="87" y="538" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

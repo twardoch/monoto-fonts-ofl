@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AE" format="2">
+  <advance width="722"/>
+  <unicode hex="A7AE"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="656" y="0" type="line"/>
+      <point x="656" y="89" type="line"/>
+      <point x="441" y="118" type="line"/>
+      <point x="441" y="438" type="line"/>
+      <point x="656" y="465" type="line"/>
+      <point x="656" y="555" type="line"/>
+      <point x="70" y="555" type="line"/>
+      <point x="70" y="465" type="line"/>
+      <point x="281" y="438" type="line"/>
+      <point x="281" y="118" type="line"/>
+      <point x="70" y="89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

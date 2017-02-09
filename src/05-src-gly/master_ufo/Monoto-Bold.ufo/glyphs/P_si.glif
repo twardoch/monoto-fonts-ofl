@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="2">
+  <advance width="620"/>
+  <unicode hex="03A8"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="234" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="368" y="197" type="line"/>
+      <point x="530" y="197"/>
+      <point x="595" y="283"/>
+      <point x="595" y="444" type="curve" smooth="yes"/>
+      <point x="595" y="714" type="line"/>
+      <point x="450" y="714" type="line"/>
+      <point x="450" y="454" type="line" smooth="yes"/>
+      <point x="450" y="370"/>
+      <point x="428" y="333"/>
+      <point x="368" y="333" type="curve"/>
+      <point x="368" y="714" type="line"/>
+      <point x="234" y="714" type="line"/>
+      <point x="234" y="333" type="line"/>
+      <point x="167" y="333"/>
+      <point x="152" y="367"/>
+      <point x="152" y="456" type="curve" smooth="yes"/>
+      <point x="152" y="714" type="line"/>
+      <point x="7" y="714" type="line"/>
+      <point x="7" y="442" type="line" smooth="yes"/>
+      <point x="7" y="277"/>
+      <point x="64" y="197"/>
+      <point x="234" y="197" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

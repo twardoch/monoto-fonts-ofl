@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F65" format="2">
+  <advance width="602"/>
+  <unicode hex="1F65"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="772" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="uni1FDE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

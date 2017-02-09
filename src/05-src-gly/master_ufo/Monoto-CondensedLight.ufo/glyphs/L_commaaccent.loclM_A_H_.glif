@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent.loclMAH" format="2">
+  <advance width="270"/>
+  <anchor x="61" y="714" name="top"/>
+  <anchor x="134" y="357" name="center"/>
+  <anchor x="194" y="714" name="topright"/>
+  <anchor x="141" y="-240" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <component base="cedillacomb" xOffset="141"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

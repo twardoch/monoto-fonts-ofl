@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB4B" format="2">
+  <advance width="722"/>
+  <unicode hex="AB4B"/>
+  <outline>
+    <contour>
+      <point x="384" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="583" y="564" type="line"/>
+      <point x="503" y="546"/>
+      <point x="418" y="538"/>
+      <point x="333" y="538" type="curve" smooth="yes"/>
+      <point x="251" y="538"/>
+      <point x="165" y="547"/>
+      <point x="78" y="564" type="curve"/>
+      <point x="78" y="417" type="line"/>
+      <point x="160" y="402"/>
+      <point x="244" y="397"/>
+      <point x="327" y="397" type="curve" smooth="yes"/>
+      <point x="349" y="397"/>
+      <point x="365" y="397"/>
+      <point x="384" y="397" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

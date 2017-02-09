@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedobelos" format="2">
+  <advance width="602"/>
+  <unicode hex="2E13"/>
+  <outline>
+    <contour>
+      <point x="71" y="-3" type="line"/>
+      <point x="141" y="-3" type="line"/>
+      <point x="530" y="716" type="line"/>
+      <point x="458" y="716" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="421" type="curve" smooth="yes"/>
+      <point x="172" y="421"/>
+      <point x="190" y="441"/>
+      <point x="190" y="477" type="curve" smooth="yes"/>
+      <point x="190" y="514"/>
+      <point x="171" y="533"/>
+      <point x="135" y="533" type="curve" smooth="yes"/>
+      <point x="99" y="533"/>
+      <point x="81" y="514"/>
+      <point x="81" y="477" type="curve" smooth="yes"/>
+      <point x="81" y="441"/>
+      <point x="98" y="421"/>
+    </contour>
+    <contour>
+      <point x="463" y="180" type="curve" smooth="yes"/>
+      <point x="500" y="180"/>
+      <point x="518" y="199"/>
+      <point x="518" y="235" type="curve" smooth="yes"/>
+      <point x="518" y="272"/>
+      <point x="500" y="291"/>
+      <point x="463" y="291" type="curve" smooth="yes"/>
+      <point x="428" y="291"/>
+      <point x="409" y="272"/>
+      <point x="409" y="235" type="curve" smooth="yes"/>
+      <point x="409" y="199"/>
+      <point x="427" y="180"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

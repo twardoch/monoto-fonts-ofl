@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilioxia_firsttonechinese" format="2">
+  <advance width="602"/>
+  <anchor x="301" y="536" name="_top"/>
+  <anchor x="301" y="863" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="705" type="line"/>
+      <point x="352" y="705" type="line"/>
+      <point x="386" y="750"/>
+      <point x="418" y="802"/>
+      <point x="435" y="844" type="curve"/>
+      <point x="435" y="856" type="line"/>
+      <point x="351" y="856" type="line"/>
+      <point x="343" y="809"/>
+      <point x="326" y="757"/>
+      <point x="311" y="719" type="curve"/>
+    </contour>
+    <contour>
+      <point x="160" y="603" type="line"/>
+      <point x="434" y="603" type="line"/>
+      <point x="434" y="665" type="line"/>
+      <point x="160" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="699" type="line"/>
+      <point x="253" y="701"/>
+      <point x="292" y="745"/>
+      <point x="292" y="801" type="curve" smooth="yes"/>
+      <point x="292" y="841"/>
+      <point x="271" y="863"/>
+      <point x="241" y="863" type="curve" smooth="yes"/>
+      <point x="216" y="863"/>
+      <point x="197" y="847"/>
+      <point x="197" y="820" type="curve" smooth="yes"/>
+      <point x="197" y="791"/>
+      <point x="215" y="777"/>
+      <point x="241" y="773" type="curve"/>
+      <point x="244" y="758"/>
+      <point x="222" y="734"/>
+      <point x="191" y="731" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

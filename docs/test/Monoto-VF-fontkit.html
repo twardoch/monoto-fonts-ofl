@@ -1,0 +1,185 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="en-us" http-equiv="Content-Language"/>
+<title>Monoto VF</title>
+<link rel="stylesheet" href="../docs/vendors/highlight/styles/default.css">
+<script type="text/javascript" src="../docs/vendors/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<style type="text/css" media="screen">
+
+/* Webfont: Monoto-VF */@font-face {
+    font-family: 'Monoto-VF';
+    src: url('Monoto-VF.woff') format('woff'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+body, pre, code { font-size: 13px; font-family: "Monoto-VF", Georgia; }
+
+</style>
+
+<script type="text/javascript" src="fontkit.js"></script>
+<script>
+
+function adtLoadPanel (fkFontPath) {
+  var xhr = new XMLHttpRequest()
+  xhr.open('GET', fkFontPath, true)
+  xhr.responseType = 'arraybuffer'
+
+  var fkFont = null
+
+  xhr.onload = function (e) {
+    if (this.status == 200) {
+      var fkBlob = this.response
+      var fkBuffer = new Buffer(fkBlob)
+      fkFont = fontkit.create(fkBuffer)
+      adtHtml = ''
+
+      adtHtml += '<h3>adjustypo.js</h3>'
+
+      // Basic Info
+      adtHtml += '<h1>' + fkFont.postscriptName + '</h1>'
+      adtHtml += '<p>  <strong>' + fkFont.version + '</strong> '
+      adtHtml += ' with ' + fkFont.numGlyphs + ' glyphs</p>'
+
+      // Dimensions
+      adtHtml += '<h2>Dimensions</h2>'
+      adtHtml += '  <ul class="adt adt-dimension">'
+
+      // fkFont size
+      adtHtml += '    <li class="adt adt-dimension-font-size">'
+      adtHtml += '      <span class="adt-rangelabels">8</span>'
+      adtHtml += '      <input type="range" id="adt_dimension_fkFont_size" value="16" min="8" max="64" step="0.01" />'
+      adtHtml += '      <span class="adt-rangelabels">64</span>'
+      adtHtml += '      <label for="adt_dimension_fkFont_size">Font size</label>'
+      adtHtml += '    </li>'
+
+      // Line height
+      var cssLineHeight = 1.2
+      var fkFont_OS2 = fkFont['OS/2']
+      if (fkFont_OS2) {
+        cssLineHeight = (fkFont_OS2.typoAscender - fkFont_OS2.typoDescender + fkFont_OS2.typoLineGap) / fkFont.head.unitsPerEm
+      } else {
+        cssLineHeight = (fkFont.hhea.ascent - fkFont.hhea.descent + fkFont.hhea.lineGap) / fkFont.head.unitsPerEm
+      }
+      adtHtml += '    <li class="adt adt-dimension-line-height">'
+      adtHtml += '      <span class="adt-rangelabels">0.5</span>'
+      adtHtml += '      <input type="range" id="adt_dimension_line_height" value="' + cssLineHeight + '" min="0.5" max="2.5" step="0.01" />'
+      adtHtml += '      <span class="adt-rangelabels">2.5</span>'
+      adtHtml += '      <label for="adt_dimension_line_height">Line height</label>'
+      adtHtml += '    </li>'
+
+      // Letter spacing
+      adtHtml += '    <li class="adt adt-dimension-letter-spacing">'
+      adtHtml += '      <span class="adt-rangelabels">-1</span>'
+      adtHtml += '      <input type="range" id="adt_dimension_letter_spacing" value="0" min="-1" max="1" step="0.01" />'
+      adtHtml += '      <span class="adt-rangelabels">1</span>'
+      adtHtml += '      <label for="adt_dimension_letter_spacing">Letter spacing</label>'
+      adtHtml += '    </li>'
+
+      adtHtml += '  </ul>'
+
+      // OpenType Variation Axes
+      adtHtml += '<h2>Variations</h2>'
+
+      var fkAxes = fkFont.variationAxes
+      adtHtml += '  <ul class="adt adt-variation">'
+      var cssVariationSettings = 'fkFont-variation-settings: '
+      for (var fkAxis in fkAxes) {
+        fkAxisName = fkAxes[fkAxis]['name']
+        fkAxisMin = fkAxes[fkAxis]['min']
+        fkAxisDflt = fkAxes[fkAxis]['default']
+        fkAxisMax = fkAxes[fkAxis]['max']
+        cssVariationSettings += '"' + fkAxis + '" ' + fkAxisDflt + ', '
+        adtHtml += '    <li class="adt adt-variation-' + fkAxis + '">'
+        adtHtml += '      <span class="adt-rangelabels">' + fkAxisMin + '</span>'
+        adtHtml += '      <input type="range" id="adt_variation_' + fkAxis + '" value="' + fkAxisDflt + '" min="' + fkAxisMin + '" max="' + fkAxisMax + '" step="0.01" />'
+        adtHtml += '      <span class="adt-rangelabels">' + fkAxisMax + '</span>'
+        adtHtml += '      <label for="adt_variation_' + fkAxis + '">' + fkAxisName + '</label>'
+        adtHtml += '    </li>'
+      }
+
+      cssVariationSettings = cssVariationSettings.slice(0, -2) + ';'
+      adtHtml += '  </ul>'
+      adtHtml += ''
+      adtHtml += ''
+
+      // OpenType Layout Features
+      adtHtml += '<h2>Features</h2>'
+
+      var otFeaturesDefault = ['calt', 'ccmp', 'clig', 'curs', 'kern', 'liga', 'locl', 'mark', 'mkmk', 'rclt', 'rlig']
+      var otFeaturesShowable = ['afrc', 'c2pc', 'c2sc', 'calt', 'case', 'ccmp', 'clig', 'cpsp', 'cswh', 'curs', 'dlig', 'dnom', 'expt', 'falt', 'frac', 'fwid', 'halt', 'hist', 'hlig', 'hngl', 'hojo', 'hwid', 'ital', 'jalt', 'jp04', 'jp78', 'jp83', 'jp90', 'kern', 'liga', 'lnum', 'locl', 'mark', 'mgrk', 'mkmk', 'nalt', 'nlck', 'numr', 'onum', 'ordn', 'ornm', 'palt', 'pcap', 'pkna', 'pnum', 'pwid', 'qwid', 'rand', 'rclt', 'rlig', 'ruby', 'rvrn', 'salt', 'sinf', 'smcp', 'smpl', 'subs', 'sups', 'swsh', 'titl', 'tnam', 'tnum', 'trad', 'twid', 'unic', 'vhal', 'vpal', 'zero', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'ss10', 'ss11', 'ss12', 'ss13', 'ss14', 'ss15', 'ss16', 'ss17', 'ss18', 'ss19', 'ss20']
+      var fkFeatures = fkFont.availableFeatures
+
+      adtHtml += '  <ul class="adt adt-feature">'
+      adtHtml += '    <li class="adt adt-uppercase">'
+      adtHtml += '      <input type="checkbox" id="adt_uppercase" />'
+      adtHtml += '      <label for="adt_uppercase">CASE</label>'
+      adtHtml += '    </li>'
+
+      var cssFeatureSettings = 'fkFont-feature-settings: '
+      for (var i = 0; i < fkFeatures.length; i++) {
+        var fkFeature = fkFeatures[i]
+        var isFeatureShowable = otFeaturesShowable.indexOf(fkFeature) > -1
+        if (isFeatureShowable) {
+          var isFeatureDefault = otFeaturesDefault.indexOf(fkFeature) > -1
+          cssFeatureSettings += '"' + fkFeature + '" ' + ((isFeatureDefault) ? '1' : '0') + ', '
+          adtHtml += '    <li class="adt adt-feature-' + fkFeature + '">'
+          adtHtml += '      <input type="checkbox" id="adt_feature_' + fkFeature + '"' + ((isFeatureDefault ? ' checked="checked"' : '') + ' />')
+          adtHtml += '      <label for="adt_feature_' + fkFeature + '">' + fkFeature + '</label>'
+          adtHtml += '    </li>'
+        }
+      }
+      cssFeatureSettings = cssFeatureSettings.slice(0, -2) + ';'
+      adtHtml += '  </ul>'
+      adtHtml += ''
+      adtHtml += ''
+
+      adtHtml += '<pre><code class="css hljs">'
+      adtHtml += '  font-size: 16px;\n'
+      adtHtml += '  line-height: ' + cssLineHeight + 'em;\n'
+      adtHtml += '  letter-spacing: 0em;\n'
+      adtHtml += '  ' + cssVariationSettings + '\n'
+      adtHtml += '  text-transform: normal;\n'
+      adtHtml += '  ' + cssFeatureSettings + '\n'
+      adtHtml += '</code></pre>'
+
+      document.getElementById('fontdata').innerHTML += adtHtml;
+      hljs.initHighlightingOnLoad();
+
+    }
+  }
+
+  xhr.send()
+  return fkFont
+}
+
+var fkFont = adtLoadPanel('Monoto-VF.woff')
+
+</script>
+
+</head>
+<body>
+
+<div id="fontdata">
+</div>
+
+<pre><code contenteditable="true" class="python hljs">
+@requires_authorization
+def somefunc(param1='', param2=0):
+    r'''A docstring'''
+    if param1 > param2: # interesting
+        print 'Gre\'ater'
+    return (param2 - param1 + 1 + 0b10l) or None
+
+class SomeClass:
+    pass
+
+>>> message = '''interpreter
+... prompt'''
+</code></pre>
+</body>
+</html>

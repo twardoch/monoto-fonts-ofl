@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA779" format="2">
+  <advance width="270"/>
+  <unicode hex="A779"/>
+  <anchor x="21" y="714" name="topleft"/>
+  <anchor x="140" y="357" name="center"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="714" name="top"/>
+  <anchor x="269" y="714" name="topright"/>
+  <anchor x="140" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="5" y="699" type="line"/>
+      <point x="135" y="699" type="line"/>
+      <point x="135" y="724" type="line"/>
+      <point x="5" y="724" type="line"/>
+    </contour>
+    <component base="O" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>
