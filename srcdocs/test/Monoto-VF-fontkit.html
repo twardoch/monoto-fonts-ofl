@@ -3,15 +3,15 @@
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <meta content="en-us" http-equiv="Content-Language"/>
 <title>Monoto VF</title>
-<link rel="stylesheet" href="../docs/vendors/highlight/styles/default.css">
-<script type="text/javascript" src="../docs/vendors/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="../vendors/highlight/styles/default.css">
+<script type="text/javascript" src="../vendors/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
 <style type="text/css" media="screen">
 
 /* Webfont: Monoto-VF */@font-face {
     font-family: 'Monoto-VF';
-    src: url('Monoto-VF.woff') format('woff'); /* Legacy iOS */
+    src: url('../fonts/Monoto-VF.woff') format('woff'); /* Legacy iOS */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -148,7 +148,6 @@ function adtLoadPanel (fkFontPath) {
       adtHtml += '</code></pre>'
 
       document.getElementById('fontdata').innerHTML += adtHtml;
-      hljs.initHighlightingOnLoad();
 
     }
   }
@@ -157,7 +156,7 @@ function adtLoadPanel (fkFontPath) {
   return fkFont
 }
 
-var fkFont = adtLoadPanel('Monoto-VF.woff')
+var fkFont = adtLoadPanel('../fonts/Monoto-VF.woff')
 
 </script>
 
