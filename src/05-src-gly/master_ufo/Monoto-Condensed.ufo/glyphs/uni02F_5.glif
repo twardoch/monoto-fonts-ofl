@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F5" format="2">
+  <advance width="300"/>
+  <unicode hex="02F5"/>
+  <outline>
+    <component base="hungarumlaut" xScale="-1" xOffset="287" yOffset="-325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:52</string>
+    </dict>
+  </lib>
+</glyph>

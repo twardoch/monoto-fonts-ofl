@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB44" format="2">
+  <advance width="271"/>
+  <unicode hex="AB44"/>
+  <outline>
+    <contour>
+      <point x="160" y="-90" type="line"/>
+      <point x="237" y="597" type="line"/>
+      <point x="211" y="605" type="line"/>
+      <point x="134" y="-81" type="line"/>
+    </contour>
+    <component base="uniAB43" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

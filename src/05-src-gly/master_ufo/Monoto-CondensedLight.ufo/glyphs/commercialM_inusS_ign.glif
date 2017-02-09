@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="269"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="213" y="713" type="line"/>
+      <point x="190" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="-9" type="curve" smooth="yes"/>
+      <point x="211" y="-9"/>
+      <point x="217" y="13"/>
+      <point x="217" y="33" type="curve" smooth="yes"/>
+      <point x="217" y="52"/>
+      <point x="211" y="75"/>
+      <point x="198" y="75" type="curve" smooth="yes"/>
+      <point x="182" y="75"/>
+      <point x="176" y="52"/>
+      <point x="176" y="34" type="curve" smooth="yes"/>
+      <point x="176" y="16"/>
+      <point x="182" y="-9"/>
+    </contour>
+    <contour>
+      <point x="74" y="639" type="curve" smooth="yes"/>
+      <point x="87" y="639"/>
+      <point x="93" y="661"/>
+      <point x="93" y="681" type="curve" smooth="yes"/>
+      <point x="93" y="700"/>
+      <point x="88" y="723"/>
+      <point x="74" y="723" type="curve" smooth="yes"/>
+      <point x="58" y="723"/>
+      <point x="54" y="700"/>
+      <point x="54" y="682" type="curve" smooth="yes"/>
+      <point x="54" y="664"/>
+      <point x="58" y="639"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Archaicsampi" format="2">
+  <advance width="270"/>
+  <unicode hex="0372"/>
+  <anchor x="136" y="0" name="bottom"/>
+  <anchor x="136" y="714" name="top"/>
+  <anchor x="260" y="714" name="topright"/>
+  <anchor x="140" y="357" name="center"/>
+  <outline>
+    <contour>
+      <point x="192" y="435" type="line"/>
+      <point x="258" y="435" type="line"/>
+      <point x="258" y="714" type="line"/>
+      <point x="192" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="435" type="line"/>
+      <point x="79" y="435" type="line"/>
+      <point x="79" y="714" type="line"/>
+      <point x="12" y="714" type="line"/>
+    </contour>
+    <component base="T" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

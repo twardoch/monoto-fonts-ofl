@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018C" format="2">
+  <advance width="720"/>
+  <unicode hex="018C"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="373" y="760" name="top"/>
+  <anchor x="696" y="760" name="topright"/>
+  <anchor x="339" y="264" name="center"/>
+  <outline>
+    <contour>
+      <point x="146" y="735" type="line"/>
+      <point x="592" y="735" type="line"/>
+      <point x="592" y="760" type="line"/>
+      <point x="146" y="760" type="line"/>
+    </contour>
+    <component base="d" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

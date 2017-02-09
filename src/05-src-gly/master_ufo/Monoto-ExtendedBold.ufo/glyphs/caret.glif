@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caret" format="2">
+  <advance width="722"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="119" y="-240" type="line"/>
+      <point x="231" y="-240" type="line"/>
+      <point x="353" y="-56" type="line"/>
+      <point x="487" y="-240" type="line"/>
+      <point x="601" y="-240" type="line"/>
+      <point x="385" y="87" type="line"/>
+      <point x="316" y="87" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

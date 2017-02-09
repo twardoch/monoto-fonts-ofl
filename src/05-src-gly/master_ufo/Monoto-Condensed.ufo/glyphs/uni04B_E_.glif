@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BE" format="2">
+  <advance width="300"/>
+  <unicode hex="04BE"/>
+  <anchor x="174" y="-240" name="bottom"/>
+  <anchor x="168" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="145" y="-190" type="line"/>
+      <point x="199" y="-190" type="line"/>
+      <point x="199" y="26" type="line"/>
+      <point x="145" y="26" type="line"/>
+    </contour>
+    <component base="uni04BC" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

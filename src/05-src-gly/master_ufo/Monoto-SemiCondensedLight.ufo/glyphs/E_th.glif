@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="530"/>
+  <unicode hex="00D0"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="714" name="top"/>
+  <anchor x="509" y="714" name="topright"/>
+  <anchor x="257" y="357" name="center"/>
+  <outline>
+    <contour>
+      <point x="0" y="353" type="line"/>
+      <point x="258" y="353" type="line"/>
+      <point x="258" y="378" type="line"/>
+      <point x="0" y="378" type="line"/>
+    </contour>
+    <component base="D" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillic_otmark" format="2">
+  <advance width="722"/>
+  <anchor x="361" y="556" name="_top"/>
+  <outline>
+    <contour>
+      <point x="144" y="611" type="line"/>
+      <point x="181" y="611" type="line"/>
+      <point x="213" y="661" type="line"/>
+      <point x="310" y="661" type="line"/>
+      <point x="342" y="611" type="line"/>
+      <point x="379" y="611" type="line"/>
+      <point x="410" y="661" type="line"/>
+      <point x="507" y="661" type="line"/>
+      <point x="539" y="611" type="line"/>
+      <point x="576" y="611" type="line"/>
+      <point x="629" y="695" type="line"/>
+      <point x="629" y="764" type="line"/>
+      <point x="93" y="764" type="line"/>
+      <point x="93" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

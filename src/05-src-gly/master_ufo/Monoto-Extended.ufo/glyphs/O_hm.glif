@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="2">
+  <advance width="720"/>
+  <unicode hex="2126"/>
+  <anchor x="-18" y="714" name="topleft"/>
+  <anchor x="337" y="714" name="top"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <outline>
+    <component base="Omega" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

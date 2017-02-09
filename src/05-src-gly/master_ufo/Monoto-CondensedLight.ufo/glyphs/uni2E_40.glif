@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E40" format="2">
+  <advance width="270"/>
+  <unicode hex="2E40"/>
+  <outline>
+    <component base="hyphen" xOffset="5" yOffset="199"/>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="2">
+  <advance width="530"/>
+  <unicode hex="0389"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="375" name="center"/>
+  <anchor x="266" y="714" name="top"/>
+  <anchor x="36" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="363" type="line"/>
+      <point x="404" y="363" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="714" type="line"/>
+      <point x="404" y="714" type="line"/>
+      <point x="404" y="388" type="line"/>
+      <point x="126" y="388" type="line"/>
+      <point x="126" y="714" type="line"/>
+      <point x="100" y="714" type="line"/>
+    </contour>
+    <component base="tonos" xOffset="-264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

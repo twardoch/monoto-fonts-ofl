@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB47" format="2">
+  <advance width="270"/>
+  <unicode hex="AB47"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="52" type="line"/>
+      <point x="152" y="61" type="line"/>
+      <point x="152" y="273" type="line" smooth="yes"/>
+      <point x="152" y="386"/>
+      <point x="174" y="470"/>
+      <point x="213" y="471" type="curve"/>
+      <point x="213" y="545" type="line"/>
+      <point x="181" y="540"/>
+      <point x="159" y="499"/>
+      <point x="148" y="439" type="curve"/>
+      <point x="144" y="439" type="line"/>
+      <point x="138" y="534" type="line"/>
+      <point x="37" y="534" type="line"/>
+      <point x="37" y="482" type="line"/>
+      <point x="93" y="471" type="line"/>
+      <point x="93" y="61" type="line"/>
+      <point x="34" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA75A" format="2">
+  <advance width="722"/>
+  <unicode hex="A75A"/>
+  <outline>
+    <contour>
+      <point x="664" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="444" y="327" type="line"/>
+      <point x="580" y="349"/>
+      <point x="658" y="418"/>
+      <point x="658" y="526" type="curve" smooth="yes"/>
+      <point x="658" y="673"/>
+      <point x="539" y="714"/>
+      <point x="320" y="714" type="curve" smooth="yes"/>
+      <point x="127" y="714" type="line"/>
+      <point x="152" y="689" type="line"/>
+      <point x="314" y="689" type="line" smooth="yes"/>
+      <point x="532" y="689"/>
+      <point x="630" y="648"/>
+      <point x="630" y="525" type="curve" smooth="yes"/>
+      <point x="630" y="408"/>
+      <point x="521" y="346"/>
+      <point x="370" y="346" type="curve" smooth="yes"/>
+      <point x="153" y="346" type="line"/>
+      <point x="153" y="321" type="line"/>
+      <point x="415" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>R</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+    </dict>
+  </lib>
+</glyph>

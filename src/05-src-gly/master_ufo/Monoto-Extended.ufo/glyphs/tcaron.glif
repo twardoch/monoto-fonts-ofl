@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="720"/>
+  <unicode hex="0165"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="361" y="767" name="top"/>
+  <anchor x="696" y="679" name="topright"/>
+  <anchor x="289" y="274" name="center"/>
+  <outline>
+    <component base="t" xOffset="-22"/>
+    <component base="caroncommaaccent" xOffset="155" yOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

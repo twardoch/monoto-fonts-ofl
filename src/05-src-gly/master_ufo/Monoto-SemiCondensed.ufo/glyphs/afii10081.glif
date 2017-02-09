@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10081" format="2">
+  <advance width="530"/>
+  <unicode hex="043F"/>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="480" y="0" name="bottomright"/>
+  <anchor x="253" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="141" y="466" type="line"/>
+      <point x="359" y="466" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="536" type="line"/>
+      <point x="60" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

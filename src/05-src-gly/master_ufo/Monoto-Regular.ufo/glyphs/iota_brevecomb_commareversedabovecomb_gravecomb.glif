@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota_brevecomb_commareversedabovecomb_gravecomb" format="2">
+  <advance width="602"/>
+  <anchor x="301" y="889" name="top"/>
+  <anchor x="383" y="0" name="bottom"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiavaria_brevecomb" xOffset="294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="300"/>
+  <unicode hex="0384"/>
+  <anchor x="135" y="528" name="_top"/>
+  <anchor x="141" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="127" y="606" type="line"/>
+      <point x="141" y="606" type="line"/>
+      <point x="152" y="655"/>
+      <point x="164" y="732"/>
+      <point x="170" y="789" type="curve"/>
+      <point x="170" y="797" type="line"/>
+      <point x="147" y="797" type="line"/>
+      <point x="145" y="744"/>
+      <point x="133" y="658"/>
+      <point x="127" y="614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

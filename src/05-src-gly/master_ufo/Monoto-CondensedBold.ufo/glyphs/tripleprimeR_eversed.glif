@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tripleprimeReversed" format="2">
+  <advance width="270"/>
+  <unicode hex="2037"/>
+  <outline>
+    <component base="uni2034" xScale="-1" xOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

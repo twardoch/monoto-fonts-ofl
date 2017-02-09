@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03F4" format="2">
+  <advance width="271"/>
+  <unicode hex="03F4"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="714" name="top"/>
+  <anchor x="22" y="714" name="topleft"/>
+  <anchor x="144" y="10" name="ogonek"/>
+  <anchor x="140" y="357" name="center"/>
+  <anchor x="271" y="714" name="topright"/>
+  <outline>
+    <component base="Theta"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03FF" format="2">
+  <advance width="1204"/>
+  <unicode hex="03FF"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="258" y="714" name="top"/>
+  <anchor x="31" y="714" name="topright"/>
+  <anchor x="205" y="361" name="center"/>
+  <outline>
+    <component base="uni0186"/>
+    <component base="periodcentered" xOffset="602"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

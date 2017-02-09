@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="720"/>
+  <unicode hex="0385"/>
+  <anchor x="361" y="537" name="_top"/>
+  <anchor x="362" y="825" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="670" type="line"/>
+      <point x="372" y="670" type="line"/>
+      <point x="411" y="716"/>
+      <point x="453" y="775"/>
+      <point x="473" y="816" type="curve"/>
+      <point x="473" y="825" type="line"/>
+      <point x="379" y="825" type="line"/>
+      <point x="369" y="782"/>
+      <point x="346" y="722"/>
+      <point x="325" y="681" type="curve"/>
+    </contour>
+    <contour>
+      <point x="223" y="621" type="curve" smooth="yes"/>
+      <point x="256" y="621"/>
+      <point x="275" y="637"/>
+      <point x="275" y="673" type="curve" smooth="yes"/>
+      <point x="275" y="708"/>
+      <point x="256" y="723"/>
+      <point x="223" y="723" type="curve" smooth="yes"/>
+      <point x="190" y="723"/>
+      <point x="171" y="708"/>
+      <point x="171" y="673" type="curve" smooth="yes"/>
+      <point x="171" y="637"/>
+      <point x="190" y="621"/>
+    </contour>
+    <contour>
+      <point x="499" y="621" type="curve" smooth="yes"/>
+      <point x="531" y="621"/>
+      <point x="551" y="638"/>
+      <point x="551" y="673" type="curve" smooth="yes"/>
+      <point x="551" y="708"/>
+      <point x="531" y="723"/>
+      <point x="499" y="723" type="curve" smooth="yes"/>
+      <point x="466" y="723"/>
+      <point x="446" y="708"/>
+      <point x="446" y="673" type="curve" smooth="yes"/>
+      <point x="446" y="638"/>
+      <point x="466" y="621"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

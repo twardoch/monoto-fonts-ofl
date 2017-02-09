@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D43" format="2">
+  <advance width="602"/>
+  <unicode hex="1D43"/>
+  <anchor x="312.45000000000005" y="321.59999999999997" name="top"/>
+  <anchor x="466.5" y="6.0" name="ogonek"/>
+  <anchor x="491.85" y="321.59999999999997" name="topright"/>
+  <anchor x="305.95000000000005" y="0.0" name="bottom"/>
+  <outline>
+    <component base="a" xScale="0.65" yScale="0.6" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

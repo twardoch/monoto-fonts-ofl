@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticaltilde" format="2">
+  <advance width="722"/>
+  <unicode hex="2E2F"/>
+  <outline>
+    <contour>
+      <point x="279" y="628" type="line"/>
+      <point x="384" y="636"/>
+      <point x="443" y="679"/>
+      <point x="443" y="738" type="curve" smooth="yes"/>
+      <point x="443" y="796"/>
+      <point x="349" y="843"/>
+      <point x="349" y="888" type="curve" smooth="yes"/>
+      <point x="349" y="913"/>
+      <point x="375" y="932"/>
+      <point x="443" y="942" type="curve"/>
+      <point x="443" y="996" type="line"/>
+      <point x="333" y="986"/>
+      <point x="279" y="944"/>
+      <point x="279" y="884" type="curve" smooth="yes"/>
+      <point x="279" y="828"/>
+      <point x="373" y="783"/>
+      <point x="373" y="735" type="curve" smooth="yes"/>
+      <point x="373" y="711"/>
+      <point x="349" y="692"/>
+      <point x="279" y="681" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

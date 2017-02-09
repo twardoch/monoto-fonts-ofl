@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="2">
+  <advance width="620"/>
+  <unicode hex="0145"/>
+  <anchor x="289" y="-221" name="bottom"/>
+  <anchor x="326" y="714" name="top"/>
+  <anchor x="612" y="714" name="topright"/>
+  <outline>
+    <component base="N"/>
+    <component base="commaaccent" xOffset="301"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

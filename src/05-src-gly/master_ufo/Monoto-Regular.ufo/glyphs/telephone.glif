@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="telephone" format="2">
+  <advance width="602"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="434" y="362" type="line"/>
+      <point x="587" y="362" type="line"/>
+      <point x="587" y="413" type="line"/>
+      <point x="490" y="413" type="line"/>
+      <point x="490" y="714" type="line"/>
+      <point x="434" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="362" type="line"/>
+      <point x="386" y="362" type="line"/>
+      <point x="386" y="413" type="line"/>
+      <point x="279" y="413" type="line"/>
+      <point x="279" y="520" type="line"/>
+      <point x="373" y="520" type="line"/>
+      <point x="373" y="570" type="line"/>
+      <point x="279" y="570" type="line"/>
+      <point x="279" y="663" type="line"/>
+      <point x="386" y="663" type="line"/>
+      <point x="386" y="714" type="line"/>
+      <point x="223" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="362" type="line"/>
+      <point x="127" y="362" type="line"/>
+      <point x="127" y="663" type="line"/>
+      <point x="190" y="663" type="line"/>
+      <point x="190" y="714" type="line"/>
+      <point x="5" y="714" type="line"/>
+      <point x="5" y="663" type="line"/>
+      <point x="69" y="663" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

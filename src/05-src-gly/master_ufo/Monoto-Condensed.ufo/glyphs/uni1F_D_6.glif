@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FD6" format="2">
+  <advance width="270"/>
+  <unicode hex="1FD6"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="134" y="731" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="perispomenicomb" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

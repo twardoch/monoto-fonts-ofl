@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CE" format="2">
+  <advance width="720"/>
+  <unicode hex="01CE"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="370" y="766" name="top"/>
+  <anchor x="667" y="10" name="ogonek"/>
+  <anchor x="722" y="556" name="topright"/>
+  <outline>
+    <component base="a"/>
+    <component base="caroncomb" xOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:51</string>
+    </dict>
+  </lib>
+</glyph>

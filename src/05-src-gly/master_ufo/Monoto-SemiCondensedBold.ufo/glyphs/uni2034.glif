@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2034" format="2">
+  <advance width="500"/>
+  <unicode hex="2034"/>
+  <outline>
+    <component base="minute" xOffset="-177"/>
+    <component base="minute" xOffset="180"/>
+    <component base="minute" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

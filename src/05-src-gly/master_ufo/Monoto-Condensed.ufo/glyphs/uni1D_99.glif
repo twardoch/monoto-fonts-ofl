@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D99" format="2">
+  <advance width="269"/>
+  <unicode hex="1D99"/>
+  <anchor x="140" y="534" name="top"/>
+  <anchor x="244" y="10" name="ogonek"/>
+  <anchor x="260" y="534" name="topright"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="263" y="-184" type="curve" smooth="yes"/>
+      <point x="274" y="-184"/>
+      <point x="289" y="-181"/>
+      <point x="297" y="-175" type="curve"/>
+      <point x="297" y="-128" type="line"/>
+      <point x="291" y="-134"/>
+      <point x="285" y="-136"/>
+      <point x="279" y="-136" type="curve" smooth="yes"/>
+      <point x="264" y="-136"/>
+      <point x="258" y="-118"/>
+      <point x="258" y="-72" type="curve" smooth="yes"/>
+      <point x="258" y="61" type="line"/>
+      <point x="224" y="61" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="-75" type="line" smooth="yes"/>
+      <point x="206" y="-154"/>
+      <point x="228" y="-184"/>
+    </contour>
+    <component base="u" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

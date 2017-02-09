@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="2">
+  <advance width="530"/>
+  <unicode hex="01A1"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="553" name="top"/>
+  <anchor x="253" y="10" name="ogonek"/>
+  <anchor x="499" y="553" name="topright"/>
+  <anchor x="250" y="277" name="center"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

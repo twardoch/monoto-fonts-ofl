@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10066.loclSRB" format="2">
+  <advance width="722"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="361" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="612" y="762" type="line"/>
+      <point x="395" y="739"/>
+      <point x="168" y="717"/>
+      <point x="168" y="604" type="curve" smooth="yes"/>
+      <point x="168" y="538"/>
+      <point x="241" y="509"/>
+      <point x="353" y="465" type="curve"/>
+      <point x="144" y="417"/>
+      <point x="76" y="330"/>
+      <point x="76" y="211" type="curve" smooth="yes"/>
+      <point x="76" y="73"/>
+      <point x="189" y="-10"/>
+      <point x="364" y="-10" type="curve" smooth="yes"/>
+      <point x="546" y="-10"/>
+      <point x="646" y="84"/>
+      <point x="646" y="221" type="curve" smooth="yes"/>
+      <point x="646" y="355"/>
+      <point x="524" y="421"/>
+      <point x="382" y="477" type="curve" smooth="yes"/>
+      <point x="258" y="527"/>
+      <point x="197" y="547"/>
+      <point x="197" y="606" type="curve" smooth="yes"/>
+      <point x="197" y="693"/>
+      <point x="384" y="713"/>
+      <point x="615" y="738" type="curve"/>
+    </contour>
+    <contour>
+      <point x="376" y="451" type="curve"/>
+      <point x="520" y="397"/>
+      <point x="619" y="333"/>
+      <point x="619" y="221" type="curve" smooth="yes"/>
+      <point x="619" y="92"/>
+      <point x="525" y="15"/>
+      <point x="364" y="15" type="curve" smooth="yes"/>
+      <point x="210" y="15"/>
+      <point x="103" y="87"/>
+      <point x="103" y="211" type="curve" smooth="yes"/>
+      <point x="103" y="343"/>
+      <point x="192" y="414"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

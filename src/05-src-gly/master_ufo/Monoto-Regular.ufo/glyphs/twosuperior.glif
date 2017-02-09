@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+  <advance width="620"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="149" y="415" type="line"/>
+      <point x="466" y="415" type="line"/>
+      <point x="466" y="475" type="line"/>
+      <point x="233" y="475" type="line"/>
+      <point x="310" y="541" type="line" smooth="yes"/>
+      <point x="405" y="629"/>
+      <point x="454" y="667"/>
+      <point x="454" y="738" type="curve" smooth="yes"/>
+      <point x="454" y="808"/>
+      <point x="398" y="853"/>
+      <point x="303" y="853" type="curve" smooth="yes"/>
+      <point x="242" y="853"/>
+      <point x="190" y="832"/>
+      <point x="153" y="797" type="curve"/>
+      <point x="188" y="752" type="line"/>
+      <point x="222" y="779"/>
+      <point x="258" y="794"/>
+      <point x="297" y="794" type="curve" smooth="yes"/>
+      <point x="352" y="794"/>
+      <point x="383" y="770"/>
+      <point x="383" y="733" type="curve" smooth="yes"/>
+      <point x="383" y="684"/>
+      <point x="345" y="655"/>
+      <point x="266" y="581" type="curve" smooth="yes"/>
+      <point x="149" y="471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+    </dict>
+  </lib>
+</glyph>

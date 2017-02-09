@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C60" format="2">
+  <advance width="270"/>
+  <unicode hex="2C60"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="88" y="714" name="top"/>
+  <anchor x="214" y="714" name="topright"/>
+  <anchor x="148" y="357" name="center"/>
+  <outline>
+    <contour>
+      <point x="13" y="400" type="line"/>
+      <point x="226" y="400" type="line"/>
+      <point x="226" y="469" type="line"/>
+      <point x="13" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="260" type="line"/>
+      <point x="226" y="260" type="line"/>
+      <point x="226" y="329" type="line"/>
+      <point x="13" y="329" type="line"/>
+    </contour>
+    <component base="L" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

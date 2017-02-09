@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="2">
+  <advance width="620"/>
+  <unicode hex="2017"/>
+  <outline>
+    <component base="underscore" yOffset="-191"/>
+    <component base="underscore"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

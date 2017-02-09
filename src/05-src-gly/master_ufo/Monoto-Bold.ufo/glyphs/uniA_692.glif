@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA692" format="2">
+  <advance width="602"/>
+  <unicode hex="A692"/>
+  <outline>
+    <contour>
+      <point x="402" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="570" y="714" type="line"/>
+      <point x="402" y="714" type="line"/>
+      <point x="402" y="398" type="line"/>
+      <point x="368" y="375"/>
+      <point x="336" y="366"/>
+      <point x="309" y="366" type="curve" smooth="yes"/>
+      <point x="266" y="366"/>
+      <point x="247" y="388"/>
+      <point x="247" y="432" type="curve" smooth="yes"/>
+      <point x="247" y="714" type="line"/>
+      <point x="79" y="714" type="line"/>
+      <point x="79" y="402" type="line" smooth="yes"/>
+      <point x="79" y="285"/>
+      <point x="142" y="225"/>
+      <point x="254" y="225" type="curve" smooth="yes"/>
+      <point x="300" y="225"/>
+      <point x="341" y="232"/>
+      <point x="402" y="266" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-4" y="564" type="line"/>
+      <point x="327" y="564" type="line"/>
+      <point x="327" y="714" type="line"/>
+      <point x="-4" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

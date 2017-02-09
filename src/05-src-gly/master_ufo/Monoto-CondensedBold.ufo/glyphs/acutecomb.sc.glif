@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.sc" format="2">
+  <anchor x="0" y="581" name="_top"/>
+  <anchor x="0" y="802" name="top"/>
+  <outline>
+    <contour>
+      <point x="-53" y="642" type="line"/>
+      <point x="21" y="642" type="line"/>
+      <point x="45" y="677"/>
+      <point x="98" y="754"/>
+      <point x="113" y="792" type="curve"/>
+      <point x="113" y="802" type="line"/>
+      <point x="-16" y="802" type="line"/>
+      <point x="-25" y="758"/>
+      <point x="-41" y="692"/>
+      <point x="-53" y="655" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

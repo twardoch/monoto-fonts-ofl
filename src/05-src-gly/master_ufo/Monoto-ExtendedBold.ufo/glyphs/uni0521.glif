@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0521" format="2">
+  <advance width="722"/>
+  <unicode hex="0521"/>
+  <anchor x="143" y="-224" name="bottom"/>
+  <anchor x="210" y="556" name="top"/>
+  <outline>
+    <contour>
+      <point x="662" y="-224" type="curve" smooth="yes"/>
+      <point x="876" y="-224"/>
+      <point x="1014" y="-111"/>
+      <point x="1014" y="57" type="curve" smooth="yes"/>
+      <point x="1014" y="209"/>
+      <point x="888" y="314"/>
+      <point x="650" y="314" type="curve" smooth="yes"/>
+      <point x="600" y="314"/>
+      <point x="554" y="309"/>
+      <point x="507" y="300" type="curve"/>
+      <point x="507" y="556" type="line"/>
+      <point x="-55" y="556" type="line"/>
+      <point x="-98" y="201"/>
+      <point x="-147" y="149"/>
+      <point x="-244" y="149" type="curve" smooth="yes"/>
+      <point x="-260" y="149"/>
+      <point x="-278" y="151"/>
+      <point x="-292" y="158" type="curve"/>
+      <point x="-292" y="6" type="line"/>
+      <point x="-267" y="-4"/>
+      <point x="-232" y="-11"/>
+      <point x="-193" y="-11" type="curve" smooth="yes"/>
+      <point x="0" y="-11"/>
+      <point x="68" y="103"/>
+      <point x="105" y="403" type="curve"/>
+      <point x="323" y="403" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="158" type="line"/>
+      <point x="544" y="162"/>
+      <point x="579" y="164"/>
+      <point x="610" y="164" type="curve" smooth="yes"/>
+      <point x="722" y="164"/>
+      <point x="829" y="155"/>
+      <point x="829" y="49" type="curve" smooth="yes"/>
+      <point x="829" y="-40"/>
+      <point x="752" y="-73"/>
+      <point x="631" y="-73" type="curve" smooth="yes"/>
+      <point x="582" y="-73"/>
+      <point x="545" y="-68"/>
+      <point x="512" y="-59" type="curve"/>
+      <point x="512" y="-207" type="line"/>
+      <point x="554" y="-217"/>
+      <point x="599" y="-224"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

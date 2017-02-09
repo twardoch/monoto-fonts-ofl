@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilderingabove" format="2">
+  <advance width="722"/>
+  <unicode hex="2E1B"/>
+  <outline>
+    <component base="asciitilde" xOffset="-22"/>
+    <component base="ring" xOffset="11" yOffset="-138"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

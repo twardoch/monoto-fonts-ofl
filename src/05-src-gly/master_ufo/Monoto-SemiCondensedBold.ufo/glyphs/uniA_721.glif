@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA721" format="2">
+  <advance width="500"/>
+  <unicode hex="A721"/>
+  <outline>
+    <contour>
+      <point x="423" y="-1" type="line"/>
+      <point x="423" y="58" type="line"/>
+      <point x="268" y="117" type="line"/>
+      <point x="268" y="231" type="line"/>
+      <point x="215" y="252" type="line"/>
+      <point x="215" y="137" type="line"/>
+      <point x="131" y="169" type="line"/>
+      <point x="131" y="304" type="line"/>
+      <point x="78" y="324" type="line"/>
+      <point x="78" y="132" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

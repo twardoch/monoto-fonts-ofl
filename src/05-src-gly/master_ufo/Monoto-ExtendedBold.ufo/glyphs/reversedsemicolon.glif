@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedsemicolon" format="2">
+  <advance width="722"/>
+  <unicode hex="204F"/>
+  <outline>
+    <component base="semicolon" xScale="-1" xOffset="741"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA74E" format="2">
+  <advance width="1440"/>
+  <unicode hex="A74E"/>
+  <anchor x="364" y="10" name="ogonek_1"/>
+  <anchor x="1084" y="10" name="ogonek_2"/>
+  <anchor x="1081" y="714" name="top_2"/>
+  <anchor x="1464" y="714" name="topright_2"/>
+  <anchor x="744" y="714" name="topright_1"/>
+  <anchor x="361" y="0" name="bottom_1"/>
+  <anchor x="1081" y="0" name="bottom_2"/>
+  <anchor x="361" y="714" name="top_1"/>
+  <anchor x="1081" y="357" name="center_2"/>
+  <anchor x="361" y="357" name="center_1"/>
+  <anchor x="724" y="714" name="topleft_2"/>
+  <anchor x="4" y="714" name="topleft_1"/>
+  <outline>
+    <component base="O"/>
+    <component base="O" xOffset="720"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:49:41</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

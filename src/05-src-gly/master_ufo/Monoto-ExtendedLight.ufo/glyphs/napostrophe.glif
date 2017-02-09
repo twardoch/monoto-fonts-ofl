@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="720"/>
+  <unicode hex="0149"/>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="373" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="303" type="line" smooth="yes"/>
+      <point x="166" y="446"/>
+      <point x="264" y="512"/>
+      <point x="400" y="512" type="curve" smooth="yes"/>
+      <point x="517" y="512"/>
+      <point x="588" y="463"/>
+      <point x="588" y="348" type="curve" smooth="yes"/>
+      <point x="588" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="356" type="line" smooth="yes"/>
+      <point x="614" y="479"/>
+      <point x="533" y="537"/>
+      <point x="398" y="537" type="curve" smooth="yes"/>
+      <point x="258" y="537"/>
+      <point x="195" y="478"/>
+      <point x="167" y="417" type="curve"/>
+      <point x="165" y="417" type="line"/>
+      <point x="162" y="528" type="line"/>
+      <point x="140" y="528" type="line"/>
+    </contour>
+    <component base="quoteright" xOffset="-346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:50</string>
+    </dict>
+  </lib>
+</glyph>

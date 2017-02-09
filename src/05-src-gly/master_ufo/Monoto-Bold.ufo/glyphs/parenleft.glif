@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="620"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="334" y="-177" type="curve"/>
+      <point x="482" y="-177" type="line"/>
+      <point x="386" y="-42"/>
+      <point x="333" y="101"/>
+      <point x="333" y="265" type="curve" smooth="yes"/>
+      <point x="333" y="435"/>
+      <point x="381" y="585"/>
+      <point x="482" y="714" type="curve"/>
+      <point x="334" y="714" type="line"/>
+      <point x="236" y="601"/>
+      <point x="177" y="447"/>
+      <point x="177" y="264" type="curve" smooth="yes"/>
+      <point x="177" y="83"/>
+      <point x="234" y="-62"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+    </dict>
+  </lib>
+</glyph>

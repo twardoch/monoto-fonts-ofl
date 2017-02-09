@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB42" format="2">
+  <advance width="722"/>
+  <unicode hex="AB42"/>
+  <anchor x="377" y="-1" name="top"/>
+  <anchor x="377" y="527" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="343" y="233" type="line"/>
+      <point x="681" y="233" type="line"/>
+      <point x="681" y="259" type="line"/>
+      <point x="343" y="259" type="line"/>
+    </contour>
+    <component base="oe" xScale="-1" yScale="-1" xOffset="738" yOffset="527"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

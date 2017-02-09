@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA670" format="2">
+  <unicode hex="A670"/>
+  <anchor x="87.344" y="836.344" name="topright_8"/>
+  <anchor x="368.344" y="24.343999999999994" name="topright_2"/>
+  <anchor x="-400.656" y="386.344" name="topright_3"/>
+  <anchor x="-203.656" y="24.343999999999994" name="topright_1"/>
+  <anchor x="-205.656" y="738.344" name="topright_6"/>
+  <anchor x="368.344" y="738.344" name="topright_7"/>
+  <anchor x="87.344" y="-85.656" name="topright_4"/>
+  <anchor x="575.344" y="386.344" name="topright_5"/>
+  <anchor x="4.167999999999992" y="836.344" name="top_8"/>
+  <anchor x="-286.832" y="24.343999999999994" name="top_1"/>
+  <anchor x="-483.832" y="386.344" name="top_3"/>
+  <anchor x="285.168" y="24.343999999999994" name="top_2"/>
+  <anchor x="492.168" y="386.344" name="top_5"/>
+  <anchor x="4.167999999999992" y="-85.656" name="top_4"/>
+  <anchor x="285.168" y="738.344" name="top_7"/>
+  <anchor x="-288.832" y="738.344" name="top_6"/>
+  <anchor x="4.167999999999992" y="625.0" name="bottom_8"/>
+  <anchor x="4.167999999999992" y="-297.0" name="bottom_4"/>
+  <anchor x="492.168" y="175.0" name="bottom_5"/>
+  <anchor x="-288.832" y="527.0" name="bottom_6"/>
+  <anchor x="285.168" y="527.0" name="bottom_7"/>
+  <anchor x="-286.832" y="-187.0" name="bottom_1"/>
+  <anchor x="285.168" y="-187.0" name="bottom_2"/>
+  <anchor x="-483.832" y="175.0" name="bottom_3"/>
+  <outline>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="-378" yOffset="-187"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="194" yOffset="-187"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="-575" yOffset="175"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="-87" yOffset="-297"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="401" yOffset="175"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="-380" yOffset="527"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="194" yOffset="527"/>
+    <component base="X" xScale="0.296" yScale="0.296" xOffset="-87" yOffset="625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

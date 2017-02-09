@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightdottedsubstitutionbracket" format="2">
+  <advance width="602"/>
+  <unicode hex="2E05"/>
+  <outline>
+    <contour>
+      <point x="384" y="276" type="line"/>
+      <point x="442" y="276" type="line"/>
+      <point x="442" y="590" type="line"/>
+      <point x="189" y="714" type="line"/>
+      <point x="162" y="667" type="line"/>
+      <point x="384" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="409" type="curve" smooth="yes"/>
+      <point x="266" y="409"/>
+      <point x="286" y="426"/>
+      <point x="286" y="460" type="curve" smooth="yes"/>
+      <point x="286" y="495"/>
+      <point x="266" y="512"/>
+      <point x="236" y="512" type="curve" smooth="yes"/>
+      <point x="205" y="512"/>
+      <point x="186" y="495"/>
+      <point x="186" y="460" type="curve" smooth="yes"/>
+      <point x="186" y="426"/>
+      <point x="205" y="409"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

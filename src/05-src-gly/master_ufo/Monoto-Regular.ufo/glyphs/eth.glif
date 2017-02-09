@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="2">
+  <advance width="620"/>
+  <unicode hex="00F0"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="268" name="center"/>
+  <anchor x="301" y="765" name="top"/>
+  <anchor x="589" y="760" name="topright"/>
+  <outline>
+    <contour>
+      <point x="304" y="-10" type="curve" smooth="yes"/>
+      <point x="465" y="-10"/>
+      <point x="556" y="84"/>
+      <point x="556" y="270" type="curve" smooth="yes"/>
+      <point x="556" y="488"/>
+      <point x="440" y="668"/>
+      <point x="215" y="764" type="curve"/>
+      <point x="178" y="708" type="line"/>
+      <point x="312" y="642"/>
+      <point x="422" y="546"/>
+      <point x="461" y="423" type="curve"/>
+      <point x="456" y="421" type="line"/>
+      <point x="423" y="458"/>
+      <point x="367" y="474"/>
+      <point x="292" y="474" type="curve" smooth="yes"/>
+      <point x="144" y="474"/>
+      <point x="46" y="385"/>
+      <point x="46" y="233" type="curve" smooth="yes"/>
+      <point x="46" y="89"/>
+      <point x="146" y="-10"/>
+    </contour>
+    <contour>
+      <point x="305" y="63" type="curve" smooth="yes"/>
+      <point x="191" y="63"/>
+      <point x="135" y="134"/>
+      <point x="135" y="230" type="curve" smooth="yes"/>
+      <point x="135" y="342"/>
+      <point x="193" y="402"/>
+      <point x="307" y="402" type="curve" smooth="yes"/>
+      <point x="419" y="402"/>
+      <point x="467" y="331"/>
+      <point x="467" y="247" type="curve" smooth="yes"/>
+      <point x="467" y="126"/>
+      <point x="415" y="63"/>
+    </contour>
+    <contour>
+      <point x="193" y="547" type="line"/>
+      <point x="498" y="709" type="line"/>
+      <point x="462" y="764" type="line"/>
+      <point x="156" y="602" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni029C" format="2">
+  <advance width="300"/>
+  <unicode hex="029C"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="543" name="top"/>
+  <anchor x="255" y="0" name="bottomright"/>
+  <outline>
+    <component base="afii10079"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 14:30:52</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65E" format="2">
+  <advance width="270"/>
+  <unicode hex="A65E"/>
+  <outline>
+    <contour>
+      <point x="111" y="-130" type="line"/>
+      <point x="177" y="-130" type="line"/>
+      <point x="174" y="616" type="line"/>
+      <point x="177" y="616" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="240" y="714" type="line"/>
+      <point x="46" y="714" type="line"/>
+      <point x="32" y="168" type="line" smooth="yes"/>
+      <point x="30" y="112"/>
+      <point x="23" y="82"/>
+      <point x="15" y="82" type="curve" smooth="yes"/>
+      <point x="11" y="82"/>
+      <point x="8" y="85"/>
+      <point x="6" y="88" type="curve"/>
+      <point x="6" y="3" type="line"/>
+      <point x="12" y="-4"/>
+      <point x="22" y="-7"/>
+      <point x="35" y="-7" type="curve" smooth="yes"/>
+      <point x="78" y="-7"/>
+      <point x="100" y="33"/>
+      <point x="102" y="145" type="curve" smooth="yes"/>
+      <point x="111" y="616" type="line"/>
+      <point x="114" y="616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

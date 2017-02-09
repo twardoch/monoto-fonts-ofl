@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB35" format="2">
+  <advance width="722"/>
+  <unicode hex="AB35"/>
+  <outline>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="387" y="459" type="line"/>
+      <point x="656" y="459" type="line"/>
+      <point x="656" y="537" type="line"/>
+      <point x="387" y="537" type="line"/>
+      <point x="387" y="584" type="line" smooth="yes"/>
+      <point x="387" y="665"/>
+      <point x="439" y="687"/>
+      <point x="542" y="687" type="curve" smooth="yes"/>
+      <point x="588" y="687"/>
+      <point x="641" y="682"/>
+      <point x="678" y="673" type="curve"/>
+      <point x="698" y="746" type="line"/>
+      <point x="658" y="756"/>
+      <point x="596" y="765"/>
+      <point x="535" y="765" type="curve" smooth="yes"/>
+      <point x="379" y="765"/>
+      <point x="294" y="723"/>
+      <point x="294" y="593" type="curve" smooth="yes"/>
+      <point x="294" y="538" type="line"/>
+      <point x="72" y="538" type="line"/>
+      <point x="72" y="459" type="line"/>
+      <point x="294" y="459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

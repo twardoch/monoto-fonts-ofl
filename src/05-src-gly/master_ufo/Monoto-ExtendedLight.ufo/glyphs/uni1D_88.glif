@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D88" format="2">
+  <advance width="722"/>
+  <unicode hex="1D88"/>
+  <anchor x="369" y="528" name="top"/>
+  <anchor x="696" y="528" name="topright"/>
+  <anchor x="369" y="-240" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="400" y="-168" type="curve" smooth="yes"/>
+      <point x="456" y="-168"/>
+      <point x="495" y="-140"/>
+      <point x="495" y="-80" type="curve" smooth="yes"/>
+      <point x="495" y="25" type="line"/>
+      <point x="433" y="8" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="468" y="-81" type="line" smooth="yes"/>
+      <point x="468" y="-127"/>
+      <point x="442" y="-143"/>
+      <point x="399" y="-143" type="curve" smooth="yes"/>
+      <point x="377" y="-143"/>
+      <point x="360" y="-139"/>
+      <point x="347" y="-134" type="curve"/>
+      <point x="347" y="-159" type="line"/>
+      <point x="358" y="-164"/>
+      <point x="376" y="-168"/>
+    </contour>
+    <component base="p" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

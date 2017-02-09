@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="undertie" format="2">
+  <advance width="602"/>
+  <unicode hex="203F"/>
+  <outline>
+    <contour>
+      <point x="303" y="-242" type="curve" smooth="yes"/>
+      <point x="444" y="-242"/>
+      <point x="538" y="-176"/>
+      <point x="607" y="-61" type="curve"/>
+      <point x="584" y="-48" type="line"/>
+      <point x="523" y="-147"/>
+      <point x="436" y="-215"/>
+      <point x="302" y="-215" type="curve" smooth="yes"/>
+      <point x="167" y="-215"/>
+      <point x="79" y="-145"/>
+      <point x="18" y="-48" type="curve"/>
+      <point x="-6" y="-60" type="line"/>
+      <point x="64" y="-174"/>
+      <point x="160" y="-242"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

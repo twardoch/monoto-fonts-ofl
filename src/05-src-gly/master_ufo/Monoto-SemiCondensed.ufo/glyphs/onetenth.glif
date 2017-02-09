@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onetenth" format="2">
+  <advance width="500"/>
+  <unicode hex="2152"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction"/>
+    <component base="one.dnom" xOffset="-110"/>
+    <component base="zero.dnom" xOffset="140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

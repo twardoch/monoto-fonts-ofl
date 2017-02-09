@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exportPath</key>
+	<string>otf</string>
+	<key>fontPath</key>
+	<string>Monoto-VF.glyphs</string>
+	<key>instances</key>
+	<array>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 400 Rg</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 30 UlCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>30.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>30 UlCd 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+			<key>widthClass</key>
+			<string>Ultra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 400 Rg</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 36 ExCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>36.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>36 ExCd 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+			<key>widthClass</key>
+			<string>Extra Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 400 Rg</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 44 Cd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>44.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>44 Cd 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+			<key>widthClass</key>
+			<string>Condensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 400 Rg</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 53 SmCd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>53.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>53 SmCd 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+			<key>widthClass</key>
+			<string>SemiCondensed</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 400 Rg</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 62 No</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>62.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>62 No 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>100 Th</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>100.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 100 Th</string>
+			<key>weightClass</key>
+			<string>Thin</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>200 ExLt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>188.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 200 ExLt</string>
+			<key>weightClass</key>
+			<string>ExtraLight</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>300 Lt</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>272.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 300 Lt</string>
+			<key>weightClass</key>
+			<string>Light</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>400 Rg</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>400.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 400 Rg</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>500 Md</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>562.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 500 Md</string>
+			<key>weightClass</key>
+			<string>Medium</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>600 SmBd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>738.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 600 SmBd</string>
+			<key>weightClass</key>
+			<string>SemiBold</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+		<dict>
+			<key>customParameters</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>preferredFamilyName</string>
+					<key>value</key>
+					<string>Monoto 72 SmWd</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>preferredSubfamilyName</string>
+					<key>value</key>
+					<string>700 Bd</string>
+				</dict>
+			</array>
+			<key>interpolationCustom</key>
+			<real>0.0</real>
+			<key>interpolationWeight</key>
+			<real>900.0</real>
+			<key>interpolationWidth</key>
+			<real>72.0</real>
+			<key>isItalic</key>
+			<false/>
+			<key>name</key>
+			<string>72 SmWd 700 Bd</string>
+			<key>weightClass</key>
+			<string>Bold</string>
+			<key>widthClass</key>
+			<string>Semi Expanded</string>
+		</dict>
+	</array>
+</dict>
+</plist>

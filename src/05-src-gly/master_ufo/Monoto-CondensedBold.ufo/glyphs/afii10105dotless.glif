@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10105dotless" format="2">
+  <advance width="270"/>
+  <anchor x="135" y="-245" name="bottom"/>
+  <anchor x="135" y="543" name="top"/>
+  <outline>
+    <component base="jdotless" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

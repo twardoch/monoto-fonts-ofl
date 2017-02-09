@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D07" format="2">
+  <advance width="269"/>
+  <unicode hex="1D07"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="138" y="543" name="top"/>
+  <outline>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="87" type="line"/>
+      <point x="139" y="87" type="line"/>
+      <point x="139" y="236" type="line"/>
+      <point x="219" y="236" type="line"/>
+      <point x="219" y="324" type="line"/>
+      <point x="139" y="324" type="line"/>
+      <point x="139" y="457" type="line"/>
+      <point x="224" y="457" type="line"/>
+      <point x="224" y="544" type="line"/>
+      <point x="46" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

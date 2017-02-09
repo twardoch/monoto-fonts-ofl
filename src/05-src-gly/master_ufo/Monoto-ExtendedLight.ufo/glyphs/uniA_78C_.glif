@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78C" format="2">
+  <advance width="722"/>
+  <unicode hex="A78C"/>
+  <outline>
+    <contour>
+      <point x="353" y="403" type="line"/>
+      <point x="366" y="403" type="line"/>
+      <point x="378" y="714" type="line"/>
+      <point x="342" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

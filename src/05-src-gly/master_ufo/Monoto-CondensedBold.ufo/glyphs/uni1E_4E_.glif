@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E4E" format="2">
+  <advance width="270"/>
+  <unicode hex="1E4E"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="1111" name="top"/>
+  <anchor x="16" y="714" name="topleft"/>
+  <anchor x="144" y="10" name="ogonek"/>
+  <anchor x="135" y="357" name="center"/>
+  <anchor x="265" y="714" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="135" yOffset="169"/>
+    <component base="dieresiscomb" xOffset="135" yOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

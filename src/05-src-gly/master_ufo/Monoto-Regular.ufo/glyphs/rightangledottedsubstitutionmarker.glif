@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightangledottedsubstitutionmarker" format="2">
+  <advance width="602"/>
+  <unicode hex="2E01"/>
+  <outline>
+    <contour>
+      <point x="151" y="276" type="line"/>
+      <point x="210" y="276" type="line"/>
+      <point x="210" y="660" type="line"/>
+      <point x="450" y="660" type="line"/>
+      <point x="450" y="714" type="line"/>
+      <point x="151" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="457" type="curve" smooth="yes"/>
+      <point x="374" y="457"/>
+      <point x="394" y="473"/>
+      <point x="394" y="508" type="curve" smooth="yes"/>
+      <point x="394" y="543"/>
+      <point x="374" y="559"/>
+      <point x="343" y="559" type="curve" smooth="yes"/>
+      <point x="312" y="559"/>
+      <point x="294" y="543"/>
+      <point x="294" y="508" type="curve" smooth="yes"/>
+      <point x="294" y="473"/>
+      <point x="312" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

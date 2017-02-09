@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="response" format="2">
+  <advance width="271"/>
+  <unicode hex="211F"/>
+  <anchor x="137" y="714" name="top"/>
+  <anchor x="256" y="714" name="topright"/>
+  <anchor x="142" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="76" y="-145" type="line"/>
+      <point x="123" y="-145" type="line"/>
+      <point x="234" y="805" type="line"/>
+      <point x="108" y="861" type="line"/>
+      <point x="97" y="805" type="line"/>
+      <point x="179" y="765" type="line"/>
+    </contour>
+    <component base="R" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

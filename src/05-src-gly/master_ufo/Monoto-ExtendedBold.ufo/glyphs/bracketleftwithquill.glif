@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleftwithquill" format="2">
+  <advance width="722"/>
+  <unicode hex="2045"/>
+  <outline>
+    <contour>
+      <point x="205" y="-169" type="line"/>
+      <point x="539" y="-169" type="line"/>
+      <point x="539" y="-37" type="line"/>
+      <point x="375" y="-37" type="line"/>
+      <point x="375" y="604" type="line"/>
+      <point x="539" y="604" type="line"/>
+      <point x="539" y="737" type="line"/>
+      <point x="205" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="235" type="line"/>
+      <point x="539" y="235" type="line"/>
+      <point x="539" y="367" type="line"/>
+      <point x="219" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

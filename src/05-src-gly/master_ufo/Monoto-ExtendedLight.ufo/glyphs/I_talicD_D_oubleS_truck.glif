@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ItalicDDoubleStruck" format="2">
+  <advance width="722"/>
+  <unicode hex="2145"/>
+  <outline>
+    <contour>
+      <point x="-10" y="0" type="line"/>
+      <point x="220" y="0" type="line" smooth="yes"/>
+      <point x="544" y="0"/>
+      <point x="730" y="179"/>
+      <point x="730" y="433" type="curve" smooth="yes"/>
+      <point x="730" y="622"/>
+      <point x="627" y="714"/>
+      <point x="408" y="714" type="curve" smooth="yes"/>
+      <point x="183" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="51" type="line"/>
+      <point x="237" y="667" type="line"/>
+      <point x="309" y="667" type="line"/>
+      <point x="144" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="51" type="line"/>
+      <point x="377" y="667" type="line"/>
+      <point x="417" y="667" type="line" smooth="yes"/>
+      <point x="474" y="667"/>
+      <point x="529" y="655"/>
+      <point x="570" y="632" type="curve"/>
+      <point x="424" y="84" type="line"/>
+      <point x="359" y="54"/>
+      <point x="294" y="51"/>
+      <point x="243" y="51" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="501" y="118" type="curve"/>
+      <point x="621" y="589" type="line"/>
+      <point x="647" y="551"/>
+      <point x="660" y="492"/>
+      <point x="660" y="430" type="curve" smooth="yes"/>
+      <point x="660" y="304"/>
+      <point x="606" y="186"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>

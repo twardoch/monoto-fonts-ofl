@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E6D" format="2">
+  <advance width="269"/>
+  <unicode hex="1E6D"/>
+  <anchor x="135" y="-199" name="bottom"/>
+  <anchor x="135" y="679" name="top"/>
+  <anchor x="256" y="679" name="topright"/>
+  <anchor x="112" y="289" name="center"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/08 13:41:59</string>
+    </dict>
+  </lib>
+</glyph>
