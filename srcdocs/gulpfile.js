@@ -86,7 +86,7 @@ gulp.task('images', function() {
 });
 
 // Fonts: TTF to woff
-gulp.task('fonts', ['clean-fonts'], function() {
+gulp.task('ttfToWoff', ['clean-fonts'], function() {
     gulp.src(pathToFonts + '*.ttf')
     .pipe(ttf2woff())
     .pipe(gulp.dest(pathToDocs + 'fonts/'));
@@ -135,7 +135,7 @@ gulp.task('default', ['clean'], function() {
 // Production
 // TODO: refactor for Gulp 4.0, make `clean-sourcemaps` async
 gulp.task('production', function() {
-    gulp.start('default', 'fonts', 'clean-sourcemaps');
+    gulp.start('default', 'ttfToWoff', 'clean-sourcemaps');
 });
 
 // Watch
