@@ -32,10 +32,13 @@ function adtLoadPanel (fkFontPath) {
   var fkFont = null
 
   xhr.onload = function (e) {
-    if (this.status == 200) {
+    console.log('sth');
+    if (this.readyState == 4) {
       var fkBlob = this.response
       var fkBuffer = new Buffer(fkBlob)
+      console.log(fkBuffer);
       fkFont = fontkit.create(fkBuffer)
+      console.log(fkFont);
       adtHtml = ''
 
       adtHtml += '<h3>adjustypo.js</h3>'

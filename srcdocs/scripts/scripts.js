@@ -113,7 +113,7 @@ mnt.methods = {
 				value = mnt.font[settingsType][ key ];
 				fontSettings.push( '"' + key + '" ' + value );
 				if ( key === mnt.font.properties.wght ) {
-					mnt.font.bold = parseInt(value) + (document.getElementById(mnt.font.properties.wght).max - value) * .6;
+					mnt.font.bold = parseInt(value) + (document.getElementById(mnt.font.properties.wght).max - value) * 0.6;
 				}
 			}
 		}
@@ -124,29 +124,69 @@ mnt.methods = {
 		var fontSettings = mnt.methods.getFontSettings('variation').join(', '),
 			stylesheet = mnt.elements.jsCustomStylesheet;
 		
-		for ( var index = stylesheet.cssRules.length - 1; index >= 0; index-- ) {
-			if ( stylesheet.cssRules[index].style['0'] === mnt.variables.fontVariationSettings) {
-				stylesheet.deleteRule(index);
+		// for ( var index = stylesheet.cssRules.length - 1; index >= 0; index-- ) {
+		// 	if ( stylesheet.cssRules[index].style['0'] === mnt.variables.fontVariationSettings) {
+		// 		stylesheet.deleteRule(index);
+		// 	}
+		// }
+
+		// if (!mnt.methods.isPropertySupported(mnt.variables.fontVariationSettings)) {
+		// 	return false;
+		// }
+
+		// stylesheet.insertRule(
+		// 	mnt.methods.getCssRule(
+		// 		mnt.variables.outputTagForStyles, 
+		// 		mnt.variables.fontVariationSettings, 
+		// 		fontSettings
+		// 	), stylesheet.cssRules.length );
+		
+		// stylesheet.insertRule(
+		// 	mnt.methods.getCssRule(
+		// 		mnt.variables.boldElements.join(', '), 
+		// 		mnt.variables.fontVariationSettings, 
+		// 		mnt.methods.getFontVariationBold(fontSettings)
+		// 	), stylesheet.cssRules.length );
+
+		stylesheet.insertRule(
+			mnt.methods.getCssRule(
+				':root', 
+				'--' + mnt.variables.fontVariationSettings, 
+				fontSettings
+			), stylesheet.cssRules.length
+		);
+
+		stylesheet.insertRule(
+			mnt.methods.getCssRule(
+				':root', 
+				'--' + mnt.variables.fontVariationSettings + '-bold', 
+				mnt.methods.getFontVariationBold(fontSettings)
+			), stylesheet.cssRules.length 
+		);
+	},
+	adtLoadPanel: function(fkFontPath) {
+		console.log('function begin');
+		var xhr = new XMLHttpRequest();
+		xhr.open('GET', fkFontPath, true);
+		xhr.responseType = 'arraybuffer';
+
+		var fkFont = null;
+
+		xhr.onload = function() {
+			console.log('onload');
+			if (xhr.readyState == 4) {
+				console.log('sth');
+				var fkBlob = this.response;
+				console.log(this.response);
+				var fkBuffer = new Buffer(fkBlob);
+				console.log(fkBuffer);
+				fkFont = fontkit.create(fkBuffer);
+				console.log(fkFont.postscriptName);
+				console.log('fkFont.postscriptName');
 			}
 		}
 
-		if (!mnt.methods.isPropertySupported(mnt.variables.fontVariationSettings)) {
-			return false;
-		}
-
-		stylesheet.insertRule(
-			mnt.methods.getCssRule(
-				mnt.variables.outputTagForStyles, 
-				mnt.variables.fontVariationSettings, 
-				fontSettings
-			), stylesheet.cssRules.length );
-		
-		stylesheet.insertRule(
-			mnt.methods.getCssRule(
-				mnt.variables.boldElements.join(', '), 
-				mnt.variables.fontVariationSettings, 
-				mnt.methods.getFontVariationBold(fontSettings)
-			), stylesheet.cssRules.length );
+	  xhr.send();
 	}
 };
 
@@ -162,4 +202,5 @@ mnt.settingsSection = {
 // Start everything
 document.addEventListener("DOMContentLoaded", function() {
 	mnt.init();
+	mnt.methods.adtLoadPanel('./fonts/Monoto-VF.woff');
 });
