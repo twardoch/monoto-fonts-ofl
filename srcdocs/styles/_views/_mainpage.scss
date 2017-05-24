@@ -4,7 +4,7 @@ body {
 	font-family: $font-main;
 	font-size: 100%;
 	-webkit-font-smoothing: antialiased;
-	font-variation-settings: "wdth" 100, "wght" 90;
+	font-variation-settings: var(--font-variation-settings);
 	letter-spacing: 0.02em;
 }
 
@@ -17,6 +17,10 @@ section {
 	width: 100%;
 	max-width: $dim-container-width;
 	margin: 0 auto;
+}
+
+fieldset {
+	padding: 0 10px 20px;
 }
 
 .input-set.range {
@@ -133,5 +137,6 @@ section {
 strong,
 b {
 	font-weight: normal;
+	font-variation-settings: var(--font-variation-settings-bold);
 }
 	

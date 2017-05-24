@@ -18,6 +18,8 @@ autoprefixer = require('gulp-autoprefixer'), // adds prefixes to CSS
     livereload = require('gulp-livereload'), // livereload
     del = require('del'), // deletes files
     ttf2woff = require('gulp-ttf2woff'), // converts fonts from TTF to woff
+    browserify = require('browserify'),
+    source = require('vinyl-source-stream'),
 
     // Paths
     pathToStyles = 'styles/',
@@ -91,6 +93,16 @@ gulp.task('ttfToWoff', ['clean-fonts'], function() {
     .pipe(ttf2woff())
     .pipe(gulp.dest(pathToDocs + 'fonts/'))
 })
+
+// Fonts: get font object
+gulp.task('browserify', function() {
+    return browserify('./test/fontkit-include.js')
+        .bundle()
+        //Pass desired output filename to vinyl-source-stream
+        .pipe(source('fontkit.js'))
+        // Start piping stream to tasks!
+        .pipe(gulp.dest('../docs/vendors'));
+});
 
 // Clean build
 gulp.task('clean', function () {

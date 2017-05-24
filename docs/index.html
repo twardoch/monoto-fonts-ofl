@@ -14,25 +14,10 @@
 			<div id="console" class="console">
 				<div id="settingsWrapper" class="settings-wrapper">
 					<button type="button" id="settingsButton" title="Settings">&nbsp;</button>
-					<ul>
-						<li class="input-set range">
-							<output class="range-value">5</output>
-							<input type="range" min="30" max="72" value="62" name="width-axis" id="wdth" class="range-input">
-							<label for="wdth" class="range-label">wdth</label>
-						</li>
-						<!-- TODO: remove below -->
-						<li class="input-set range">
-							<output class="range-value">5</output>
-							<input type="range" min="100" max="900" value="400" name="width-axis" id="wght" class="range-input">
-							<label for="wght">wgth</label>
-						</li>
-						<li class="input-set range">
-							<output class="range-value">5</output>
-							<input type="range" min="1060" max="1600" value="1500" name="width-axis" id="ssth" class="range-input">
-							<label for="ssth">ssth</label>
-						</li>
-					</ul>
-
+					<div id="settingsSection">
+						<!--<h2>Choose font</h2>-->
+						<!--<h3>Adjust typo</h3>-->
+					</div>
 				</div>
 				<div class="console-content">
 					<header>
@@ -383,6 +368,19 @@ Copyright 1999-2017 QuinStreet, Inc. All rights reserved.
 				</div>        
 			</div>
 		</section>
+		<template id="inputRange">
+			<li class="input-set range">
+				<output class="range-value"></output>
+				<input type="range" min="" max="" value="" name="width-axis" id="wdth" class="range-input">
+				<label for="wdth" class="range-label">wdth</label>
+			</li>
+		</template>
 	</body>
+
+	<footer>
+		<p>Created by Twardoch & Sekuła</p>
+	</footer>
+
+	<script type="text/javascript" src="vendors/fontkit.js"></script>
 	<script type="text/javascript" src="scripts/main.js"></script>
 </html>

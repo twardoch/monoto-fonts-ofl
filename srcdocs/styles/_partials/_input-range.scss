@@ -13,6 +13,12 @@
 	background: $color-silver;
 }
 
+input,
+output,
+label {
+	font-variation-settings: none;
+}
+
 // Reset `input[type="range"]`
 input[type=range] {
 	-webkit-appearance: none; // Hides the slider so that custom slider can be made
@@ -77,5 +83,25 @@ input[type=range] {
 	&::-ms-fill-upper {
 		background: $color-silver;
 		border: none;
+	}
+}
+
+input[type=radio] {
+	color: black;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	display: none;
+
+	&:checked ~label {
+		background-color: #eee;
+	}
+
+
+	& ~ label {
+		color: black;
+		width: 100%;
+		display: block;
+		padding: 3px 5px;
 	}
 }

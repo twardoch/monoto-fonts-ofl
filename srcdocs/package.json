@@ -15,6 +15,7 @@
   "author": "Adam Twardoch <adam+github@twardoch.com>",
   "license": "(OFL-1.1 AND Apache-2.0)",
   "devDependencies": {
+    "browserify": "^14.0.0",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
@@ -30,6 +31,7 @@
     "gulp-sourcemaps": "^2.4.0",
     "gulp-ttf2woff": "^1.1.0",
     "gulp-uglify": "^2.0.1",
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
