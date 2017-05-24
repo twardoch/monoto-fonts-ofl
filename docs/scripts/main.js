@@ -97,7 +97,7 @@ mnt.helpers = {
      * @returns {number}
      */
     setWghtAxisBoldValue: function(value, maxValue) {
-        return value + (maxValue - value) * 0.6;
+        return parseInt(value) + (maxValue - value) * 0.6;
     }
 };
 
